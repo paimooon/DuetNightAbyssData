@@ -1,0 +1,26 @@
+[
+  {
+    "IconPath": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_MyFri.T_Tab_MyFri'",
+    "TabId": 1,
+    "Text": "UI_Friend_MyFriend",
+    "WidgetName": "MyFriend"
+  },
+  {
+    "IconPath": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_AddFri.T_Tab_AddFri'",
+    "TabId": 2,
+    "Text": "UI_Friend_AddFriend",
+    "WidgetName": "AddFriend"
+  },
+  {
+    "IconPath": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_RecentFri.T_Tab_RecentFri'",
+    "TabId": 3,
+    "Text": "UI_Friend_RecentMatch",
+    "WidgetName": "RecentMatch"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_SettingLang",
+    "TabId": 4,
+    "Text": "UI_Friend_Region",
+    "WidgetName": "RegionFriend"
+  }
+]

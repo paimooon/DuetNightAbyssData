@@ -1,0 +1,89 @@
+{
+  "1000": {
+    "UIName": [
+      "DungenonDefenseProFloat",
+      "GuideCountDown",
+      "WaveStartBP"
+    ],
+    "UIParamID": 1000,
+    "UIParams": [
+      {
+        "mytestkey": "mytestvalue"
+      },
+      {
+        "mytestkey1": "mytestvalue1"
+      },
+      {
+        "mytestkey2": "mytestvalue2"
+      }
+    ]
+  },
+  "1002": {
+    "UIName": [
+      "RegionMultiDestroyProgress"
+    ],
+    "UIParamID": 1002,
+    "UIParams": [
+      {
+        "MultiDestroy_1": "DUNGEON_ENGINE_102",
+        "MultiDestroy_2": "DUNGEON_ENGINE_104",
+        "MultiDestroy_3": "DUNGEON_ENGINE_101",
+        "MultiDestroy_4": "DUNGEON_ENGINE_103",
+        "TotalPointNums": 4
+      }
+    ]
+  },
+  "1003": {
+    "UIName": [
+      "RegionCoDefenceProgress",
+      "DungenonDefenseProFloat"
+    ],
+    "UIParamID": 1003,
+    "UIParams": [
+      {
+        "CoDefence_1": "DUNGEON_DEFENCE_114",
+        "CoDefence_2": "DUNGEON_DEFENCE_115",
+        "CoDefence_3": "DUNGEON_DEFENCE_116",
+        "CoDefence_4": "DUNGEON_DEFENCE_117",
+        "CoDefence_5": "DUNGEON_DEFENCE_118",
+        "CoDefence_6": "DUNGEON_DEFENCE_119",
+        "CoDefence_7": "DUNGEON_DEFENCE_120",
+        "TotalPointNums": 3
+      },
+      {
+        "DefenceProSubTitle": "UI_Mail_Date_Remain",
+        "DefenceProTitle": "DUNGEON_NAME_20003"
+      }
+    ]
+  },
+  "1004": {
+    "UIName": [
+      "RegionHijackFloatPanel"
+    ],
+    "UIParamID": 1004,
+    "UIParams": [
+      {
+        "HijackPanel_1": "DUNGEON_PAOTAI_201",
+        "HijackPanel_2": "DUNGEON_PAOTAI_202"
+      }
+    ]
+  },
+  "1005": {
+    "UIName": [
+      "RegionCoDefenceProgress"
+    ],
+    "UIParamID": 1005,
+    "UIParams": [
+      {
+        "CoDefence_1": "DUNGEON_DEFENCE_114",
+        "CoDefence_2": "DUNGEON_DEFENCE_115",
+        "CoDefence_3": "DUNGEON_DEFENCE_116",
+        "CoDefence_4": "DUNGEON_DEFENCE_117",
+        "CoDefence_5": "DUNGEON_DEFENCE_118",
+        "CoDefence_6": "DUNGEON_DEFENCE_119",
+        "CoDefence_7": "DUNGEON_DEFENCE_120",
+        "TotalPointNums": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,1116 @@
+{
+  "100001": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 100001,
+    "DelayInfo": {
+      "AttachRotation": true,
+      "DelayTime": 3,
+      "WarnEventCd": 1
+    },
+    "HitEnemy": [
+      850052
+    ],
+    "HitScene": [
+      850052
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_electircball_yb_002.m_electircball_yb_002",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 2,
+      "ScaleDuration": 3
+    },
+    "ShapeInfo": {
+      "Radius": 32,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5,
+    "Vars": {
+      "IsTest": true
+    }
+  },
+  "100002": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreature.BP_DanmakuCreature",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 100002,
+    "HitScene": [
+      850052
+    ],
+    "ShapeInfo": {
+      "Radius": 32,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5,
+    "Vars": {
+      "IsTest": true
+    }
+  },
+  "30401": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossTuosi_Skill07.BP_DanmakuCreature_BossTuosi_Skill07",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "CanHitDurScale": true,
+    "DanmakuCreatureId": 30401,
+    "HitEnemy": [
+      30425
+    ],
+    "HitScene": [
+      30426
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_ball_Taki_001.m_ball_Taki_001",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1.5,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 500,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 13
+  },
+  "600000401": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Strong_Thunder_Bullet.BP_DanmakuCreature_Strong_Thunder_Bullet",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 600000401,
+    "HitScene": [
+      10
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_lightningBall_xl_011.m_lightningBall_xl_011",
+    "ShapeInfo": {
+      "Radius": 60,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 80,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10,
+    "Vars": {
+      "DamageInterval": 0.5,
+      "SkillEffectId": 600000402
+    }
+  },
+  "850041": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossXibi_Skill05.BP_DanmakuCreature_BossXibi_Skill05",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 850041,
+    "HitEnemy": [
+      850052
+    ],
+    "HitScene": [
+      8500152
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_electircball_yb_002.m_electircball_yb_002",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 0.5,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5
+  },
+  "850051": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossXibi_Skill05.BP_DanmakuCreature_BossXibi_Skill05",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 850051,
+    "HitEnemy": [
+      850052
+    ],
+    "HitScene": [
+      8500152
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_electircball_yb_002.m_electircball_yb_002",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 0.5,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 300,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850101": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossLizhan_Skill10.BP_DanmakuCreature_BossLizhan_Skill10",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850101,
+    "GravityCoefficient": 0.4,
+    "HitEnemy": [
+      8501148
+    ],
+    "HitScene": [
+      8501149
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 1,
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 300,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850102": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossLizhan_Skill10.BP_DanmakuCreature_BossLizhan_Skill10",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850102,
+    "GravityCoefficient": 0.4,
+    "HitEnemy": [
+      8501148
+    ],
+    "HitScene": [
+      8501149
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 1,
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 300,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850201": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossSaiqi_Skill19.BP_DanmakuCreature_BossSaiqi_Skill19",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850201,
+    "GravityCoefficient": 0.6,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 300,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5
+  },
+  "850202": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossSaiqi_Skill19.BP_DanmakuCreature_BossSaiqi_Skill19",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850202,
+    "GravityCoefficient": 0.4,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 400,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5
+  },
+  "850203": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossSaiqi_Skill19.BP_DanmakuCreature_BossSaiqi_Skill19",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850203,
+    "GravityCoefficient": 0.3,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 600,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5
+  },
+  "850402": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850402,
+    "DelayInfo": {
+      "AttachRotation": true,
+      "DelayTime": 2
+    },
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 2500,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5
+  },
+  "850414": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850414,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 700,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850416": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850416,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 300,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850417": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850417,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 600,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850418": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850418,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 900,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850419": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850419,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850420": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850420,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 400,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850421": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": 2,
+    "DanmakuCreatureId": 850421,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_002.m_saiqibossball_002",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 4,
+    "TraceRange": {
+      "Means": "Permanent",
+      "Range": 500
+    },
+    "TraceSpeed": 60
+  },
+  "850422": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": 2,
+    "DanmakuCreatureId": 850422,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_002.m_saiqibossball_002",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850423": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatureInstanced.BP_DanmakuCreatureInstanced",
+    "BoundCount": 1,
+    "BreakCount": 2,
+    "DanmakuCreatureId": 850423,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_002.m_saiqibossball_002",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 500,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850424": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850424,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 160,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850425": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850425,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 460,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850426": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850426,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 760,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850427": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850427,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850428": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850428,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1500,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850429": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850429,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1800,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850430": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850430,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 2100,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850431": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850431,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1060,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850432": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850432,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1360,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850433": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850433,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1660,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850434": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_Suspend_Bullet.BP_DanmakuCreature_Suspend_Bullet",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850434,
+    "GravityCoefficient": 7,
+    "HitEnemy": [
+      850441
+    ],
+    "HitScene": [
+      850441
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_saiqibossball_003.m_saiqibossball_003",
+    "ParabolaDelay": 3,
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 1
+    },
+    "ShapeInfo": {
+      "Radius": 30,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1960,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "850901": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossTuosi_Skill07.BP_DanmakuCreature_BossTuosi_Skill07",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "CanHitDurScale": true,
+    "DanmakuCreatureId": 850901,
+    "HitEnemy": [
+      850917
+    ],
+    "HitScene": [
+      850918
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_ball_Taki_001.m_ball_Taki_001",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1.5,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1000,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 4
+  },
+  "850902": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossTuosi_Skill07.BP_DanmakuCreature_BossTuosi_Skill07",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "CanHitDurScale": true,
+    "DanmakuCreatureId": 850902,
+    "HitEnemy": [
+      850917
+    ],
+    "HitScene": [
+      850918
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_ball_Taki_001.m_ball_Taki_001",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 2.5,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1000,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 4
+  },
+  "850903": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossTuosi_Skill0801.BP_DanmakuCreature_BossTuosi_Skill0801",
+    "BoundCount": -1,
+    "BreakCount": -1,
+    "CanHitDurScale": true,
+    "DanmakuCreatureId": 850903,
+    "HitEnemy": [
+      850927
+    ],
+    "HitScene": [
+      850928
+    ],
+    "ScaleInfo": {
+      "BeginScale": 4,
+      "EndScale": 38,
+      "ScaleDuration": 11
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 0,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 11
+  },
+  "850904": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossTuosi_Skill0802.BP_DanmakuCreature_BossTuosi_Skill0802",
+    "BoundCount": -1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 850904,
+    "HitEnemy": [
+      850930
+    ],
+    "HitScene": [
+      850931
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_ball_Taki_001.m_ball_Taki_001",
+    "ScaleInfo": {
+      "BeginScale": 0.5,
+      "EndScale": 1,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 400,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 10
+  },
+  "851301": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossKuxiu.BP_DanmakuCreature_BossKuxiu",
+    "BoundCount": 1,
+    "BreakCount": -1,
+    "DanmakuCreatureId": 851301,
+    "HitEnemy": [
+      851330
+    ],
+    "HitScene": [
+      851331
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_electircball_yb_001.m_electircball_yb_001",
+    "RootSourceHit": true,
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 400,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 4
+  },
+  "851501": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossJushi01.BP_DanmakuCreature_BossJushi01",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 851501,
+    "HitEnemy": [
+      851508
+    ],
+    "HitScene": [
+      851509
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_electircball_wyc_001.m_electircball_wyc_001",
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1000,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 8
+  },
+  "851502": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossJushi02.BP_DanmakuCreature_BossJushi02",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 851502,
+    "HitEnemy": [
+      851523
+    ],
+    "HitScene": [
+      851524
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_electircball_wyc_001.m_electircball_wyc_001",
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 700,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5
+  },
+  "851901": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_CommonRadius50.BP_DanmakuCreature_CommonRadius50",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "DanmakuCreatureId": 851901,
+    "HitEnemy": [
+      851905
+    ],
+    "HitScene": [
+      851906
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_electircball_yb_002.m_electircball_yb_002",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1200,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 5
+  },
+  "852001": {
+    "BPPath": "/Game/BluePrints/Combat/Danmaku/BP_DanmakuCreatures/BP_DanmakuCreature_BossTuosi_Skill07.BP_DanmakuCreature_BossTuosi_Skill07",
+    "BoundCount": 1,
+    "BreakCount": 1,
+    "CanHitDurScale": true,
+    "DanmakuCreatureId": 852001,
+    "HitEnemy": [
+      852099
+    ],
+    "HitScene": [
+      8520100
+    ],
+    "MatPath": "/Game/Asset/Effect/Material/Lightning/m_ball_Taki_001.m_ball_Taki_001",
+    "ScaleInfo": {
+      "BeginScale": 0,
+      "EndScale": 1.5,
+      "ScaleDuration": 0.5
+    },
+    "ShapeInfo": {
+      "Radius": 50,
+      "ShapeType": "Sphere"
+    },
+    "Speed": 1000,
+    "Tags": [
+      "Bullet"
+    ],
+    "TimeLife": 4
+  }
+}

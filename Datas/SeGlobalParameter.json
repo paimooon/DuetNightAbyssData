@@ -1,0 +1,14 @@
+{
+  "VoHitHeavyDmg": {
+    "SeGlobalParam": "VoHitHeavyDmg",
+    "SeGlobalValue": 0.3
+  },
+  "VoHitHeavySeId": {
+    "SeGlobalParam": "VoHitHeavySeId",
+    "SeGlobalValue": 202
+  },
+  "VoHitLightSeId": {
+    "SeGlobalParam": "VoHitLightSeId",
+    "SeGlobalValue": 201
+  }
+}

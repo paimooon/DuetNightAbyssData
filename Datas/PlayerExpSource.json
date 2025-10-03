@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "Sequence": 100,
+    "SourceName": "PlayerLevel_CharProgress"
+  },
+  {
+    "ID": 2,
+    "Sequence": 90,
+    "SourceName": "PlayerLevel_WeaponProgress"
+  },
+  {
+    "ID": 3,
+    "Sequence": 80,
+    "SourceName": "PlayerLevel_PetProgress"
+  },
+  {
+    "ID": 4,
+    "Sequence": 70,
+    "SourceName": "PlayerLevel_ModProgress"
+  },
+  {
+    "ID": 5,
+    "Sequence": 60,
+    "SourceName": "PlayerLevel_OtherExpSource"
+  }
+]

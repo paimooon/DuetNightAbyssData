@@ -1,0 +1,2319 @@
+{
+  "1": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0.5,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "StartBlackScreen": [
+      0.5,
+      0.5
+    ],
+    "SuccessBlackScreen": [
+      0.5,
+      0.5
+    ],
+    "UniversalConfigId": 1
+  },
+  "1001": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Id": [
+        1,
+        2
+      ],
+      "Type": "Part"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 1001
+  },
+  "1003": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "RDT_CommonData"
+    ],
+    "SetPlayerTransform": "QuestPoint_LizhanBossBattle",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1003
+  },
+  "1004": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "SetPlayerTransform": "BP_TargetPoint110104",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1004
+  },
+  "1005": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1005
+  },
+  "1006": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1006
+  },
+  "1008": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1008
+  },
+  "1009": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData",
+      "RDT_None"
+    ],
+    "UniversalConfigId": 1009
+  },
+  "101": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_IcelakeHunting_Defence",
+    "StartBlackScreen": [
+      0.5,
+      0.5
+    ],
+    "SuccessBlackScreen": [
+      0.5,
+      0.5
+    ],
+    "UniversalConfigId": 101
+  },
+  "1010": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1010
+  },
+  "1011": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "SetPlayerTransform": "QuestPoint_LizhanBossBattle",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1011
+  },
+  "1012": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1012
+  },
+  "1013": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 1013
+  },
+  "1014": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1014
+  },
+  "1015": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "FailureGuidanceCombinationId": 100003,
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1015
+  },
+  "1017": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1017
+  },
+  "1018": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1018
+  },
+  "1019": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1019
+  },
+  "102": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 102
+  },
+  "1021": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1021
+  },
+  "1023": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1023
+  },
+  "1024": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      1
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1024
+  },
+  "1025": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1025
+  },
+  "1026": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 1026
+  },
+  "103": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 103
+  },
+  "1030": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1030
+  },
+  "1031": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 1031
+  },
+  "1032": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1032
+  },
+  "1033": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1033
+  },
+  "1034": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1034
+  },
+  "1035": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "FailureGuidanceCombinationId": 100001,
+    "IfChangeESC": 1,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1035
+  },
+  "1036": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "FailureGuidanceCombinationId": 100001,
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1036
+  },
+  "1037": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 1037
+  },
+  "104": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 104
+  },
+  "1040": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 1040
+  },
+  "1047": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1047
+  },
+  "1048": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1048
+  },
+  "1049": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1049
+  },
+  "105": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 105
+  },
+  "1050": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1050
+  },
+  "1051": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "UniversalConfigId": 1051
+  },
+  "1052": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1052
+  },
+  "1054": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "20010303_pPlayer",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1054
+  },
+  "1055": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1055
+  },
+  "1056": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1056
+  },
+  "1057": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData",
+      "RDT_CommonData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 1057
+  },
+  "106": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "SetPlayerTransform": "QuestPoint_SaiqiWalkStart",
+    "StartBlackScreen": [
+      0,
+      0.5
+    ],
+    "UniversalConfigId": 106
+  },
+  "107": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "SetPlayerTransform": "QuestPoint_SaiqiWalk_GetCamera",
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 107
+  },
+  "109": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfStartStoryMode": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 109
+  },
+  "110": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "SetPlayerTransform": "QuestPoint_ShijingzheBossBattle",
+    "UniversalConfigId": 110
+  },
+  "111": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "IsBossBattle": true,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData"
+    ],
+    "UniversalConfigId": 111
+  },
+  "112": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 112
+  },
+  "113": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "On"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData",
+      "RDT_None"
+    ],
+    "UniversalConfigId": 113
+  },
+  "114": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "On"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData",
+      "RDT_None"
+    ],
+    "UniversalConfigId": 114
+  },
+  "117": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "FailureGuidanceCombinationId": 100002,
+    "HideBattlePet": true,
+    "IfChangeESC": 1,
+    "IfInActiveInteractive": {
+      "Type": "On"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData",
+      "RDT_None"
+    ],
+    "UniversalConfigId": 117
+  },
+  "118": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "IfChangeESC": 1,
+    "IfInActiveInteractive": {
+      "Type": "On"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData",
+      "RDT_None"
+    ],
+    "UniversalConfigId": 118
+  },
+  "120": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData",
+      "RDT_CommonData",
+      "RDT_None"
+    ],
+    "UniversalConfigId": 120
+  },
+  "12000208": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0.5,
+      0.5
+    ],
+    "UniversalConfigId": 12000208
+  },
+  "12000307": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_RarelyData"
+    ],
+    "StartBlackScreen": [
+      0.5,
+      0.5
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 12000307
+  },
+  "2001": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Nai01StartPoint",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2001
+  },
+  "2002": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Nai02StartPoint",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2002
+  },
+  "20020901": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 20020901
+  },
+  "2003": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2003
+  },
+  "20030401": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 20030401
+  },
+  "20030402": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 20030402
+  },
+  "2004": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 2004
+  },
+  "2005": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "IfChangeESC": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "UniversalConfigId": 2005
+  },
+  "2006": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Batt01StartPoint",
+    "UniversalConfigId": 2006
+  },
+  "2008": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Batt01StartPoint",
+    "UniversalConfigId": 2008
+  },
+  "2009": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Batt02StartPoint",
+    "UniversalConfigId": 2009
+  },
+  "2010": {
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "IfChangeESC": 1,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Batt03StartPoint",
+    "UniversalConfigId": 2010
+  },
+  "2051": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaAwake",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2051
+  },
+  "2052": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina01Walk",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2052
+  },
+  "2053": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina01Catch01",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2053
+  },
+  "2054": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina01Catch02",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2054
+  },
+  "2055": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina01Catch03",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2055
+  },
+  "2056": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina01Back",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2056
+  },
+  "2057": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaSleep",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2057
+  },
+  "2058": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaAwake",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "SuccessBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2058
+  },
+  "2059": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2059
+  },
+  "2060": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2060
+  },
+  "2061": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2061
+  },
+  "2062": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2062
+  },
+  "2063": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaSleep",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2063
+  },
+  "2064": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaAwake",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2064
+  },
+  "2065": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2065
+  },
+  "2066": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina03Catch",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2066
+  },
+  "2067": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaSleep",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2067
+  },
+  "2070": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaAwake",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2070
+  },
+  "2071": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2071
+  },
+  "2072": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2072
+  },
+  "2073": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaAwake",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2073
+  },
+  "2074": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2074
+  },
+  "2075": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina04Find01",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2075
+  },
+  "2076": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2076
+  },
+  "2077": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina04Fight",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2077
+  },
+  "2078": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "All"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2078
+  },
+  "2079": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_Feina04BackCity02",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2079
+  },
+  "2080": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2080
+  },
+  "2081": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaSleep",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2081
+  },
+  "2082": {
+    "DisableBattleWheel": true,
+    "FailBlackScreen": [
+      0.5,
+      0,
+      2
+    ],
+    "FailBlackScreenText": "UI_Quest_QuestFail",
+    "HideBattlePet": true,
+    "HideBattleWheel": true,
+    "IfChangeESC": 1,
+    "IfCloseRegionOnline": true,
+    "IfDestoryPhantom": 1,
+    "IfInActiveInteractive": {
+      "Type": "Off"
+    },
+    "IfInitPlayer": true,
+    "IfStartStoryMode": 1,
+    "IfWaitDead": 1,
+    "RegionDataType": [
+      "RDT_QuestData"
+    ],
+    "SetPlayerTransform": "QuestPoint_FeinaSleep",
+    "StartBlackScreen": [
+      0,
+      0
+    ],
+    "UniversalConfigId": 2082
+  }
+}

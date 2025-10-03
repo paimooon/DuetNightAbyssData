@@ -1,0 +1,233 @@
+{
+  "101": {
+    "Accuracys": [
+      {
+        "Accuracy": 38,
+        "Range": [
+          0,
+          25
+        ]
+      },
+      {
+        "Accuracy": 30,
+        "Range": [
+          25,
+          50
+        ]
+      },
+      {
+        "Accuracy": 18,
+        "Range": [
+          50,
+          75
+        ]
+      },
+      {
+        "Accuracy": 9,
+        "Range": [
+          75,
+          100
+        ]
+      },
+      {
+        "Accuracy": 5,
+        "Range": [
+          100,
+          125
+        ]
+      }
+    ],
+    "BulletAccId": 101
+  },
+  "102": {
+    "Accuracys": [
+      {
+        "Accuracy": 38,
+        "Range": [
+          0,
+          100
+        ]
+      },
+      {
+        "Accuracy": 30,
+        "Range": [
+          100,
+          200
+        ]
+      },
+      {
+        "Accuracy": 18,
+        "Range": [
+          200,
+          300
+        ]
+      },
+      {
+        "Accuracy": 9,
+        "Range": [
+          300,
+          400
+        ]
+      },
+      {
+        "Accuracy": 5,
+        "Range": [
+          400,
+          500
+        ]
+      }
+    ],
+    "BulletAccId": 102
+  },
+  "103": {
+    "Accuracys": [
+      {
+        "Accuracy": 70,
+        "Range": [
+          0,
+          376
+        ]
+      },
+      {
+        "Accuracy": 30,
+        "Range": [
+          376,
+          752
+        ]
+      }
+    ],
+    "BulletAccId": 103
+  },
+  "104": {
+    "Accuracys": [
+      {
+        "Accuracy": 70,
+        "Range": [
+          0,
+          282
+        ]
+      },
+      {
+        "Accuracy": 30,
+        "Range": [
+          282,
+          564
+        ]
+      }
+    ],
+    "BulletAccId": 104
+  },
+  "105": {
+    "Accuracys": [
+      {
+        "Accuracy": 70,
+        "Range": [
+          0,
+          188
+        ]
+      },
+      {
+        "Accuracy": 30,
+        "Range": [
+          188,
+          376
+        ]
+      }
+    ],
+    "BulletAccId": 105
+  },
+  "2": {
+    "Accuracys": [
+      {
+        "Accuracy": 20,
+        "Range": [
+          0,
+          25
+        ]
+      },
+      {
+        "Accuracy": 0,
+        "Range": [
+          25,
+          50
+        ]
+      },
+      {
+        "Accuracy": 20,
+        "Range": [
+          50,
+          75
+        ]
+      },
+      {
+        "Accuracy": 20,
+        "Range": [
+          75,
+          100
+        ]
+      },
+      {
+        "Accuracy": 20,
+        "Range": [
+          100,
+          125
+        ]
+      },
+      {
+        "Accuracy": 20,
+        "Range": [
+          125,
+          150
+        ]
+      }
+    ],
+    "BulletAccId": 2
+  },
+  "600201": {
+    "Accuracys": [
+      {
+        "Accuracy": 38,
+        "Range": [
+          0,
+          30
+        ]
+      },
+      {
+        "Accuracy": 30,
+        "Range": [
+          30,
+          60
+        ]
+      },
+      {
+        "Accuracy": 18,
+        "Range": [
+          60,
+          100
+        ]
+      },
+      {
+        "Accuracy": 9,
+        "Range": [
+          100,
+          140
+        ]
+      },
+      {
+        "Accuracy": 3,
+        "Range": [
+          140,
+          200
+        ]
+      },
+      {
+        "Accuracy": 2,
+        "Range": [
+          200,
+          250
+        ]
+      }
+    ],
+    "BulletAccId": 600201
+  }
+}

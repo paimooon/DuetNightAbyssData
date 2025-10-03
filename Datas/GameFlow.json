@@ -1,0 +1,32 @@
+{
+  "GetItemPage": {
+    "Channel": "GetItemPage",
+    "GameFlow": "GetItemPage",
+    "Priority": 100
+  },
+  "ImmersiveStory": {
+    "Channel": "ImmersiveStory",
+    "GameFlow": "ImmersiveStory",
+    "Priority": 100
+  },
+  "OpenSystemUI": {
+    "Channel": "OpenSystemUI",
+    "GameFlow": "OpenSystemUI",
+    "Priority": 100
+  },
+  "SkillFeature": {
+    "Channel": "SkillFeature",
+    "GameFlow": "SkillFeature",
+    "Priority": 100
+  },
+  "SystemGuideWithUI": {
+    "Channel": "SystemGuideWithUI",
+    "GameFlow": "SystemGuideWithUI",
+    "Priority": 100
+  },
+  "SystemGuideWithoutUI": {
+    "Channel": "SystemGuideWithoutUI",
+    "GameFlow": "SystemGuideWithoutUI",
+    "Priority": 100
+  }
+}

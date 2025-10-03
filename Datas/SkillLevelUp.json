@@ -1,0 +1,11780 @@
+{
+  "110101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 110101,
+      "SkillLevel": 9
+    }
+  ],
+  "110102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 110102,
+      "SkillLevel": 9
+    }
+  ],
+  "110103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 110103,
+      "SkillLevel": 9
+    }
+  ],
+  "110301": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 110301,
+      "SkillLevel": 9
+    }
+  ],
+  "110302": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 110302,
+      "SkillLevel": 9
+    }
+  ],
+  "110303": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 110303,
+      "SkillLevel": 9
+    }
+  ],
+  "150101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150101,
+      "SkillLevel": 9
+    }
+  ],
+  "150102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150102,
+      "SkillLevel": 9
+    }
+  ],
+  "150103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150103,
+      "SkillLevel": 9
+    }
+  ],
+  "150201": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150201,
+      "SkillLevel": 9
+    }
+  ],
+  "150202": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150202,
+      "SkillLevel": 9
+    }
+  ],
+  "150203": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150203,
+      "SkillLevel": 9
+    }
+  ],
+  "150301": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150301,
+      "SkillLevel": 9
+    }
+  ],
+  "150302": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150302,
+      "SkillLevel": 9
+    }
+  ],
+  "150303": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 150303,
+      "SkillLevel": 9
+    }
+  ],
+  "160101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 160101,
+      "SkillLevel": 9
+    }
+  ],
+  "160102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 160102,
+      "SkillLevel": 9
+    }
+  ],
+  "160103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 160103,
+      "SkillLevel": 9
+    }
+  ],
+  "180101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 180101,
+      "SkillLevel": 9
+    }
+  ],
+  "180102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 180102,
+      "SkillLevel": 9
+    }
+  ],
+  "180103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20011,
+        20018
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20011,
+        20018,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 180103,
+      "SkillLevel": 9
+    }
+  ],
+  "210101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 210101,
+      "SkillLevel": 9
+    }
+  ],
+  "210102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 210102,
+      "SkillLevel": 9
+    }
+  ],
+  "210103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 210103,
+      "SkillLevel": 9
+    }
+  ],
+  "210201": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 210201,
+      "SkillLevel": 9
+    }
+  ],
+  "210202": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 210202,
+      "SkillLevel": 9
+    }
+  ],
+  "210203": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 210203,
+      "SkillLevel": 9
+    }
+  ],
+  "230101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 230101,
+      "SkillLevel": 9
+    }
+  ],
+  "230102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 230102,
+      "SkillLevel": 9
+    }
+  ],
+  "230103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 230103,
+      "SkillLevel": 9
+    }
+  ],
+  "240101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 240101,
+      "SkillLevel": 9
+    }
+  ],
+  "240102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 240102,
+      "SkillLevel": 9
+    }
+  ],
+  "240103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20005,
+        20020
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20005,
+        20020,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20024,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20031,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 240103,
+      "SkillLevel": 9
+    }
+  ],
+  "310101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310101,
+      "SkillLevel": 9
+    }
+  ],
+  "310102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310102,
+      "SkillLevel": 9
+    }
+  ],
+  "310103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310103,
+      "SkillLevel": 9
+    }
+  ],
+  "310201": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310201,
+      "SkillLevel": 9
+    }
+  ],
+  "310202": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310202,
+      "SkillLevel": 9
+    }
+  ],
+  "310203": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310203,
+      "SkillLevel": 9
+    }
+  ],
+  "310301": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310301,
+      "SkillLevel": 9
+    }
+  ],
+  "310302": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310302,
+      "SkillLevel": 9
+    }
+  ],
+  "310303": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 310303,
+      "SkillLevel": 9
+    }
+  ],
+  "320101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 320101,
+      "SkillLevel": 9
+    }
+  ],
+  "320102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 320102,
+      "SkillLevel": 9
+    }
+  ],
+  "320103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 320103,
+      "SkillLevel": 9
+    }
+  ],
+  "320201": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 320201,
+      "SkillLevel": 9
+    }
+  ],
+  "320202": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 320202,
+      "SkillLevel": 9
+    }
+  ],
+  "320203": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 320203,
+      "SkillLevel": 9
+    }
+  ],
+  "330101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 330101,
+      "SkillLevel": 9
+    }
+  ],
+  "330102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 330102,
+      "SkillLevel": 9
+    }
+  ],
+  "330103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20002,
+        20019
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20002,
+        20019,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 330103,
+      "SkillLevel": 9
+    }
+  ],
+  "410101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 410101,
+      "SkillLevel": 9
+    }
+  ],
+  "410102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 410102,
+      "SkillLevel": 9
+    }
+  ],
+  "410103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 410103,
+      "SkillLevel": 9
+    }
+  ],
+  "410201": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 410201,
+      "SkillLevel": 9
+    }
+  ],
+  "410202": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 410202,
+      "SkillLevel": 9
+    }
+  ],
+  "410203": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 410203,
+      "SkillLevel": 9
+    }
+  ],
+  "420101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 420101,
+      "SkillLevel": 9
+    }
+  ],
+  "420102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 420102,
+      "SkillLevel": 9
+    }
+  ],
+  "420103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 420103,
+      "SkillLevel": 9
+    }
+  ],
+  "420201": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 420201,
+      "SkillLevel": 9
+    }
+  ],
+  "420202": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 420202,
+      "SkillLevel": 9
+    }
+  ],
+  "420203": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 420203,
+      "SkillLevel": 9
+    }
+  ],
+  "430101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 430101,
+      "SkillLevel": 9
+    }
+  ],
+  "430102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 430102,
+      "SkillLevel": 9
+    }
+  ],
+  "430103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20012,
+        20017
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20012,
+        20017,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10101
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10101,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 430103,
+      "SkillLevel": 9
+    }
+  ],
+  "510101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 510101,
+      "SkillLevel": 9
+    }
+  ],
+  "510102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 510102,
+      "SkillLevel": 9
+    }
+  ],
+  "510103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 510103,
+      "SkillLevel": 9
+    }
+  ],
+  "510201": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 510201,
+      "SkillLevel": 9
+    }
+  ],
+  "510202": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 510202,
+      "SkillLevel": 9
+    }
+  ],
+  "510203": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10102
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10102,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 510203,
+      "SkillLevel": 9
+    }
+  ],
+  "530101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 530101,
+      "SkillLevel": 9
+    }
+  ],
+  "530102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 530102,
+      "SkillLevel": 9
+    }
+  ],
+  "530103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1400,
+        3,
+        1
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2600,
+        6,
+        2
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        3200,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7300,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        9000,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        30000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10103
+      ],
+      "ItemNum": [
+        47000,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        90000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10103,
+        10100
+      ],
+      "ItemNum": [
+        170000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 530103,
+      "SkillLevel": 9
+    }
+  ],
+  "540101": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 540101,
+      "SkillLevel": 9
+    }
+  ],
+  "540102": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 540102,
+      "SkillLevel": 9
+    }
+  ],
+  "540103": [
+    {
+      "CharBreakLevel": 1,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        1120,
+        3,
+        1
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 1
+    },
+    {
+      "CharBreakLevel": 2,
+      "ItemId": [
+        101,
+        20009,
+        20014
+      ],
+      "ItemNum": [
+        2080,
+        6,
+        2
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 2
+    },
+    {
+      "CharBreakLevel": 3,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        2560,
+        9,
+        3,
+        4
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 3
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        5840,
+        15,
+        5,
+        6
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 4
+    },
+    {
+      "CharBreakLevel": 4,
+      "ItemId": [
+        101,
+        20009,
+        20014,
+        20013
+      ],
+      "ItemNum": [
+        7200,
+        30,
+        10,
+        8
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 5
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        24000,
+        10,
+        6,
+        1
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 6
+    },
+    {
+      "CharBreakLevel": 5,
+      "ItemId": [
+        101,
+        20013,
+        20021,
+        10104
+      ],
+      "ItemNum": [
+        37600,
+        10,
+        8,
+        1
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 7
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        72000,
+        1,
+        2,
+        1
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 8
+    },
+    {
+      "CharBreakLevel": 6,
+      "ItemId": [
+        101,
+        20030,
+        10104,
+        10100
+      ],
+      "ItemNum": [
+        136000,
+        2,
+        2,
+        1
+      ],
+      "SkillId": 540103,
+      "SkillLevel": 9
+    }
+  ]
+}

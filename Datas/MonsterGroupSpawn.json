@@ -1,0 +1,5038 @@
+{
+  "1": {
+    "GroupDetectDelayTime": 5,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      2000,
+      2100
+    ],
+    "GroupLevel": [
+      0,
+      0
+    ],
+    "GroupLimit": 30,
+    "GroupNumber": [
+      4,
+      4
+    ],
+    "GroupRadius": 800,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 4,
+    "GroupSpawnId": 1,
+    "GroupThreshold": 20,
+    "GroupUnitSpawnCenterRange": [
+      500,
+      510
+    ],
+    "GroupWeight": [
+      2,
+      2
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7020
+    ]
+  },
+  "11": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      300,
+      500
+    ],
+    "GroupLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "GroupLimit": 30,
+    "GroupNumber": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 11,
+    "GroupThreshold": 25,
+    "GroupUnitSpawnCenterRange": [
+      300,
+      500
+    ],
+    "GroupWeight": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "2": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 30,
+    "GroupNumber": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 4,
+    "GroupSpawnId": 2,
+    "GroupThreshold": 20,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7011,
+      7020,
+      7021,
+      7030
+    ]
+  },
+  "3": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 30,
+    "GroupNumber": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 4,
+    "GroupSpawnId": 3,
+    "GroupThreshold": 20,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021,
+      6030
+    ]
+  },
+  "4": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0,
+      0
+    ],
+    "GroupLimit": 30,
+    "GroupNumber": [
+      4,
+      4
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 4,
+    "GroupSpawnId": 4,
+    "GroupThreshold": 20,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      8010,
+      8020
+    ]
+  },
+  "4020101": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 4020101,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020102": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 25,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 2,
+    "GroupSpawnId": 4020102,
+    "GroupThreshold": 15,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020201": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 4020201,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020202": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 25,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 2,
+    "GroupSpawnId": 4020202,
+    "GroupThreshold": 15,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020301": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 4020301,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020302": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 25,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 2,
+    "GroupSpawnId": 4020302,
+    "GroupThreshold": 15,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020401": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 4020401,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020402": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 25,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 2,
+    "GroupSpawnId": 4020402,
+    "GroupThreshold": 15,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020501": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 4020501,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020502": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 25,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 2,
+    "GroupSpawnId": 4020502,
+    "GroupThreshold": 15,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020601": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 4020601,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020602": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 25,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 2,
+    "GroupSpawnId": 4020602,
+    "GroupThreshold": 15,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020701": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 4020701,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "4020702": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 25,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 2,
+    "GroupSpawnId": 4020702,
+    "GroupThreshold": 15,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "5": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 2,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0,
+      0
+    ],
+    "GroupLimit": 30,
+    "GroupNumber": [
+      4,
+      4
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 4,
+    "GroupSpawnId": 5,
+    "GroupThreshold": 20,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      9010,
+      9020
+    ]
+  },
+  "6001012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6001012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6001012
+    ]
+  },
+  "6001013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6001013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6001013
+    ]
+  },
+  "6001014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6001014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6001014
+    ]
+  },
+  "6001016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6001016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6001016
+    ]
+  },
+  "6001018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6001018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6001018
+    ]
+  },
+  "6002011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6002011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6002011
+    ]
+  },
+  "6002015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6002015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6002015
+    ]
+  },
+  "6002016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6002016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6002016
+    ]
+  },
+  "6002017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6002017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6002017
+    ]
+  },
+  "6002018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6002018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6002018
+    ]
+  },
+  "60037": {
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 35,
+    "GroupNumber": [
+      3,
+      1,
+      1,
+      1
+    ],
+    "GroupRadius": 800,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 60037,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      3,
+      1,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "6004013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 6004013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      6004013
+    ]
+  },
+  "60055": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 60055,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "60073": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      1,
+      4,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 60073,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      1,
+      3,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021
+    ]
+  },
+  "60137": {
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 35,
+    "GroupNumber": [
+      3,
+      1,
+      1,
+      1,
+      1
+    ],
+    "GroupRadius": 800,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 60137,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      3,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021,
+      6030
+    ]
+  },
+  "60155": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      1,
+      3,
+      1,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 60155,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021,
+      6030
+    ]
+  },
+  "60173": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      1,
+      4,
+      1,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 60173,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      1,
+      3,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      6010,
+      6011,
+      6020,
+      6021,
+      6030
+    ]
+  },
+  "7001011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7001011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7001011
+    ]
+  },
+  "7001015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7001015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7001015
+    ]
+  },
+  "7001016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7001016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7001016
+    ]
+  },
+  "7001017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7001017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7001017
+    ]
+  },
+  "7001018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7001018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7001018
+    ]
+  },
+  "7002011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7002011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7002011
+    ]
+  },
+  "7002012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7002012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7002012
+    ]
+  },
+  "7002013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7002013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7002013
+    ]
+  },
+  "7002014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7002014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7002014
+    ]
+  },
+  "7002016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7002016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7002016
+    ]
+  },
+  "7002018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7002018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7002018
+    ]
+  },
+  "7003011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7003011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7003011
+    ]
+  },
+  "7003015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7003015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7003015
+    ]
+  },
+  "7003016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7003016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7003016
+    ]
+  },
+  "7003017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7003017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7003017
+    ]
+  },
+  "7003018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7003018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7003018
+    ]
+  },
+  "70037": {
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 35,
+    "GroupNumber": [
+      3,
+      1,
+      1
+    ],
+    "GroupRadius": 800,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 70037,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      3,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7020,
+      7022
+    ]
+  },
+  "70055": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      3,
+      3,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 70055,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      2,
+      1
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7020,
+      7022
+    ]
+  },
+  "70073": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      4,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 70073,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      3,
+      1
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7020,
+      7022
+    ]
+  },
+  "7008601": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 7008601,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      7021
+    ]
+  },
+  "70137": {
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 35,
+    "GroupNumber": [
+      2,
+      1,
+      1,
+      1
+    ],
+    "GroupRadius": 800,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 70137,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7020,
+      7022,
+      6010
+    ]
+  },
+  "70155": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      3,
+      1,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 70155,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      2,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7020,
+      7022,
+      6010
+    ]
+  },
+  "70173": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      3,
+      1,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 70173,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      2,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      7010,
+      7020,
+      7022,
+      6020
+    ]
+  },
+  "8001011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001011
+    ]
+  },
+  "8001012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001012
+    ]
+  },
+  "8001013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001013
+    ]
+  },
+  "8001014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001014
+    ]
+  },
+  "8001015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001015
+    ]
+  },
+  "8001016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001016
+    ]
+  },
+  "8001017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001017
+    ]
+  },
+  "8001018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001018
+    ]
+  },
+  "8001019": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001019,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001019
+    ]
+  },
+  "8001020": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001020,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001020
+    ]
+  },
+  "8001021": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001021,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001021
+    ]
+  },
+  "8001022": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001022,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001022
+    ]
+  },
+  "8001023": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001023,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001023
+    ]
+  },
+  "8001024": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8001024,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8001024
+    ]
+  },
+  "8002011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002011
+    ]
+  },
+  "8002012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002012
+    ]
+  },
+  "8002013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002013
+    ]
+  },
+  "8002014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002014
+    ]
+  },
+  "8002015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002015
+    ]
+  },
+  "8002016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002016
+    ]
+  },
+  "8002017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002017
+    ]
+  },
+  "8002018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002018
+    ]
+  },
+  "8002019": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002019,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002019
+    ]
+  },
+  "8002020": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002020,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002020
+    ]
+  },
+  "8002021": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002021,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002021
+    ]
+  },
+  "8002022": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002022,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002022
+    ]
+  },
+  "8002023": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002023,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002023
+    ]
+  },
+  "8002024": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8002024,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8002024
+    ]
+  },
+  "8003011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003011
+    ]
+  },
+  "8003012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003012
+    ]
+  },
+  "8003013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003013
+    ]
+  },
+  "8003014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003014
+    ]
+  },
+  "8003015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003015
+    ]
+  },
+  "8003016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003016
+    ]
+  },
+  "8003017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003017
+    ]
+  },
+  "8003018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003018
+    ]
+  },
+  "8003019": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003019,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003019
+    ]
+  },
+  "8003020": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003020,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003020
+    ]
+  },
+  "8003021": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003021,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003021
+    ]
+  },
+  "8003022": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003022,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003022
+    ]
+  },
+  "8003023": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003023,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003023
+    ]
+  },
+  "8003024": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 8003024,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      8003024
+    ]
+  },
+  "80037": {
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 35,
+    "GroupNumber": [
+      2,
+      1,
+      2
+    ],
+    "GroupRadius": 800,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 80037,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2
+    ],
+    "MonsterGroupIds": [
+      8010,
+      8020,
+      6010
+    ]
+  },
+  "80055": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 80055,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      8010,
+      8020,
+      6010,
+      6020
+    ]
+  },
+  "80073": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      4,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 80073,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      2,
+      2
+    ],
+    "MonsterGroupIds": [
+      8010,
+      8020,
+      6020
+    ]
+  },
+  "9001011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001011
+    ]
+  },
+  "9001012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001012
+    ]
+  },
+  "9001013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001013
+    ]
+  },
+  "9001014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001014
+    ]
+  },
+  "9001015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001015
+    ]
+  },
+  "9001016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001016
+    ]
+  },
+  "9001017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001017
+    ]
+  },
+  "9001018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001018
+    ]
+  },
+  "9001019": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001019,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001019
+    ]
+  },
+  "9001020": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001020,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001020
+    ]
+  },
+  "9001021": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001021,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001021
+    ]
+  },
+  "9001022": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001022,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001022
+    ]
+  },
+  "9001023": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001023,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001023
+    ]
+  },
+  "9001024": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9001024,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9001024
+    ]
+  },
+  "9002011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002011
+    ]
+  },
+  "9002012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002012
+    ]
+  },
+  "9002013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002013
+    ]
+  },
+  "9002014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002014
+    ]
+  },
+  "9002015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002015
+    ]
+  },
+  "9002016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002016
+    ]
+  },
+  "9002017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002017
+    ]
+  },
+  "9002018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002018
+    ]
+  },
+  "9002019": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002019,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002019
+    ]
+  },
+  "9002020": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002020,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002020
+    ]
+  },
+  "9002021": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002021,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002021
+    ]
+  },
+  "9002022": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002022,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002022
+    ]
+  },
+  "9002023": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002023,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002023
+    ]
+  },
+  "9002024": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9002024,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9002024
+    ]
+  },
+  "90037": {
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 35,
+    "GroupNumber": [
+      2,
+      1,
+      2
+    ],
+    "GroupRadius": 800,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 90037,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      1,
+      2
+    ],
+    "MonsterGroupIds": [
+      9010,
+      9020,
+      6010
+    ]
+  },
+  "90055": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 90055,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "MonsterGroupIds": [
+      9010,
+      9020,
+      6010,
+      6020
+    ]
+  },
+  "9007011": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007011,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007011
+    ]
+  },
+  "9007012": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007012,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007012
+    ]
+  },
+  "9007013": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007013,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007013
+    ]
+  },
+  "9007014": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007014,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007014
+    ]
+  },
+  "9007015": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007015,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007015
+    ]
+  },
+  "9007016": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007016,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007016
+    ]
+  },
+  "9007017": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007017,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007017
+    ]
+  },
+  "9007018": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007018,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007018
+    ]
+  },
+  "9007019": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007019,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007019
+    ]
+  },
+  "9007020": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007020,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007020
+    ]
+  },
+  "9007021": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007021,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007021
+    ]
+  },
+  "9007022": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007022,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007022
+    ]
+  },
+  "9007023": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007023,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007023
+    ]
+  },
+  "9007024": {
+    "CloseGroupReplenish": true,
+    "GroupDetectDelayTime": 0,
+    "GroupDetectTime": 0,
+    "GroupInitUnitSpawnCenterRange": [
+      1000,
+      1500
+    ],
+    "GroupLevel": [
+      0
+    ],
+    "GroupLimit": 60,
+    "GroupNumber": [
+      1
+    ],
+    "GroupRadius": 300,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 0,
+    "GroupSpawnId": 9007024,
+    "GroupThreshold": 10,
+    "GroupUnitSpawnCenterRange": [
+      1500,
+      2000
+    ],
+    "GroupWeight": [
+      1
+    ],
+    "MonsterGroupIds": [
+      9007024
+    ]
+  },
+  "90073": {
+    "GroupDetectDelayTime": 3,
+    "GroupDetectTime": 1,
+    "GroupInitUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupLevel": [
+      0,
+      0,
+      0
+    ],
+    "GroupLimit": 50,
+    "GroupNumber": [
+      2,
+      4,
+      1
+    ],
+    "GroupRadius": 500,
+    "GroupRangeZ": 500,
+    "GroupReplenishInterval": 1,
+    "GroupSpawnId": 90073,
+    "GroupThreshold": 30,
+    "GroupUnitSpawnCenterRange": [
+      1200,
+      2000
+    ],
+    "GroupWeight": [
+      1,
+      2,
+      2
+    ],
+    "MonsterGroupIds": [
+      9010,
+      9020,
+      6020
+    ]
+  }
+}

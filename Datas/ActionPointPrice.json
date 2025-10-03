@@ -1,0 +1,42 @@
+[
+  {
+    "PurchasePrice": 40,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 1
+  },
+  {
+    "PurchasePrice": 60,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 2
+  },
+  {
+    "PurchasePrice": 60,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 3
+  },
+  {
+    "PurchasePrice": 100,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 4
+  },
+  {
+    "PurchasePrice": 100,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 5
+  },
+  {
+    "PurchasePrice": 150,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 6
+  },
+  {
+    "PurchasePrice": 150,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 7
+  },
+  {
+    "PurchasePrice": 200,
+    "PurchaseResourceId": 100,
+    "PurchaseTime": 8
+  }
+]

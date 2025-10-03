@@ -1,0 +1,17 @@
+[
+  {
+    "MiniGameScore": [
+      0,
+      1600,
+      3200
+    ],
+    "ScoreId": 1
+  },
+  {
+    "MiniGameScore": [
+      0,
+      100
+    ],
+    "ScoreId": 2
+  }
+]

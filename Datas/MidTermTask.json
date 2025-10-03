@@ -1,0 +1,1495 @@
+{
+  "1001": {
+    "EnableDay": 1,
+    "JumpUIId": 21,
+    "Target": 3,
+    "TargetId": [
+      1900101
+    ],
+    "TaskDes": "MidTermGoal_Des_0_1",
+    "TaskId": 1001,
+    "TaskType": 3
+  },
+  "1002": {
+    "EnableDay": 1,
+    "JumpUIId": 20,
+    "Target": 5,
+    "TargetId": [
+      30101
+    ],
+    "TaskDes": "MidTermGoal_Des_0_2",
+    "TaskId": 1002,
+    "TaskType": 3
+  },
+  "2011": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50931
+    ],
+    "TaskDes": "MidTermGoal_Des_1_1",
+    "TaskId": 2011,
+    "TaskType": 1
+  },
+  "2012": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50930
+    ],
+    "TaskDes": "MidTermGoal_Des_1_2",
+    "TaskId": 2012,
+    "TaskType": 2
+  },
+  "2013": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_1_3",
+    "TaskId": 2013,
+    "TaskType": 2
+  },
+  "2014": {
+    "EnableDay": 1,
+    "JumpUIId": 31,
+    "Target": 3,
+    "TargetId": [
+      10120
+    ],
+    "TaskDes": "MidTermGoal_Des_1_4",
+    "TaskId": 2014,
+    "TaskType": 2
+  },
+  "2021": {
+    "EnableDay": 2,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50938
+    ],
+    "TaskDes": "MidTermGoal_Des_2_1",
+    "TaskId": 2021,
+    "TaskType": 1
+  },
+  "2022": {
+    "EnableDay": 2,
+    "JumpUIId": 19,
+    "Target": 300,
+    "TargetId": [
+      10102
+    ],
+    "TaskDes": "MidTermGoal_Des_2_2",
+    "TaskId": 2022,
+    "TaskType": 2
+  },
+  "2023": {
+    "EnableDay": 2,
+    "JumpUIId": 47,
+    "Target": 1,
+    "TargetId": [
+      30603
+    ],
+    "TaskDes": "MidTermGoal_Des_2_3",
+    "TaskId": 2023,
+    "TaskType": 2
+  },
+  "2024": {
+    "EnableDay": 2,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_2_4",
+    "TaskId": 2024,
+    "TaskType": 2
+  },
+  "2031": {
+    "EnableDay": 3,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      50933
+    ],
+    "TaskDes": "MidTermGoal_Des_3_1",
+    "TaskId": 2031,
+    "TaskType": 1
+  },
+  "2032": {
+    "EnableDay": 3,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      30301,
+      30302,
+      30303
+    ],
+    "TaskDes": "MidTermGoal_Des_3_2",
+    "TaskId": 2032,
+    "TaskType": 2
+  },
+  "2033": {
+    "EnableDay": 3,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      30302,
+      30303
+    ],
+    "TaskDes": "MidTermGoal_Des_3_3",
+    "TaskId": 2033,
+    "TaskType": 2
+  },
+  "2034": {
+    "EnableDay": 3,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      2004
+    ],
+    "TaskDes": "MidTermGoal_Des_3_4",
+    "TaskId": 2034,
+    "TaskType": 2
+  },
+  "2041": {
+    "EnableDay": 4,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50934
+    ],
+    "TaskDes": "MidTermGoal_Des_4_1",
+    "TaskId": 2041,
+    "TaskType": 1
+  },
+  "2042": {
+    "EnableDay": 4,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50934
+    ],
+    "TaskDes": "MidTermGoal_Des_4_2",
+    "TaskId": 2042,
+    "TaskType": 2
+  },
+  "2043": {
+    "EnableDay": 4,
+    "JumpUIId": 19,
+    "Target": 4,
+    "TargetId": [
+      10121
+    ],
+    "TaskDes": "MidTermGoal_Des_4_3",
+    "TaskId": 2043,
+    "TaskType": 2
+  },
+  "2044": {
+    "EnableDay": 4,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_4_4",
+    "TaskId": 2044,
+    "TaskType": 2
+  },
+  "2051": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50935
+    ],
+    "TaskDes": "MidTermGoal_Des_5_1",
+    "TaskId": 2051,
+    "TaskType": 1
+  },
+  "2052": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50935
+    ],
+    "TaskDes": "MidTermGoal_Des_5_2",
+    "TaskId": 2052,
+    "TaskType": 2
+  },
+  "2053": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10120
+    ],
+    "TaskDes": "MidTermGoal_Des_5_3",
+    "TaskId": 2053,
+    "TaskType": 2
+  },
+  "2054": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_5_4",
+    "TaskId": 2054,
+    "TaskType": 2
+  },
+  "2061": {
+    "EnableDay": 6,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50936
+    ],
+    "TaskDes": "MidTermGoal_Des_6_1",
+    "TaskId": 2061,
+    "TaskType": 1
+  },
+  "2062": {
+    "EnableDay": 6,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50936
+    ],
+    "TaskDes": "MidTermGoal_Des_6_2",
+    "TaskId": 2062,
+    "TaskType": 2
+  },
+  "2063": {
+    "EnableDay": 6,
+    "JumpUIId": 19,
+    "Target": 4,
+    "TargetId": [
+      10123
+    ],
+    "TaskDes": "MidTermGoal_Des_6_3",
+    "TaskId": 2063,
+    "TaskType": 2
+  },
+  "2064": {
+    "EnableDay": 6,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_6_4",
+    "TaskId": 2064,
+    "TaskType": 2
+  },
+  "2071": {
+    "EnableDay": 7,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50937
+    ],
+    "TaskDes": "MidTermGoal_Des_7_1",
+    "TaskId": 2071,
+    "TaskType": 1
+  },
+  "2072": {
+    "EnableDay": 7,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50937
+    ],
+    "TaskDes": "MidTermGoal_Des_7_2",
+    "TaskId": 2072,
+    "TaskType": 2
+  },
+  "2073": {
+    "EnableDay": 7,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10124
+    ],
+    "TaskDes": "MidTermGoal_Des_7_3",
+    "TaskId": 2073,
+    "TaskType": 2
+  },
+  "2074": {
+    "EnableDay": 7,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_7_4",
+    "TaskId": 2074,
+    "TaskType": 2
+  },
+  "2081": {
+    "EnableDay": 8,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50931
+    ],
+    "TaskDes": "MidTermGoal_Des_1_1",
+    "TaskId": 2081,
+    "TaskType": 1
+  },
+  "2082": {
+    "EnableDay": 8,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50930
+    ],
+    "TaskDes": "MidTermGoal_Des_1_2",
+    "TaskId": 2082,
+    "TaskType": 2
+  },
+  "2083": {
+    "EnableDay": 8,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_1_3",
+    "TaskId": 2083,
+    "TaskType": 2
+  },
+  "2084": {
+    "EnableDay": 8,
+    "JumpUIId": 31,
+    "Target": 3,
+    "TargetId": [
+      10120
+    ],
+    "TaskDes": "MidTermGoal_Des_1_4",
+    "TaskId": 2084,
+    "TaskType": 2
+  },
+  "2091": {
+    "EnableDay": 9,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50938
+    ],
+    "TaskDes": "MidTermGoal_Des_2_1",
+    "TaskId": 2091,
+    "TaskType": 1
+  },
+  "2092": {
+    "EnableDay": 9,
+    "JumpUIId": 19,
+    "Target": 300,
+    "TargetId": [
+      10102
+    ],
+    "TaskDes": "MidTermGoal_Des_2_2",
+    "TaskId": 2092,
+    "TaskType": 2
+  },
+  "2093": {
+    "EnableDay": 9,
+    "JumpUIId": 47,
+    "Target": 1,
+    "TargetId": [
+      30603
+    ],
+    "TaskDes": "MidTermGoal_Des_2_3",
+    "TaskId": 2093,
+    "TaskType": 2
+  },
+  "2094": {
+    "EnableDay": 9,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_2_4",
+    "TaskId": 2094,
+    "TaskType": 2
+  },
+  "2101": {
+    "EnableDay": 10,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      50933
+    ],
+    "TaskDes": "MidTermGoal_Des_3_1",
+    "TaskId": 2101,
+    "TaskType": 1
+  },
+  "2102": {
+    "EnableDay": 10,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      30301,
+      30302,
+      30303
+    ],
+    "TaskDes": "MidTermGoal_Des_3_2",
+    "TaskId": 2102,
+    "TaskType": 2
+  },
+  "2103": {
+    "EnableDay": 10,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      30302,
+      30303
+    ],
+    "TaskDes": "MidTermGoal_Des_3_3",
+    "TaskId": 2103,
+    "TaskType": 2
+  },
+  "2104": {
+    "EnableDay": 10,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      2004
+    ],
+    "TaskDes": "MidTermGoal_Des_3_4",
+    "TaskId": 2104,
+    "TaskType": 2
+  },
+  "2111": {
+    "EnableDay": 11,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50934
+    ],
+    "TaskDes": "MidTermGoal_Des_4_1",
+    "TaskId": 2111,
+    "TaskType": 1
+  },
+  "2112": {
+    "EnableDay": 11,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50934
+    ],
+    "TaskDes": "MidTermGoal_Des_4_2",
+    "TaskId": 2112,
+    "TaskType": 2
+  },
+  "2113": {
+    "EnableDay": 11,
+    "JumpUIId": 19,
+    "Target": 4,
+    "TargetId": [
+      10121
+    ],
+    "TaskDes": "MidTermGoal_Des_4_3",
+    "TaskId": 2113,
+    "TaskType": 2
+  },
+  "2114": {
+    "EnableDay": 11,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_4_4",
+    "TaskId": 2114,
+    "TaskType": 2
+  },
+  "2121": {
+    "EnableDay": 12,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50935
+    ],
+    "TaskDes": "MidTermGoal_Des_5_1",
+    "TaskId": 2121,
+    "TaskType": 1
+  },
+  "2122": {
+    "EnableDay": 12,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50935
+    ],
+    "TaskDes": "MidTermGoal_Des_5_2",
+    "TaskId": 2122,
+    "TaskType": 2
+  },
+  "2123": {
+    "EnableDay": 12,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10120
+    ],
+    "TaskDes": "MidTermGoal_Des_5_3",
+    "TaskId": 2123,
+    "TaskType": 2
+  },
+  "2124": {
+    "EnableDay": 12,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_5_4",
+    "TaskId": 2124,
+    "TaskType": 2
+  },
+  "2131": {
+    "EnableDay": 13,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50936
+    ],
+    "TaskDes": "MidTermGoal_Des_6_1",
+    "TaskId": 2131,
+    "TaskType": 1
+  },
+  "2132": {
+    "EnableDay": 13,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50936
+    ],
+    "TaskDes": "MidTermGoal_Des_6_2",
+    "TaskId": 2132,
+    "TaskType": 2
+  },
+  "2133": {
+    "EnableDay": 13,
+    "JumpUIId": 19,
+    "Target": 4,
+    "TargetId": [
+      10123
+    ],
+    "TaskDes": "MidTermGoal_Des_6_3",
+    "TaskId": 2133,
+    "TaskType": 2
+  },
+  "2134": {
+    "EnableDay": 13,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_6_4",
+    "TaskId": 2134,
+    "TaskType": 2
+  },
+  "2141": {
+    "EnableDay": 14,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50937
+    ],
+    "TaskDes": "MidTermGoal_Des_7_1",
+    "TaskId": 2141,
+    "TaskType": 1
+  },
+  "2142": {
+    "EnableDay": 14,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50937
+    ],
+    "TaskDes": "MidTermGoal_Des_7_2",
+    "TaskId": 2142,
+    "TaskType": 2
+  },
+  "2143": {
+    "EnableDay": 14,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10124
+    ],
+    "TaskDes": "MidTermGoal_Des_7_3",
+    "TaskId": 2143,
+    "TaskType": 2
+  },
+  "2144": {
+    "EnableDay": 14,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_7_4",
+    "TaskId": 2144,
+    "TaskType": 2
+  },
+  "2151": {
+    "EnableDay": 15,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50931
+    ],
+    "TaskDes": "MidTermGoal_Des_1_1",
+    "TaskId": 2151,
+    "TaskType": 1
+  },
+  "2152": {
+    "EnableDay": 15,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50930
+    ],
+    "TaskDes": "MidTermGoal_Des_1_2",
+    "TaskId": 2152,
+    "TaskType": 2
+  },
+  "2153": {
+    "EnableDay": 15,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_1_3",
+    "TaskId": 2153,
+    "TaskType": 2
+  },
+  "2154": {
+    "EnableDay": 15,
+    "JumpUIId": 31,
+    "Target": 3,
+    "TargetId": [
+      10120
+    ],
+    "TaskDes": "MidTermGoal_Des_1_4",
+    "TaskId": 2154,
+    "TaskType": 2
+  },
+  "2161": {
+    "EnableDay": 16,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50938
+    ],
+    "TaskDes": "MidTermGoal_Des_2_1",
+    "TaskId": 2161,
+    "TaskType": 1
+  },
+  "2162": {
+    "EnableDay": 16,
+    "JumpUIId": 19,
+    "Target": 300,
+    "TargetId": [
+      10102
+    ],
+    "TaskDes": "MidTermGoal_Des_2_2",
+    "TaskId": 2162,
+    "TaskType": 2
+  },
+  "2163": {
+    "EnableDay": 16,
+    "JumpUIId": 47,
+    "Target": 1,
+    "TargetId": [
+      30603
+    ],
+    "TaskDes": "MidTermGoal_Des_2_3",
+    "TaskId": 2163,
+    "TaskType": 2
+  },
+  "2164": {
+    "EnableDay": 16,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_2_4",
+    "TaskId": 2164,
+    "TaskType": 2
+  },
+  "2171": {
+    "EnableDay": 17,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      50933
+    ],
+    "TaskDes": "MidTermGoal_Des_3_1",
+    "TaskId": 2171,
+    "TaskType": 1
+  },
+  "2172": {
+    "EnableDay": 17,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      30301,
+      30302,
+      30303
+    ],
+    "TaskDes": "MidTermGoal_Des_3_2",
+    "TaskId": 2172,
+    "TaskType": 2
+  },
+  "2173": {
+    "EnableDay": 17,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      30302,
+      30303
+    ],
+    "TaskDes": "MidTermGoal_Des_3_3",
+    "TaskId": 2173,
+    "TaskType": 2
+  },
+  "2174": {
+    "EnableDay": 17,
+    "JumpUIId": 20,
+    "Target": 1,
+    "TargetId": [
+      2004
+    ],
+    "TaskDes": "MidTermGoal_Des_3_4",
+    "TaskId": 2174,
+    "TaskType": 2
+  },
+  "2181": {
+    "EnableDay": 18,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50934
+    ],
+    "TaskDes": "MidTermGoal_Des_4_1",
+    "TaskId": 2181,
+    "TaskType": 1
+  },
+  "2182": {
+    "EnableDay": 18,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50934
+    ],
+    "TaskDes": "MidTermGoal_Des_4_2",
+    "TaskId": 2182,
+    "TaskType": 2
+  },
+  "2183": {
+    "EnableDay": 18,
+    "JumpUIId": 19,
+    "Target": 4,
+    "TargetId": [
+      10121
+    ],
+    "TaskDes": "MidTermGoal_Des_4_3",
+    "TaskId": 2183,
+    "TaskType": 2
+  },
+  "2184": {
+    "EnableDay": 18,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_4_4",
+    "TaskId": 2184,
+    "TaskType": 2
+  },
+  "2191": {
+    "EnableDay": 19,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50935
+    ],
+    "TaskDes": "MidTermGoal_Des_5_1",
+    "TaskId": 2191,
+    "TaskType": 1
+  },
+  "2192": {
+    "EnableDay": 19,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50935
+    ],
+    "TaskDes": "MidTermGoal_Des_5_2",
+    "TaskId": 2192,
+    "TaskType": 2
+  },
+  "2193": {
+    "EnableDay": 19,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10120
+    ],
+    "TaskDes": "MidTermGoal_Des_5_3",
+    "TaskId": 2193,
+    "TaskType": 2
+  },
+  "2194": {
+    "EnableDay": 19,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_5_4",
+    "TaskId": 2194,
+    "TaskType": 2
+  },
+  "2201": {
+    "EnableDay": 20,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50936
+    ],
+    "TaskDes": "MidTermGoal_Des_6_1",
+    "TaskId": 2201,
+    "TaskType": 1
+  },
+  "2202": {
+    "EnableDay": 20,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50936
+    ],
+    "TaskDes": "MidTermGoal_Des_6_2",
+    "TaskId": 2202,
+    "TaskType": 2
+  },
+  "2203": {
+    "EnableDay": 20,
+    "JumpUIId": 19,
+    "Target": 4,
+    "TargetId": [
+      10123
+    ],
+    "TaskDes": "MidTermGoal_Des_6_3",
+    "TaskId": 2203,
+    "TaskType": 2
+  },
+  "2204": {
+    "EnableDay": 20,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_6_4",
+    "TaskId": 2204,
+    "TaskType": 2
+  },
+  "2211": {
+    "EnableDay": 21,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50937
+    ],
+    "TaskDes": "MidTermGoal_Des_7_1",
+    "TaskId": 2211,
+    "TaskType": 1
+  },
+  "2212": {
+    "EnableDay": 21,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50937
+    ],
+    "TaskDes": "MidTermGoal_Des_7_2",
+    "TaskId": 2212,
+    "TaskType": 2
+  },
+  "2213": {
+    "EnableDay": 21,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10124
+    ],
+    "TaskDes": "MidTermGoal_Des_7_3",
+    "TaskId": 2213,
+    "TaskType": 2
+  },
+  "2214": {
+    "EnableDay": 21,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_7_4",
+    "TaskId": 2214,
+    "TaskType": 2
+  },
+  "2221": {
+    "EnableDay": 22,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50931
+    ],
+    "TaskDes": "MidTermGoal_Des_1_1",
+    "TaskId": 2221,
+    "TaskType": 1
+  },
+  "2222": {
+    "EnableDay": 22,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      50930
+    ],
+    "TaskDes": "MidTermGoal_Des_1_2",
+    "TaskId": 2222,
+    "TaskType": 2
+  },
+  "2223": {
+    "EnableDay": 22,
+    "JumpUIId": 19,
+    "Target": 1,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_1_3",
+    "TaskId": 2223,
+    "TaskType": 2
+  },
+  "2224": {
+    "EnableDay": 22,
+    "JumpUIId": 31,
+    "Target": 3,
+    "TargetId": [
+      10120
+    ],
+    "TaskDes": "MidTermGoal_Des_1_4",
+    "TaskId": 2224,
+    "TaskType": 2
+  },
+  "3101": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 20,
+    "TargetId": [
+      50930
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_1",
+    "TaskId": 3101,
+    "TaskType": 4
+  },
+  "3102": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 50,
+    "TargetId": [
+      50930
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_2",
+    "TaskId": 3102,
+    "TaskType": 4
+  },
+  "3103": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 10,
+    "TargetId": [
+      50931
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_3",
+    "TaskId": 3103,
+    "TaskType": 4
+  },
+  "3104": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 15,
+    "TargetId": [
+      50931
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_4",
+    "TaskId": 3104,
+    "TaskType": 4
+  },
+  "3105": {
+    "EnableDay": 1,
+    "JumpUIId": 19,
+    "Target": 10,
+    "TargetId": [
+      10206,
+      10207,
+      10208,
+      10209
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_19",
+    "TaskId": 3105,
+    "TaskType": 4
+  },
+  "3106": {
+    "EnableDay": 1,
+    "Target": 100000,
+    "TargetId": [
+      10201
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_5",
+    "TaskId": 3106,
+    "TaskType": 4
+  },
+  "3107": {
+    "EnableDay": 1,
+    "Target": 5000,
+    "TargetId": [
+      10202
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_6",
+    "TaskId": 3107,
+    "TaskType": 4
+  },
+  "3108": {
+    "EnableDay": 1,
+    "JumpUIId": 4,
+    "Target": 5,
+    "TargetId": [
+      60802
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_11",
+    "TaskId": 3108,
+    "TaskType": 4
+  },
+  "3109": {
+    "EnableDay": 1,
+    "JumpUIId": 4,
+    "Target": 10,
+    "TargetId": [
+      60802
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_12",
+    "TaskId": 3109,
+    "TaskType": 4
+  },
+  "3110": {
+    "EnableDay": 1,
+    "JumpUIId": 4,
+    "Target": 5,
+    "TargetId": [
+      60102
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_16",
+    "TaskId": 3110,
+    "TaskType": 4
+  },
+  "3111": {
+    "EnableDay": 1,
+    "JumpUIId": 4,
+    "Target": 5,
+    "TargetId": [
+      60203
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_17",
+    "TaskId": 3111,
+    "TaskType": 4
+  },
+  "3112": {
+    "EnableDay": 1,
+    "Target": 5,
+    "TargetId": [
+      40101
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_9",
+    "TaskId": 3112,
+    "TaskType": 4
+  },
+  "3113": {
+    "EnableDay": 1,
+    "Target": 10,
+    "TargetId": [
+      40101
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_10",
+    "TaskId": 3113,
+    "TaskType": 4
+  },
+  "3114": {
+    "EnableDay": 1,
+    "JumpUIId": 49,
+    "Target": 5,
+    "TargetId": [
+      40202
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_14",
+    "TaskId": 3114,
+    "TaskType": 4
+  },
+  "3115": {
+    "EnableDay": 1,
+    "JumpUIId": 49,
+    "Target": 5,
+    "TargetId": [
+      40303
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_15",
+    "TaskId": 3115,
+    "TaskType": 4
+  },
+  "3116": {
+    "EnableDay": 1,
+    "JumpUIId": 20,
+    "Target": 30,
+    "TargetId": [
+      30101
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_7",
+    "TaskId": 3116,
+    "TaskType": 4
+  },
+  "3117": {
+    "EnableDay": 1,
+    "JumpUIId": 20,
+    "Target": 50,
+    "TargetId": [
+      30101
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_8",
+    "TaskId": 3117,
+    "TaskType": 4
+  },
+  "3118": {
+    "EnableDay": 1,
+    "JumpUIId": 20,
+    "Target": 50,
+    "TargetId": [
+      2004
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_20",
+    "TaskId": 3118,
+    "TaskType": 4
+  },
+  "3119": {
+    "EnableDay": 1,
+    "Target": 5,
+    "TargetId": [
+      1400101
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_13",
+    "TaskId": 3119,
+    "TaskType": 4
+  },
+  "3120": {
+    "EnableDay": 1,
+    "JumpUIId": 50,
+    "Target": 3,
+    "TargetId": [
+      1400201
+    ],
+    "TaskDes": "MidTermGoal_Des_A1_18",
+    "TaskId": 3120,
+    "TaskType": 4
+  },
+  "3201": {
+    "EnableDay": 5,
+    "JumpUIId": 22,
+    "Target": 3,
+    "TargetId": [
+      2300101
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_1",
+    "TaskId": 3201,
+    "TaskType": 4
+  },
+  "3202": {
+    "EnableDay": 5,
+    "JumpUIId": 22,
+    "Target": 5,
+    "TargetId": [
+      2300101
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_2",
+    "TaskId": 3202,
+    "TaskType": 4
+  },
+  "3203": {
+    "EnableDay": 5,
+    "JumpUIId": 21,
+    "Target": 10,
+    "TargetId": [
+      1900101
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_3",
+    "TaskId": 3203,
+    "TaskType": 4
+  },
+  "3204": {
+    "EnableDay": 5,
+    "JumpUIId": 21,
+    "Target": 30,
+    "TargetId": [
+      1900101
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_4",
+    "TaskId": 3204,
+    "TaskType": 4
+  },
+  "3205": {
+    "EnableDay": 5,
+    "JumpUIId": 4,
+    "Target": 1,
+    "TargetId": [
+      60106
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_9",
+    "TaskId": 3205,
+    "TaskType": 4
+  },
+  "3206": {
+    "EnableDay": 5,
+    "JumpUIId": 4,
+    "Target": 1,
+    "TargetId": [
+      60206
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_10",
+    "TaskId": 3206,
+    "TaskType": 4
+  },
+  "3207": {
+    "EnableDay": 5,
+    "JumpUIId": 49,
+    "Target": 1,
+    "TargetId": [
+      40206
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_7",
+    "TaskId": 3207,
+    "TaskType": 4
+  },
+  "3208": {
+    "EnableDay": 5,
+    "JumpUIId": 49,
+    "Target": 1,
+    "TargetId": [
+      40306
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_8",
+    "TaskId": 3208,
+    "TaskType": 4
+  },
+  "3209": {
+    "EnableDay": 5,
+    "Target": 10,
+    "TargetId": [
+      1400101
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_5",
+    "TaskId": 3209,
+    "TaskType": 4
+  },
+  "3210": {
+    "EnableDay": 5,
+    "JumpUIId": 50,
+    "Target": 5,
+    "TargetId": [
+      1400201
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_6",
+    "TaskId": 3210,
+    "TaskType": 4
+  },
+  "3211": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50920
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_11",
+    "TaskId": 3211,
+    "TaskType": 4
+  },
+  "3212": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50921
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_12",
+    "TaskId": 3212,
+    "TaskType": 4
+  },
+  "3213": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50922
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_13",
+    "TaskId": 3213,
+    "TaskType": 4
+  },
+  "3214": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50923
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_14",
+    "TaskId": 3214,
+    "TaskType": 4
+  },
+  "3215": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50924
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_15",
+    "TaskId": 3215,
+    "TaskType": 4
+  },
+  "3216": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50925
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_16",
+    "TaskId": 3216,
+    "TaskType": 4
+  },
+  "3217": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50926
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_17",
+    "TaskId": 3217,
+    "TaskType": 4
+  },
+  "3218": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50927
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_18",
+    "TaskId": 3218,
+    "TaskType": 4
+  },
+  "3219": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50928
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_19",
+    "TaskId": 3219,
+    "TaskType": 4
+  },
+  "3220": {
+    "EnableDay": 5,
+    "JumpUIId": 19,
+    "Target": 5,
+    "TargetId": [
+      50929
+    ],
+    "TaskDes": "MidTermGoal_Des_A2_20",
+    "TaskId": 3220,
+    "TaskType": 4
+  }
+}

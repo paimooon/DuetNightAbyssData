@@ -1,0 +1,193 @@
+{
+  "1180086": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101102_2",
+    "Temples": [
+      80902
+    ]
+  },
+  "1180087": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101102_3",
+    "Temples": [
+      80601
+    ]
+  },
+  "1190079": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101101_1",
+    "Temples": [
+      80301,
+      70101
+    ]
+  },
+  "1190335": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101102_1",
+    "Temples": [
+      80701
+    ]
+  },
+  "1190398": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101101_3",
+    "Temples": [
+      80901
+    ]
+  },
+  "1240130": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101103_2",
+    "Temples": [
+      80501
+    ]
+  },
+  "1240354": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101103_1",
+    "Temples": [
+      80502
+    ]
+  },
+  "1240555": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101103_3",
+    "Temples": [
+      80602
+    ]
+  },
+  "1240556": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101103_4",
+    "Temples": [
+      80302
+    ]
+  },
+  "1270033": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101301_1",
+    "Temples": [
+      80903
+    ]
+  },
+  "1440066": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101304_1",
+    "Temples": [
+      81501,
+      81502
+    ]
+  },
+  "1570001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_100102_1",
+    "Temples": [
+      80102
+    ]
+  },
+  "1580002": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_100103_1",
+    "Temples": [
+      80201
+    ]
+  },
+  "1590001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_100101_1",
+    "Temples": [
+      80101
+    ]
+  },
+  "1640108": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_102101_3",
+    "Temples": [
+      81103
+    ]
+  },
+  "1640109": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_102101_1",
+    "Temples": [
+      81101
+    ]
+  },
+  "1640264": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_102101_2",
+    "Temples": [
+      81102
+    ]
+  },
+  "1650075": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_102102_2",
+    "Temples": [
+      81002
+    ]
+  },
+  "1650076": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_102102_3",
+    "Temples": [
+      81003
+    ]
+  },
+  "1650261": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_102102_1",
+    "Temples": [
+      81001
+    ]
+  },
+  "1720062": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101701_1",
+    "Temples": [
+      80702
+    ]
+  },
+  "1720679": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101701_2",
+    "Temples": [
+      80703
+    ]
+  },
+  "1730041": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101702_1",
+    "Temples": [
+      80704
+    ]
+  },
+  "1730176": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101702_2",
+    "Temples": [
+      80705
+    ]
+  },
+  "1969954": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101901_1"
+  },
+  "2020005": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_15"
+  },
+  "2030001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_8"
+  },
+  "2040001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_6"
+  },
+  "2050001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_12"
+  },
+  "2060001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_9"
+  },
+  "2070001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_11"
+  },
+  "2080002": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_5"
+  },
+  "2080025": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_10"
+  },
+  "2080026": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_13"
+  },
+  "2080027": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_14"
+  },
+  "2090006": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_1"
+  },
+  "2090007": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_2"
+  },
+  "2100001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_7"
+  },
+  "2110001": {
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_4"
+  }
+}

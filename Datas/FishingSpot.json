@@ -1,0 +1,323 @@
+{
+  "10010101": {
+    "ConditionId": 20021501,
+    "FishCountLimit": 100,
+    "FishId": [
+      1101,
+      1102,
+      1103,
+      2101,
+      2102,
+      2103,
+      2104,
+      2105
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10010101,
+    "FishingSpotName": "FishingSpot_Name_10010101",
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Angling01.T_Tab_Angling01",
+    "LimitDeviation": 0,
+    "RegionPointId": 2814,
+    "ReplenishDay": 24,
+    "ShowFishId": [
+      2101,
+      2102,
+      2103,
+      2104,
+      2105
+    ],
+    "ShowInFishMap": true,
+    "WaterType": 1
+  },
+  "10030401": {
+    "FishCountLimit": 3,
+    "FishId": [
+      1201,
+      1202,
+      1203,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10030401,
+    "FishingSpotName": "FishingSpot_Name_10110301",
+    "LimitDeviation": 0,
+    "RegionPointId": 2815,
+    "ReplenishDay": 1,
+    "ShowFishId": [
+      2501,
+      2502,
+      2503,
+      2504,
+      2505
+    ],
+    "ShowInFishMap": false,
+    "WaterType": 2
+  },
+  "10030402": {
+    "FishCountLimit": 3,
+    "FishId": [
+      1201,
+      1202,
+      1203,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10030402,
+    "FishingSpotName": "FishingSpot_Name_10110301",
+    "LimitDeviation": 0,
+    "RegionPointId": 2815,
+    "ReplenishDay": 1,
+    "ShowFishId": [
+      2501,
+      2502,
+      2503,
+      2504,
+      2505
+    ],
+    "ShowInFishMap": false,
+    "WaterType": 2
+  },
+  "10110301": {
+    "ConditionId": 20021501,
+    "FishCountLimit": 100,
+    "FishId": [
+      1201,
+      1202,
+      1203,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10110301,
+    "FishingSpotName": "FishingSpot_Name_10110301",
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Angling02.T_Tab_Angling02",
+    "LimitDeviation": 0,
+    "RegionPointId": 2815,
+    "ReplenishDay": 24,
+    "ShowFishId": [
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ],
+    "ShowInFishMap": true,
+    "WaterType": 2
+  },
+  "10110391": {
+    "FishCountLimit": 1,
+    "FishId": [
+      1201,
+      1202,
+      1203,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10110391,
+    "FishingSpotName": "FishingSpot_Name_10110301",
+    "LimitDeviation": 0,
+    "RegionPointId": 2815,
+    "ReplenishDay": 1,
+    "ShowFishId": [
+      2501,
+      2502,
+      2503,
+      2504,
+      2505
+    ],
+    "ShowInFishMap": false,
+    "WaterType": 2
+  },
+  "10110392": {
+    "FishCountLimit": 1,
+    "FishId": [
+      1201,
+      1202,
+      1203,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10110392,
+    "FishingSpotName": "FishingSpot_Name_10110301",
+    "LimitDeviation": 0,
+    "RegionPointId": 2815,
+    "ReplenishDay": 1,
+    "ShowFishId": [
+      2501,
+      2502,
+      2503,
+      2504,
+      2505
+    ],
+    "ShowInFishMap": false,
+    "WaterType": 2
+  },
+  "10110393": {
+    "FishCountLimit": 1,
+    "FishId": [
+      1201,
+      1202,
+      1203,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10110393,
+    "FishingSpotName": "FishingSpot_Name_10110301",
+    "LimitDeviation": 0,
+    "RegionPointId": 2815,
+    "ReplenishDay": 1,
+    "ShowFishId": [
+      2501,
+      2502,
+      2503,
+      2504,
+      2505
+    ],
+    "ShowInFishMap": false,
+    "WaterType": 2
+  },
+  "10170101": {
+    "ConditionId": 20021501,
+    "FishCountLimit": 100,
+    "FishId": [
+      1301,
+      1302,
+      1303,
+      2501,
+      2502,
+      2503,
+      2504,
+      2505
+    ],
+    "FishWeight": [
+      40,
+      40,
+      40,
+      15,
+      15,
+      10,
+      0,
+      0
+    ],
+    "FishingSpotId": 10170101,
+    "FishingSpotName": "FishingSpot_Name_10170101",
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Angling03.T_Tab_Angling03",
+    "LimitDeviation": 0,
+    "RegionPointId": 2816,
+    "ReplenishDay": 24,
+    "ShowFishId": [
+      2501,
+      2502,
+      2503,
+      2504,
+      2505
+    ],
+    "ShowInFishMap": true,
+    "WaterType": 3
+  },
+  "20021501": {
+    "FishCountLimit": 3,
+    "FishId": [
+      2301
+    ],
+    "FishWeight": [
+      1
+    ],
+    "FishingSpotId": 20021501,
+    "FishingSpotName": "FishingSpot_Name_10110301",
+    "LimitDeviation": 0,
+    "RegionPointId": 2815,
+    "ReplenishDay": 1,
+    "ShowFishId": [
+      2301
+    ],
+    "ShowInFishMap": false,
+    "WaterType": 2
+  }
+}

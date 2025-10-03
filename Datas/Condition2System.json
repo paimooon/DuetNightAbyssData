@@ -1,0 +1,135 @@
+{
+  "10101001": [
+    "ExploreBadgeShop"
+  ],
+  "322": [
+    "LonzaFortressShopTab"
+  ],
+  "4010": [
+    "Bag"
+  ],
+  "4020": [
+    "Armory",
+    "PlayerLevel",
+    "Swatch"
+  ],
+  "4021": [
+    "Skill"
+  ],
+  "4030": [
+    "Shop"
+  ],
+  "4040": [
+    "Gacha"
+  ],
+  "4041": [
+    "CardLevel",
+    "UWeapon"
+  ],
+  "4050": [
+    "Map"
+  ],
+  "4060": [
+    "Invite"
+  ],
+  "4070": [
+    "Achievement",
+    "Archive",
+    "Wiki"
+  ],
+  "4080": [
+    "Forging"
+  ],
+  "4090": [
+    "Pet"
+  ],
+  "4100": [
+    "Mail"
+  ],
+  "4110": [
+    "Play"
+  ],
+  "4120": [
+    "HardBoss"
+  ],
+  "4130": [
+    "Quest"
+  ],
+  "4140": [
+    "BattleWheel"
+  ],
+  "4150": [
+    "Announcement"
+  ],
+  "4160": [
+    "Mod"
+  ],
+  "4170": [
+    "Rouge",
+    "RougeBag"
+  ],
+  "4180": [
+    "GuideBook"
+  ],
+  "4190": [
+    "FriendMain"
+  ],
+  "4200": [
+    "PhotoCameraMain"
+  ],
+  "4210": [
+    "Polarity"
+  ],
+  "4220": [
+    "GameEvent"
+  ],
+  "4230": [
+    "Party",
+    "Temple"
+  ],
+  "4240": [
+    "Match"
+  ],
+  "4250": [
+    "Entertainment"
+  ],
+  "4260": [
+    "Chat"
+  ],
+  "4270": [
+    "PetSkill"
+  ],
+  "4280": [
+    "Home"
+  ],
+  "4310": [
+    "BattlePass"
+  ],
+  "4320": [
+    "DailyGoal",
+    "Dungeon",
+    "Squad"
+  ],
+  "4330": [
+    "Dispatch"
+  ],
+  "4340": [
+    "SecretLetterShopTab",
+    "WalnutBag"
+  ],
+  "4350": [
+    "ModArchive"
+  ],
+  "4360": [
+    "ModDungeon"
+  ],
+  "4370": [
+    "StarterQuest"
+  ],
+  "4380": [
+    "PlayTaskRoot"
+  ],
+  "8002": [
+    "Abyss"
+  ]
+}

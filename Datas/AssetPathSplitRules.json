@@ -1,0 +1,2048 @@
+{
+  "101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1010101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1010101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1010201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1010201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1010301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1010301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1010401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1010401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1010501": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1010501,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1019701": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1019701,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1019801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1019801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020501": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020501,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020601": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020601,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020701": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020701,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1020901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1020901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1029801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1029801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1029901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1029901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "103": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 103,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1030101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1030101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1030201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1030201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1039801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1039801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1039901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1039901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "104": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 104,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1050101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1050101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1060101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1060101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1060102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1060102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1069801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1069801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1069802": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1069802,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1069901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1069901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1069902": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1069902,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "110101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 110101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "110102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 110102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "1801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 1801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "180101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 180101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "180121": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 180121,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "180122": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 180122,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "180123": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 180123,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "180124": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 180124,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2010101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2010101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2020101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2020101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2020201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2020201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2020301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2020301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2020401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2020401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2029601": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2029601,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2029701": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2029701,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2029801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2029801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2029901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2029901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2030101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2030101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2030301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2030301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2039801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2039801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2039901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2039901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2040101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2040101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2040201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2040201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2040301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2040301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2040401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2040401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2049801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2049801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2049901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2049901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2050101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2050101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2050201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2050201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2050301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2050301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2050401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2050401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2050701": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2050701,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2059801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2059801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2059901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2059901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2060101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2060101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2060201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2060201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2069801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2069801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2069901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2069901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "210101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 210101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "230101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 230101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "2401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 2401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "240101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 240101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "240102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 240102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "3101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 3101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310103": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310103,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "3102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 3102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310203": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310203,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310204": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310204,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310205": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310205,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310206": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310206,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310207": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310207,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310208": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310208,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "3103": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 3103,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310303": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310303,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "310304": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 310304,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "3201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 3201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "3301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 3301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "330101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 330101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "4101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 4101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "410101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 410101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "410102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 410102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "4201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 4201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "420101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 420101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "4202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 4202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "420201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 420201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "420202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 420202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "420203": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 420203,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "4301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 4301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "5101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 5101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "510101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 510101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "5301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 5301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "530101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 530101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "530102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 530102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "600101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 600101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "600201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 600201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "600202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 600202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "600301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 600301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "600401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 600401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "600501": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 600501,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700001": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700001,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700203": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700203,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700302": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700302,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700402": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700402,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700403": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700403,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700404": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700404,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700405": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700405,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700601": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700601,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700701": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700701,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700702": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700702,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700802": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700802,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "700803": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 700803,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "701201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 701201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "701301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 701301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "800101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 800101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "800102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 800102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "800201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 800201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "800202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 800202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "800301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 800301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "800302": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 800302,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850001": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850001,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850002": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850002,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850402": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850402,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850403": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850403,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850501": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850501,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850502": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850502,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850601": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850601,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "850701": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 850701,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "900101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 900101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "900301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 900301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "900401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 900401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "900501": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 900501,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "900601": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 900601,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "950001": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 950001,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "950101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 950101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "950102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 950102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "950103": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 950103,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "950104": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 950104,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980101": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980101,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980102": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980102,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980201": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980201,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980202": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980202,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980301": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980301,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980302": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980302,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980401": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980401,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980501": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980501,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980601": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980601,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980602": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980602,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980701": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980701,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980801": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980801,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980901": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980901,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  },
+  "980902": {
+    "IsPreloadMesh": true,
+    "IsPreloadWeapon": true,
+    "ModelId": 980902,
+    "MontageSuffixList": {
+      "Hit": "Combat/Hit/",
+      "Locomotion": "Locomotion/",
+      "Skill": "Combat/Skill/",
+      "SpecialIdle": "SpecialIdle/"
+    }
+  }
+}

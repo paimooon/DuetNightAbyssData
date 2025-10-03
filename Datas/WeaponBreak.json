@@ -1,0 +1,5996 @@
+{
+  "10101": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10101
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10101
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10101
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10101
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10101
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10101
+    }
+  ],
+  "10102": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10102
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10102
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10102
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10102
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10102
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10102
+    }
+  ],
+  "10103": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10103
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10103
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10103
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10103
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10103
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10103
+    }
+  ],
+  "10104": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10104
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10104
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10104
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10104
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10104
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10104
+    }
+  ],
+  "10105": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10105
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10105
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10105
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10105
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10105
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10105
+    }
+  ],
+  "10201": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10201
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10201
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10201
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10201
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10201
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10201
+    }
+  ],
+  "10202": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10202
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10202
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10202
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10202
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10202
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10202
+    }
+  ],
+  "10203": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10203
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10203
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10203
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10203
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10203
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10203
+    }
+  ],
+  "10204": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10204
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10204
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10204
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10204
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10204
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10204
+    }
+  ],
+  "10205": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10205
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10205
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10205
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10205
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10205
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10205
+    }
+  ],
+  "10206": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10206
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10206
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10206
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10206
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10206
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10206
+    }
+  ],
+  "10207": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10207
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10207
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10207
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10207
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10207
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10207
+    }
+  ],
+  "10208": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10208
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10208
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10208
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10208
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10208
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10208
+    }
+  ],
+  "10209": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20005,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10209
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20020,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10209
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20020,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10209
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10209
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10209
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20020,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10209
+    }
+  ],
+  "10301": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20011,
+        11004
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10301
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20018,
+        11004,
+        11007
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10301
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20018,
+        11005,
+        11008
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10301
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10301
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10301
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10301
+    }
+  ],
+  "10302": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20011,
+        11004
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10302
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20018,
+        11004,
+        11007
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10302
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20018,
+        11005,
+        11008
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10302
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10302
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10302
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10302
+    }
+  ],
+  "10303": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20011,
+        11004
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10303
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20018,
+        11004,
+        11007
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10303
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20018,
+        11005,
+        11008
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10303
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10303
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10303
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10303
+    }
+  ],
+  "10304": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20011,
+        11004
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10304
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20018,
+        11004,
+        11007
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10304
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20018,
+        11005,
+        11008
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10304
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10304
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10304
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20018,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10304
+    }
+  ],
+  "10401": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11004
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10401
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11004,
+        11007
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10401
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11005,
+        11008
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10401
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10401
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10401
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10401
+    }
+  ],
+  "10402": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11004
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10402
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11004,
+        11007
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10402
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11005,
+        11008
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10402
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10402
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10402
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10402
+    }
+  ],
+  "10403": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11004
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10403
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11004,
+        11007
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10403
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11005,
+        11008
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10403
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10403
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10403
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11006,
+        11009
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10403
+    }
+  ],
+  "10501": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10501
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10501
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10501
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10501
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10501
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10501
+    }
+  ],
+  "10502": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10502
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10502
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10502
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10502
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10502
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10502
+    }
+  ],
+  "10503": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10503
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10503
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10503
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10503
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10503
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10503
+    }
+  ],
+  "10504": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20002,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10504
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20019,
+        11001,
+        11004
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10504
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20019,
+        11002,
+        11005
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10504
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10504
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10504
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20019,
+        11003,
+        11006
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10504
+    }
+  ],
+  "10601": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11001
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10601
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11001,
+        11007
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10601
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11002,
+        11008
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10601
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10601
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10601
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10601
+    }
+  ],
+  "10602": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10602
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11001,
+        11007
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10602
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11002,
+        11008
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10602
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10602
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10602
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10602
+    }
+  ],
+  "10603": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11001
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 10603
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11001,
+        11007
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 10603
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11002,
+        11008
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 10603
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 10603
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 10603
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11003,
+        11009
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 10603
+    }
+  ],
+  "20101": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20101
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20101
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20101
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20101
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20101
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20101
+    }
+  ],
+  "20102": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20102
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20102
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20102
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20102
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20102
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20102
+    }
+  ],
+  "20103": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20103
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20103
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20103
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20103
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20103
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20103
+    }
+  ],
+  "20201": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20201
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20201
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20201
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20201
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20201
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20201
+    }
+  ],
+  "20203": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20203
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20203
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20203
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20203
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20203
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20203
+    }
+  ],
+  "20205": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20205
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20205
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20205
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20205
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20205
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20205
+    }
+  ],
+  "20301": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20301
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11013
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20301
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11014
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20301
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20301
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20301
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20301
+    }
+  ],
+  "20302": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20302
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11013
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20302
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11014
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20302
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20302
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20302
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20302
+    }
+  ],
+  "20303": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20303
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11013
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20303
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11014
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20303
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20303
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20303
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20303
+    }
+  ],
+  "20304": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20304
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11013
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20304
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11014
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20304
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20304
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20304
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20304
+    }
+  ],
+  "20305": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20305
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11013
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20305
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11014
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20305
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20305
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20305
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11015
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20305
+    }
+  ],
+  "20401": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20401
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20401
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20401
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20401
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20401
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20401
+    }
+  ],
+  "20402": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20402
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20402
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20402
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20402
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20402
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20402
+    }
+  ],
+  "20403": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20403
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20403
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20403
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20403
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20403
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20403
+    }
+  ],
+  "20405": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11010
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20405
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11010,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20405
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11011,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20405
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20405
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20405
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11012,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20405
+    }
+  ],
+  "20501": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11013
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20501
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11013,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20501
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11014,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20501
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20501
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20501
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20501
+    }
+  ],
+  "20502": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11013
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20502
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11013,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20502
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11014,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20502
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20502
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20502
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20502
+    }
+  ],
+  "20503": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11013
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20503
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11013,
+        11016
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20503
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11014,
+        11017
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20503
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20503
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20503
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20503
+    }
+  ],
+  "20504": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11013
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20504
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11013,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20504
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11014,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20504
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20504
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20504
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20504
+    }
+  ],
+  "20507": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11013
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20507
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11013,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20507
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11014,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20507
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20507
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20507
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20507
+    }
+  ],
+  "20509": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11013
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20509
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11013,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20509
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11014,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20509
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20509
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20509
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20509
+    }
+  ],
+  "20510": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11013
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20510
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11013,
+        11016
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20510
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11014,
+        11017
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20510
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20510
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20510
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11015,
+        11018
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20510
+    }
+  ],
+  "20601": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2240,
+        4,
+        1
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20601
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11010
+      ],
+      "ItemNum": [
+        4880,
+        2,
+        3,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20601
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11011
+      ],
+      "ItemNum": [
+        5520,
+        4,
+        2,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20601
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        13600,
+        9,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20601
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        39200,
+        19,
+        8,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20601
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        144000,
+        38,
+        16,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20601
+    }
+  ],
+  "20602": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20602
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11010
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20602
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11011
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20602
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20602
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20602
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20602
+    }
+  ],
+  "20603": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20603
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11010
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20603
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11011
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20603
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20603
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20603
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20603
+    }
+  ],
+  "20604": [
+    {
+      "CollectRewardExp": 40,
+      "ItemId": [
+        101,
+        20009,
+        11016
+      ],
+      "ItemNum": [
+        2800,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 20,
+      "WeaponBreakNum": 1,
+      "WeaponId": 20604
+    },
+    {
+      "CollectReward": 61004,
+      "CollectRewardExp": 80,
+      "ItemId": [
+        101,
+        20012,
+        11016,
+        11010
+      ],
+      "ItemNum": [
+        6100,
+        3,
+        4,
+        2
+      ],
+      "WeaponBreakLevel": 30,
+      "WeaponBreakNum": 2,
+      "WeaponId": 20604
+    },
+    {
+      "CollectRewardExp": 160,
+      "ItemId": [
+        101,
+        20012,
+        11017,
+        11011
+      ],
+      "ItemNum": [
+        6900,
+        6,
+        3,
+        1
+      ],
+      "WeaponBreakLevel": 40,
+      "WeaponBreakNum": 3,
+      "WeaponId": 20604
+    },
+    {
+      "CollectReward": 61005,
+      "CollectRewardExp": 320,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        17000,
+        12,
+        6,
+        2
+      ],
+      "WeaponBreakLevel": 50,
+      "WeaponBreakNum": 4,
+      "WeaponId": 20604
+    },
+    {
+      "CollectRewardExp": 640,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        49000,
+        24,
+        10,
+        4
+      ],
+      "WeaponBreakLevel": 60,
+      "WeaponBreakNum": 5,
+      "WeaponId": 20604
+    },
+    {
+      "CollectReward": 61006,
+      "CollectRewardExp": 1280,
+      "ItemId": [
+        101,
+        20012,
+        11018,
+        11012
+      ],
+      "ItemNum": [
+        180000,
+        48,
+        20,
+        8
+      ],
+      "WeaponBreakLevel": 70,
+      "WeaponBreakNum": 6,
+      "WeaponId": 20604
+    }
+  ]
+}

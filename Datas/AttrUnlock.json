@@ -1,0 +1,922 @@
+{
+  "110101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "110102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "110103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "110104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "110301": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110301,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "110302": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110302,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "110303": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110303,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "110304": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 110304,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150201": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150201,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150202": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150202,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150203": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150203,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150204": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150204,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150301": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150301,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150302": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150302,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150303": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150303,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "150304": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 150304,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "180101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 180101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "180102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 180102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "180103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 180103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "180104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 180104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "210101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 210101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "210102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 210102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "210103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 210103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "210104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 210104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "230101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 230101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "230102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 230102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "230103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 230103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "230104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 230104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "240101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 240101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "240102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 240102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "240103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 240103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "240104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 240104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310201": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310201,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310202": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310202,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310203": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310203,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310204": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310204,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310301": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310301,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310302": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310302,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310303": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310303,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "310304": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 310304,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "320101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 320101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "320102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 320102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "320103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 320103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "320104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 320104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "330101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 330101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "330102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 330102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "330103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 330103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "330104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 330104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410201": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410201,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410202": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410202,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410203": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410203,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "410204": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 410204,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420201": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420201,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420202": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420202,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420203": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420203,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "420204": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 420204,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "430101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 430101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "430102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 430102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "430103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 430103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "430104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 430104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510201": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510201,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510202": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510202,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510203": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510203,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "510204": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 510204,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "530101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 530101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "530102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 530102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "530103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 530103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "530104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 530104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  },
+  "540101": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 540101,
+    "NeedBreak": 1,
+    "ResourceID": [
+      101
+    ]
+  },
+  "540102": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 540102,
+    "NeedBreak": 2,
+    "ResourceID": [
+      101
+    ]
+  },
+  "540103": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 540103,
+    "NeedBreak": 3,
+    "ResourceID": [
+      101
+    ]
+  },
+  "540104": {
+    "Amount": [
+      500
+    ],
+    "AttrId": 540104,
+    "NeedBreak": 4,
+    "ResourceID": [
+      101
+    ]
+  }
+}

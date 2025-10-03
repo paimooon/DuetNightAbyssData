@@ -1,0 +1,12 @@
+[
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Attr",
+    "TabId": 1,
+    "Text": "UI_Armory_Attribute"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Ability.T_Tab_Ability",
+    "TabId": 2,
+    "Text": "Pet_Affix"
+  }
+]

@@ -1,0 +1,294 @@
+{
+  "-1": {
+    "BlessingRandom": -1
+  },
+  "1": {
+    "BlessingRandom": 1,
+    "BlessingRarity": [
+      1
+    ],
+    "RandomType": 1
+  },
+  "10": {
+    "BlessingRandom": 10,
+    "BlessingRarity": [
+      1
+    ],
+    "RandomType": 2
+  },
+  "11": {
+    "BlessingRandom": 11,
+    "BlessingRarity": [
+      2
+    ],
+    "RandomType": 2
+  },
+  "12": {
+    "BlessingRandom": 12,
+    "BlessingRarity": [
+      3
+    ],
+    "RandomType": 2
+  },
+  "13": {
+    "BlessingRandom": 13,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "RandomType": 2
+  },
+  "14": {
+    "BlessingRandom": 14,
+    "BlessingRarity": [
+      2,
+      3
+    ],
+    "RandomType": 2
+  },
+  "15": {
+    "BlessingRandom": 15,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "RandomType": 2
+  },
+  "16": {
+    "BlessingRandom": 16,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      1
+    ],
+    "RandomType": 2
+  },
+  "17": {
+    "BlessingRandom": 17,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      2
+    ],
+    "RandomType": 2
+  },
+  "18": {
+    "BlessingRandom": 18,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      3
+    ],
+    "RandomType": 2
+  },
+  "19": {
+    "BlessingRandom": 19,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      4
+    ],
+    "RandomType": 2
+  },
+  "2": {
+    "BlessingRandom": 2,
+    "BlessingRarity": [
+      2
+    ],
+    "RandomType": 1
+  },
+  "20": {
+    "BlessingRandom": 20,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      6
+    ],
+    "RandomType": 2
+  },
+  "21": {
+    "BlessingRandom": 21,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "LimitGroup": [
+      1
+    ],
+    "RandomType": 1
+  },
+  "22": {
+    "BlessingRandom": 22,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "LimitGroup": [
+      2
+    ],
+    "RandomType": 1
+  },
+  "23": {
+    "BlessingRandom": 23,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "LimitGroup": [
+      3
+    ],
+    "RandomType": 1
+  },
+  "24": {
+    "BlessingRandom": 24,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "LimitGroup": [
+      4
+    ],
+    "RandomType": 1
+  },
+  "25": {
+    "BlessingRandom": 25,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "LimitGroup": [
+      5
+    ],
+    "RandomType": 1
+  },
+  "26": {
+    "BlessingRandom": 26,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "LimitGroup": [
+      6
+    ],
+    "RandomType": 1
+  },
+  "27": {
+    "BlessingRandom": 27,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "LimitGroup": [
+      7
+    ],
+    "RandomType": 1
+  },
+  "28": {
+    "BlessingRandom": 28,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      5
+    ],
+    "RandomType": 2
+  },
+  "29": {
+    "BlessingRandom": 29,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      7
+    ],
+    "RandomType": 2
+  },
+  "3": {
+    "BlessingRandom": 3,
+    "BlessingRarity": [
+      3
+    ],
+    "RandomType": 1
+  },
+  "4": {
+    "BlessingRandom": 4,
+    "BlessingRarity": [
+      1,
+      2
+    ],
+    "RandomType": 1
+  },
+  "5": {
+    "BlessingRandom": 5,
+    "BlessingRarity": [
+      2,
+      3
+    ],
+    "RandomType": 1
+  },
+  "6": {
+    "BlessingRandom": 6,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "RandomType": 1
+  },
+  "7": {
+    "BlessingRandom": 7,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      1
+    ],
+    "RandomType": 1
+  },
+  "8": {
+    "BlessingRandom": 8,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      2
+    ],
+    "RandomType": 1
+  },
+  "9": {
+    "BlessingRandom": 9,
+    "BlessingRarity": [
+      1,
+      2,
+      3
+    ],
+    "LimitGroup": [
+      3
+    ],
+    "RandomType": 1
+  }
+}

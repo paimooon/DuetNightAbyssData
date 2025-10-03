@@ -1,0 +1,32 @@
+[
+  {
+    "NotTrackingIcon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Interactive/T_Interactive_TaskMainLine.T_Interactive_TaskMainLine'",
+    "QuestChainType": 1,
+    "TrackingIcon": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_MainMission.T_Gp_MainMission"
+  },
+  {
+    "NotTrackingIcon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Interactive/T_Interactive_TaskDaily.T_Interactive_TaskDaily'",
+    "QuestChainType": 2,
+    "TrackingIcon": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_MainMission.T_Gp_MainMission"
+  },
+  {
+    "NotTrackingIcon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Interactive/T_Interactive_TaskSider.T_Interactive_TaskSider'",
+    "QuestChainType": 3,
+    "TrackingIcon": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_SideMission.T_Gp_SideMission"
+  },
+  {
+    "NotTrackingIcon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Interactive/T_Interactive_TaskSpecialSider.T_Interactive_TaskSpecialSider'",
+    "QuestChainType": 4,
+    "TrackingIcon": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_SpSideMission.T_Gp_SpSideMission"
+  },
+  {
+    "NotTrackingIcon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Interactive/T_Interactive_TaskLimitedtimeActivity.T_Interactive_TaskLimitedtimeActivity'",
+    "QuestChainType": 5,
+    "TrackingIcon": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_LTMission.T_Gp_LTMission"
+  },
+  {
+    "NotTrackingIcon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Interactive/T_Interactive_TaskActivityMainLine.T_Interactive_TaskActivityMainLine'",
+    "QuestChainType": 6,
+    "TrackingIcon": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_EventMainMission.T_Gp_EventMainMission"
+  }
+]

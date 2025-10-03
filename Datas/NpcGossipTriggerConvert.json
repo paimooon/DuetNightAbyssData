@@ -1,0 +1,949 @@
+{
+  "NpcTrigger": {
+    "81101": [
+      920119,
+      910101,
+      920101,
+      920102,
+      920103,
+      920104
+    ],
+    "81103": [
+      910118,
+      920159,
+      920160,
+      920161,
+      920163,
+      920153
+    ],
+    "81501": [
+      920133,
+      910123,
+      920177,
+      920179,
+      920180,
+      920142,
+      920138,
+      920110
+    ],
+    "81502": [
+      910120,
+      920168,
+      920169
+    ],
+    "81503": [
+      920115,
+      910122,
+      920173,
+      920175,
+      920176,
+      920177
+    ],
+    "81801": [
+      910113,
+      920161,
+      920149,
+      920144,
+      920142,
+      920141,
+      920140
+    ],
+    "82101": [
+      910102,
+      920172,
+      920105,
+      920106,
+      920109,
+      920112
+    ],
+    "82301": [
+      910103,
+      920163,
+      920179,
+      920106,
+      920108,
+      920109,
+      920110
+    ],
+    "82401": [
+      920128,
+      920129,
+      920130,
+      910109,
+      920169,
+      920156
+    ],
+    "83101": [
+      920118,
+      920132,
+      910111,
+      920180,
+      920151,
+      920136,
+      920135,
+      920134
+    ],
+    "83102": [
+      910112,
+      920165,
+      920175,
+      920148,
+      920139,
+      920138,
+      920137
+    ],
+    "83103": [
+      920130,
+      910116,
+      920155,
+      920154,
+      920153
+    ],
+    "83201": [
+      920116,
+      910104,
+      920157,
+      920155,
+      920150,
+      920105,
+      920108,
+      920111,
+      920112,
+      920113
+    ],
+    "83301": [
+      920131,
+      910115,
+      920151,
+      920150,
+      920149,
+      920148,
+      920139
+    ],
+    "84101": [
+      910119,
+      920160,
+      920165,
+      920166,
+      920136
+    ],
+    "84102": [
+      920129,
+      910121,
+      920172,
+      920173
+    ],
+    "84201": [
+      920115,
+      920116,
+      910105,
+      920176,
+      920114
+    ],
+    "84202": [
+      920117,
+      920118,
+      920119,
+      920124,
+      920128,
+      910106,
+      920166,
+      920113,
+      920134
+    ],
+    "84301": [
+      920117,
+      920120,
+      920123,
+      920124,
+      910107,
+      920158,
+      920135,
+      920103,
+      920111
+    ],
+    "85101": [
+      920127,
+      920131,
+      920132,
+      920133,
+      910110,
+      920154,
+      920141,
+      920102
+    ],
+    "85102": [
+      920123,
+      920125,
+      910114,
+      920168,
+      920145,
+      920144,
+      920140,
+      920104,
+      920114
+    ],
+    "85301": [
+      920125,
+      920127,
+      910108,
+      920145,
+      920137
+    ],
+    "85401": [
+      920120,
+      910117,
+      920157,
+      920158,
+      920159,
+      920156,
+      920101
+    ]
+  },
+  "TriggerNpcMap": {
+    "910101": {
+      "81101": true
+    },
+    "910102": {
+      "82101": true
+    },
+    "910103": {
+      "82301": true
+    },
+    "910104": {
+      "83201": true
+    },
+    "910105": {
+      "84201": true
+    },
+    "910106": {
+      "84202": true
+    },
+    "910107": {
+      "84301": true
+    },
+    "910108": {
+      "85301": true
+    },
+    "910109": {
+      "82401": true
+    },
+    "910110": {
+      "85101": true
+    },
+    "910111": {
+      "83101": true
+    },
+    "910112": {
+      "83102": true
+    },
+    "910113": {
+      "81801": true
+    },
+    "910114": {
+      "85102": true
+    },
+    "910115": {
+      "83301": true
+    },
+    "910116": {
+      "83103": true
+    },
+    "910117": {
+      "85401": true
+    },
+    "910118": {
+      "81103": true
+    },
+    "910119": {
+      "84101": true
+    },
+    "910120": {
+      "81502": true
+    },
+    "910121": {
+      "84102": true
+    },
+    "910122": {
+      "81503": true
+    },
+    "910123": {
+      "81501": true
+    },
+    "920101": {
+      "81101": true,
+      "85401": true
+    },
+    "920102": {
+      "81101": true,
+      "85101": true
+    },
+    "920103": {
+      "81101": true,
+      "84301": true
+    },
+    "920104": {
+      "81101": true,
+      "85102": true
+    },
+    "920105": {
+      "82101": true,
+      "83201": true
+    },
+    "920106": {
+      "82101": true,
+      "82301": true
+    },
+    "920107": [],
+    "920108": {
+      "82301": true,
+      "83201": true
+    },
+    "920109": {
+      "82101": true,
+      "82301": true
+    },
+    "920110": {
+      "81501": true,
+      "82301": true
+    },
+    "920111": {
+      "83201": true,
+      "84301": true
+    },
+    "920112": {
+      "82101": true,
+      "83201": true
+    },
+    "920113": {
+      "83201": true,
+      "84202": true
+    },
+    "920114": {
+      "84201": true,
+      "85102": true
+    },
+    "920115": {
+      "81503": true,
+      "84201": true
+    },
+    "920116": {
+      "83201": true,
+      "84201": true
+    },
+    "920117": {
+      "84202": true,
+      "84301": true
+    },
+    "920118": {
+      "83101": true,
+      "84202": true
+    },
+    "920119": {
+      "81101": true,
+      "84202": true
+    },
+    "920120": {
+      "84301": true,
+      "85401": true
+    },
+    "920121": [],
+    "920122": [],
+    "920123": {
+      "84301": true,
+      "85102": true
+    },
+    "920124": {
+      "84202": true,
+      "84301": true
+    },
+    "920125": {
+      "85102": true,
+      "85301": true
+    },
+    "920126": [],
+    "920127": {
+      "85101": true,
+      "85301": true
+    },
+    "920128": {
+      "82401": true,
+      "84202": true
+    },
+    "920129": {
+      "82401": true,
+      "84102": true
+    },
+    "920130": {
+      "82401": true,
+      "83103": true
+    },
+    "920131": {
+      "83301": true,
+      "85101": true
+    },
+    "920132": {
+      "83101": true,
+      "85101": true
+    },
+    "920133": {
+      "81501": true,
+      "85101": true
+    },
+    "920134": {
+      "83101": true,
+      "84202": true
+    },
+    "920135": {
+      "83101": true,
+      "84301": true
+    },
+    "920136": {
+      "83101": true,
+      "84101": true
+    },
+    "920137": {
+      "83102": true,
+      "85301": true
+    },
+    "920138": {
+      "81501": true,
+      "83102": true
+    },
+    "920139": {
+      "83102": true,
+      "83301": true
+    },
+    "920140": {
+      "81801": true,
+      "85102": true
+    },
+    "920141": {
+      "81801": true,
+      "85101": true
+    },
+    "920142": {
+      "81501": true,
+      "81801": true
+    },
+    "920143": [],
+    "920144": {
+      "81801": true,
+      "85102": true
+    },
+    "920145": {
+      "85102": true,
+      "85301": true
+    },
+    "920146": [],
+    "920147": [],
+    "920148": {
+      "83102": true,
+      "83301": true
+    },
+    "920149": {
+      "81801": true,
+      "83301": true
+    },
+    "920150": {
+      "83201": true,
+      "83301": true
+    },
+    "920151": {
+      "83101": true,
+      "83301": true
+    },
+    "920152": [],
+    "920153": {
+      "81103": true,
+      "83103": true
+    },
+    "920154": {
+      "83103": true,
+      "85101": true
+    },
+    "920155": {
+      "83103": true,
+      "83201": true
+    },
+    "920156": {
+      "82401": true,
+      "85401": true
+    },
+    "920157": {
+      "83201": true,
+      "85401": true
+    },
+    "920158": {
+      "84301": true,
+      "85401": true
+    },
+    "920159": {
+      "81103": true,
+      "85401": true
+    },
+    "920160": {
+      "81103": true,
+      "84101": true
+    },
+    "920161": {
+      "81103": true,
+      "81801": true
+    },
+    "920162": [],
+    "920163": {
+      "81103": true,
+      "82301": true
+    },
+    "920164": [],
+    "920165": {
+      "83102": true,
+      "84101": true
+    },
+    "920166": {
+      "84101": true,
+      "84202": true
+    },
+    "920167": [],
+    "920168": {
+      "81502": true,
+      "85102": true
+    },
+    "920169": {
+      "81502": true,
+      "82401": true
+    },
+    "920170": [],
+    "920171": [],
+    "920172": {
+      "82101": true,
+      "84102": true
+    },
+    "920173": {
+      "81503": true,
+      "84102": true
+    },
+    "920174": [],
+    "920175": {
+      "81503": true,
+      "83102": true
+    },
+    "920176": {
+      "81503": true,
+      "84201": true
+    },
+    "920177": {
+      "81501": true,
+      "81503": true
+    },
+    "920178": [],
+    "920179": {
+      "81501": true,
+      "82301": true
+    },
+    "920180": {
+      "81501": true,
+      "83101": true
+    },
+    "920181": []
+  },
+  "TriggerPointMap": {
+    "910101": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910102": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910103": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910104": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910105": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910106": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910107": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910108": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910109": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910110": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910111": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910112": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910113": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910114": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910115": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910116": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910117": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910118": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910119": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910120": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910121": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910122": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "910123": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true,
+      "ShowNpc_Scene3": true
+    },
+    "920101": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920102": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920103": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920104": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920105": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920106": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920107": [],
+    "920108": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920109": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920110": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920111": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920112": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920113": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920114": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920115": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920116": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920117": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920118": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920119": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920120": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920121": [],
+    "920122": [],
+    "920123": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920124": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920125": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920126": [],
+    "920127": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920128": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920129": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920130": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920131": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920132": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920133": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920134": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920135": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920136": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920137": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920138": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920139": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920140": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920141": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920142": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920143": [],
+    "920144": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920145": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920146": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920147": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920148": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920149": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920150": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920151": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920152": [],
+    "920153": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920154": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920155": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920156": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920157": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920158": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920159": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920160": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920161": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920162": [],
+    "920163": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920164": [],
+    "920165": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920166": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920167": [],
+    "920168": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920169": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920170": [],
+    "920171": [],
+    "920172": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920173": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920174": [],
+    "920175": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920176": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920177": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920178": [],
+    "920179": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920180": {
+      "ShowNpc_Scene1": true,
+      "ShowNpc_Scene2": true
+    },
+    "920181": []
+  }
+}

@@ -1,0 +1,1242 @@
+{
+  "1001": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1002": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1003": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "1004": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "1005": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1006": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1007": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1008": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1014": {
+    "SubTabType": 12,
+    "TabType": "Resource"
+  },
+  "1015": {
+    "SubTabType": 12,
+    "TabType": "Resource"
+  },
+  "1016": {
+    "SubTabType": 12,
+    "TabType": "Resource"
+  },
+  "1017": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1018": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1019": {
+    "SubTabType": 12,
+    "TabType": "Resource"
+  },
+  "1020": {
+    "SubTabType": 12,
+    "TabType": "Resource"
+  },
+  "1021": {
+    "SubTabType": 12,
+    "TabType": "Resource"
+  },
+  "1022": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1023": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1050": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1051": {
+    "SubTabType": 12,
+    "TabType": "Resource"
+  },
+  "1052": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1053": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "1054": {
+    "SubTabType": 10,
+    "TabType": "Resource"
+  },
+  "151002": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151003": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151007": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151301": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151311": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151312": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151313": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151314": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151315": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151316": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151321": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151322": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151323": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151324": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151325": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151326": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151331": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151332": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151333": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151334": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151335": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151336": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151411": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151412": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151413": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151414": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151415": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151421": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151422": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151423": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151424": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151425": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151431": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151432": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151433": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151434": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151435": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151441": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151442": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151443": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151444": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151445": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151451": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151452": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151453": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151454": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151455": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151461": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151462": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151463": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151464": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151465": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151711": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151712": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151713": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151714": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151721": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151722": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151723": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151724": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151731": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151732": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151733": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151734": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151741": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151742": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151743": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151744": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151751": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151752": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151753": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151754": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151761": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151762": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151763": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151764": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151801": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151802": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151803": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151804": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151805": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151806": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151807": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151808": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151809": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151810": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151811": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151812": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151911": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151921": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151922": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151931": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151941": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151951": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151952": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151961": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "151962": {
+    "SubTabType": 5,
+    "TabType": "Mod"
+  },
+  "152001": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "152004": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "152005": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "152007": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "152008": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "152101": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "152102": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "152103": {
+    "SubTabType": 6,
+    "TabType": "Mod"
+  },
+  "153001": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "153004": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "153005": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "153007": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "153008": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "153101": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "153102": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "153103": {
+    "SubTabType": 7,
+    "TabType": "Mod"
+  },
+  "154001": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154002": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154003": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154004": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154005": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154006": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154101": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154102": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "154103": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155001": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155002": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155003": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155004": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155005": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155006": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155101": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155102": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "155103": {
+    "SubTabType": 8,
+    "TabType": "Mod"
+  },
+  "2011": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2012": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2013": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2021": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2022": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2023": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2031": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2032": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2033": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2041": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2042": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2043": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2051": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2052": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2053": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2061": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2062": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "2063": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310001": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310002": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310003": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310004": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310005": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310006": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310007": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310008": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310009": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310010": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310011": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310012": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310013": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310014": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310015": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310016": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310017": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310018": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310019": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310020": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310021": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310022": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310023": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310024": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310025": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310026": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310027": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310028": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310029": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310030": {
+    "SubTabType": 15,
+    "TabType": "CharAccessory"
+  },
+  "310201": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310202": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310204": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310205": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310207": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310208": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310210": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "310211": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "320001": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320002": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320003": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320004": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320005": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320006": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320007": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320008": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320009": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320010": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320011": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320012": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320013": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320014": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320015": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320016": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320017": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320018": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320019": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320020": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320021": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320022": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320023": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320024": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320025": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320026": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320027": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320028": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "320029": {
+    "SubTabType": 16,
+    "TabType": "CharAccessory"
+  },
+  "330001": {
+    "SubTabType": 17,
+    "TabType": "CharAccessory"
+  },
+  "330002": {
+    "SubTabType": 17,
+    "TabType": "CharAccessory"
+  },
+  "330003": {
+    "SubTabType": 17,
+    "TabType": "CharAccessory"
+  },
+  "330004": {
+    "SubTabType": 17,
+    "TabType": "CharAccessory"
+  },
+  "330005": {
+    "SubTabType": 17,
+    "TabType": "CharAccessory"
+  },
+  "340001": {
+    "SubTabType": 18,
+    "TabType": "CharAccessory"
+  },
+  "340002": {
+    "SubTabType": 18,
+    "TabType": "CharAccessory"
+  },
+  "340003": {
+    "SubTabType": 18,
+    "TabType": "CharAccessory"
+  },
+  "4001": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4002": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4003": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4004": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4005": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4006": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4007": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4008": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4009": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4010": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4011": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "4012": {
+    "SubTabType": 11,
+    "TabType": "Resource"
+  },
+  "910101": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910102": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910103": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910104": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910105": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910201": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910202": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910203": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910204": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910206": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910301": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910302": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910303": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910304": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910401": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910402": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910403": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910501": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910502": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910503": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910504": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910601": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910602": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "910603": {
+    "SubTabType": 2,
+    "TabType": "Weapon"
+  },
+  "920101": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920102": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920103": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920201": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920203": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920205": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920301": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920302": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920303": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920304": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920305": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920401": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920402": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920403": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920405": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920501": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920502": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920503": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920504": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920507": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920509": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920510": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920601": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920602": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920603": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "920604": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  },
+  "9526": {
+    "SubTabType": 3,
+    "TabType": "Weapon"
+  }
+}

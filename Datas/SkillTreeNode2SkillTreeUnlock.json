@@ -1,0 +1,3485 @@
+{
+  "1101": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1101,
+        "NeedSkill": {
+          "110101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 1101,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10101,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1101,
+        "NeedSkill": {
+          "110102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 1101,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10101,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 1101,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10101
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 1101,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10101
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "1103": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1103,
+        "NeedSkill": {
+          "110301": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 1103,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10101,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1103,
+        "NeedSkill": {
+          "110302": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 1103,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10101,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 1103,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10101
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 1103,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10101
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "1501": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1501,
+        "NeedSkill": {
+          "150101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 1501,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10103,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1501,
+        "NeedSkill": {
+          "150102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 1501,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10103,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 1501,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10103
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 1501,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10103
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "1502": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1502,
+        "NeedSkill": {
+          "150201": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 1502,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10205,
+          10103,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1502,
+        "NeedSkill": {
+          "150202": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 1502,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10205,
+          10103,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 1502,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10203,
+          10103
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 1502,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10204,
+          10103
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "1503": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1503,
+        "NeedSkill": {
+          "150301": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 1503,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10103,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1503,
+        "NeedSkill": {
+          "150302": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 1503,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10103,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 1503,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10103
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 1503,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10103
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "1601": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1601,
+        "NeedSkill": {
+          "160101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 1601,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10208,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1601,
+        "NeedSkill": {
+          "160102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 1601,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10208,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 1601,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10206,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 1601,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10207,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "160101": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 160101,
+        "NeedSkill": {
+          "160101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 160101,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10208,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 160101,
+        "NeedSkill": {
+          "160102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 160101,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10208,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 160101,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10206,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 160101,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10207,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "1801": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1801,
+        "NeedSkill": {
+          "180101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 1801,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10208,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 1801,
+        "NeedSkill": {
+          "180102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 1801,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10208,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 1801,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10206,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 1801,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10207,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "2101": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2101,
+        "NeedSkill": {
+          "210101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 2101,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10205,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2101,
+        "NeedSkill": {
+          "210102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 2101,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10205,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 2101,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10203,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 2101,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10204,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "2102": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2102,
+        "NeedSkill": {
+          "210201": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 2102,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10205,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2102,
+        "NeedSkill": {
+          "210202": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 2102,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10205,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 2102,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10203,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 2102,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10204,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "2301": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2301,
+        "NeedSkill": {
+          "230101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 2301,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10211,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2301,
+        "NeedSkill": {
+          "230102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 2301,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10211,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 2301,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10209,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 2301,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10210,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "2401": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2401,
+        "NeedSkill": {
+          "240101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 2401,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10208,
+          10103,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 2401,
+        "NeedSkill": {
+          "240102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 2401,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10208,
+          10103,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 2401,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10206,
+          10103
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 2401,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10207,
+          10103
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "3101": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3101,
+        "NeedSkill": {
+          "310101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 3101,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10211,
+          10101,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3101,
+        "NeedSkill": {
+          "310102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 3101,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10211,
+          10101,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 3101,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10209,
+          10101
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 3101,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10210,
+          10101
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "3102": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3102,
+        "NeedSkill": {
+          "310201": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 3102,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10211,
+          10104,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3102,
+        "NeedSkill": {
+          "310202": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 3102,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10211,
+          10104,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 3102,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10209,
+          10104
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 3102,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10210,
+          10104
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "3103": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3103,
+        "NeedSkill": {
+          "310301": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 3103,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10211,
+          10103,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3103,
+        "NeedSkill": {
+          "310302": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 3103,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10211,
+          10103,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 3103,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10209,
+          10103
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 3103,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10210,
+          10103
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "3201": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3201,
+        "NeedSkill": {
+          "320101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 3201,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3201,
+        "NeedSkill": {
+          "320102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 3201,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 3201,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 3201,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "3202": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3202,
+        "NeedSkill": {
+          "320201": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 3202,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3202,
+        "NeedSkill": {
+          "320202": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 3202,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 3202,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 3202,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "3301": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3301,
+        "NeedSkill": {
+          "330101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 3301,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10211,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 3301,
+        "NeedSkill": {
+          "330102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 3301,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10211,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 3301,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10209,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 3301,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10210,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "4101": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4101,
+        "NeedSkill": {
+          "410101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 4101,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10205,
+          10104,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4101,
+        "NeedSkill": {
+          "410102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 4101,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10205,
+          10104,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 4101,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10203,
+          10104
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 4101,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10204,
+          10104
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "4102": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4102,
+        "NeedSkill": {
+          "410201": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 4102,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10205,
+          10104,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4102,
+        "NeedSkill": {
+          "410202": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 4102,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10205,
+          10104,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 4102,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10203,
+          10104
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 4102,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10204,
+          10104
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "4201": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4201,
+        "NeedSkill": {
+          "420101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 4201,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10104,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4201,
+        "NeedSkill": {
+          "420102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 4201,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10104,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 4201,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10104
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 4201,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10104
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "4202": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4202,
+        "NeedSkill": {
+          "420201": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 4202,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10202,
+          10101,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4202,
+        "NeedSkill": {
+          "420202": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10201
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 4202,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10202,
+          10101,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 4202,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10200,
+          10101
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 4202,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10201,
+          10101
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "4301": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4301,
+        "NeedSkill": {
+          "430101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 4301,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10205,
+          10101,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 4301,
+        "NeedSkill": {
+          "430102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10204
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 4301,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10205,
+          10101,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 4301,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10203,
+          10101
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 4301,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10204,
+          10101
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "5101": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5101,
+        "NeedSkill": {
+          "510101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 5101,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10208,
+          10104,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5101,
+        "NeedSkill": {
+          "510102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 5101,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10208,
+          10104,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 5101,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10206,
+          10104
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 5101,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10207,
+          10104
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "5102": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5102,
+        "NeedSkill": {
+          "510201": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 5102,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10211,
+          10102,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5102,
+        "NeedSkill": {
+          "510202": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 5102,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10211,
+          10102,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 5102,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10209,
+          10102
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 5102,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10210,
+          10102
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "5301": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5301,
+        "NeedSkill": {
+          "530101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 5301,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10211,
+          10103,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5301,
+        "NeedSkill": {
+          "530102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10210
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 5301,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10211,
+          10103,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 5301,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10209,
+          10103
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 5301,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10210,
+          10103
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ],
+  "5401": [
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5401,
+        "NeedSkill": {
+          "540101": 4
+        },
+        "Num": 1,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          1,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          80000,
+          5,
+          1,
+          1
+        ],
+        "CharID": 5401,
+        "NeedBreak": 5,
+        "Num": 2,
+        "ResourceID": [
+          101,
+          10208,
+          10104,
+          10100
+        ],
+        "Skill": [
+          1,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          20000,
+          3
+        ],
+        "CharID": 5401,
+        "NeedSkill": {
+          "540102": 4
+        },
+        "Num": 3,
+        "ResourceID": [
+          101,
+          10207
+        ],
+        "Skill": [
+          2,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          160000,
+          5,
+          2,
+          1
+        ],
+        "CharID": 5401,
+        "NeedLevel": 75,
+        "Num": 4,
+        "ResourceID": [
+          101,
+          10208,
+          10104,
+          10100
+        ],
+        "Skill": [
+          2,
+          3
+        ]
+      }
+    ],
+    [
+      null,
+      {
+        "Amount": [
+          10000,
+          3,
+          1
+        ],
+        "CharID": 5401,
+        "NeedBreak": 2,
+        "Num": 5,
+        "ResourceID": [
+          101,
+          10206,
+          10104
+        ],
+        "Skill": [
+          3,
+          2
+        ]
+      },
+      {
+        "Amount": [
+          40000,
+          5,
+          1
+        ],
+        "CharID": 5401,
+        "NeedBreak": 4,
+        "Num": 6,
+        "ResourceID": [
+          101,
+          10207,
+          10104
+        ],
+        "Skill": [
+          3,
+          3
+        ]
+      }
+    ]
+  ]
+}

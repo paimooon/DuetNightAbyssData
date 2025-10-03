@@ -1,0 +1,22 @@
+[
+  null,
+  null,
+  {
+    "Probability": 60,
+    "Rarity": 3,
+    "ResourceCount": 10000,
+    "ResourceID": 101
+  },
+  {
+    "Probability": 10,
+    "Rarity": 4,
+    "ResourceCount": 10000,
+    "ResourceID": 101
+  },
+  {
+    "Probability": 3,
+    "Rarity": 5,
+    "ResourceCount": 10000,
+    "ResourceID": 101
+  }
+]

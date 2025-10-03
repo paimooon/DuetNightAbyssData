@@ -1,0 +1,14 @@
+[
+  {
+    "EnterId": 8,
+    "GuidePointId": 1,
+    "HideCondition": 130,
+    "ShowCondition": 120
+  },
+  {
+    "EnterId": 8,
+    "GuidePointId": 2,
+    "HideCondition": 150,
+    "ShowCondition": 135
+  }
+]

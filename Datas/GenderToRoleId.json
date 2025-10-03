@@ -1,0 +1,26 @@
+[
+  {
+    "Gender": 1,
+    "GenderToRoleId": 1,
+    "RoleId": 111,
+    "SwitchPlayer": "Player"
+  },
+  {
+    "Gender": 0,
+    "GenderToRoleId": 2,
+    "RoleId": 112,
+    "SwitchPlayer": "Player"
+  },
+  {
+    "Gender": 1,
+    "GenderToRoleId": 3,
+    "RoleId": 113,
+    "SwitchPlayer": "EXPlayer"
+  },
+  {
+    "Gender": 0,
+    "GenderToRoleId": 4,
+    "RoleId": 114,
+    "SwitchPlayer": "EXPlayer"
+  }
+]

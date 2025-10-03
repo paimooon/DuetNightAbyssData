@@ -1,0 +1,2084 @@
+{
+  "61101": {
+    "DungeonId": 61101,
+    "EliteRange": [
+      9998,
+      10001
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10804,
+    "OnInitSpawnRule": [
+      10804
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "61102": {
+    "DungeonId": 61102,
+    "EliteRange": [
+      9998,
+      10002
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10805,
+    "OnInitSpawnRule": [
+      10805
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "63101": {
+    "DungeonId": 63101,
+    "EliteRange": [
+      9998,
+      10001
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10804,
+    "OnInitSpawnRule": [
+      10804
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "63102": {
+    "DungeonId": 63102,
+    "EliteRange": [
+      9998,
+      10002
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10805,
+    "OnInitSpawnRule": [
+      10805
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "65101": {
+    "DungeonId": 65101,
+    "EliteRange": [
+      9998,
+      10001
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10804,
+    "OnInitSpawnRule": [
+      10804
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "65102": {
+    "DungeonId": 65102,
+    "EliteRange": [
+      9998,
+      10002
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10805,
+    "OnInitSpawnRule": [
+      10805
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91001": {
+    "DungeonId": 91001,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10810,
+    "OnInitSpawnRule": [
+      10810
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91002": {
+    "DungeonId": 91002,
+    "EliteRange": [
+      9998,
+      10000
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10811,
+    "OnInitSpawnRule": [
+      10811
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91003": {
+    "DungeonId": 91003,
+    "EliteRange": [
+      9998,
+      10001
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      10812
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91004": {
+    "DungeonId": 91004,
+    "EliteRange": [
+      9998,
+      10002
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10813
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91005": {
+    "DungeonId": 91005,
+    "EliteRange": [
+      9998,
+      10003
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      10814
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91006": {
+    "DungeonId": 91006,
+    "EliteRange": [
+      9998,
+      10004
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      10815
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91007": {
+    "DungeonId": 91007,
+    "EliteRange": [
+      9998,
+      10005
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      10816
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91008": {
+    "DungeonId": 91008,
+    "EliteRange": [
+      9998,
+      10005
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10827,
+    "OnInitSpawnRule": [
+      10827
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 150
+  },
+  "91009": {
+    "DungeonId": 91009,
+    "EliteRange": [
+      9998,
+      10005
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10829,
+    "OnInitSpawnRule": [
+      10829
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 175
+  },
+  "91010": {
+    "DungeonId": 91010,
+    "EliteRange": [
+      9998,
+      10005
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10831,
+    "OnInitSpawnRule": [
+      10831
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 200
+  },
+  "91011": {
+    "DungeonId": 91011,
+    "EliteRange": [
+      9998,
+      10005
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 10801,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10833,
+    "OnInitSpawnRule": [
+      10833
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 250
+  },
+  "91091": {
+    "DungeonId": 91091,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91113,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10840
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 200
+  },
+  "91092": {
+    "DungeonId": 91092,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91114,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10841
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 200
+  },
+  "91101": {
+    "DungeonId": 91101,
+    "EliteRange": [
+      25,
+      30
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91101,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      10809
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 50
+  },
+  "91102": {
+    "DungeonId": 91102,
+    "EliteRange": [
+      25,
+      30
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91102,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      10809
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 50
+  },
+  "91103": {
+    "DungeonId": 91103,
+    "EliteRange": [
+      25,
+      30
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91103,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      10809
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 50
+  },
+  "91104": {
+    "DungeonId": 91104,
+    "EliteRange": [
+      25,
+      30
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91104,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      10809
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 50
+  },
+  "91105": {
+    "DungeonId": 91105,
+    "EliteRange": [
+      25,
+      30
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91105,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10810,
+    "OnInitSpawnRule": [
+      10810
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 50
+  },
+  "91106": {
+    "DungeonId": 91106,
+    "EliteRange": [
+      25,
+      30
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91106,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10810,
+    "OnInitSpawnRule": [
+      10810
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 50
+  },
+  "91107": {
+    "DungeonId": 91107,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91107,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      10812
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91108": {
+    "DungeonId": 91108,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91108,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      10812
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91109": {
+    "DungeonId": 91109,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91109,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      10812
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91110": {
+    "DungeonId": 91110,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91110,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      10812
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91111": {
+    "DungeonId": 91111,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91111,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      10812
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91112": {
+    "DungeonId": 91112,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91112,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10813
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91113": {
+    "DungeonId": 91113,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91113,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10813
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91114": {
+    "DungeonId": 91114,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91114,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10813
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91115": {
+    "DungeonId": 91115,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91115,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10813
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91116": {
+    "DungeonId": 91116,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91116,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10813
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91117": {
+    "DungeonId": 91117,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91117,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      10813
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91118": {
+    "DungeonId": 91118,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91118,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      10814
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91119": {
+    "DungeonId": 91119,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91119,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      10814
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91120": {
+    "DungeonId": 91120,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91120,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      10814
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91121": {
+    "DungeonId": 91121,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91121,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      10814
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91122": {
+    "DungeonId": 91122,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91122,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      10814
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91123": {
+    "DungeonId": 91123,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91123,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      10814
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91137": {
+    "DungeonId": 91137,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91137,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      10815
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91138": {
+    "DungeonId": 91138,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91138,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      10815
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91139": {
+    "DungeonId": 91139,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91139,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      10815
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91140": {
+    "DungeonId": 91140,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91140,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      10815
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91141": {
+    "DungeonId": 91141,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91141,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      10815
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91142": {
+    "DungeonId": 91142,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91142,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      10815
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91143": {
+    "DungeonId": 91143,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91143,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      10816
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91144": {
+    "DungeonId": 91144,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91144,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      10816
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91145": {
+    "DungeonId": 91145,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91145,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      10816
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91146": {
+    "DungeonId": 91146,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91146,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      10816
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91147": {
+    "DungeonId": 91147,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91147,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      10816
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91148": {
+    "DungeonId": 91148,
+    "EliteRange": [
+      55,
+      60
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91148,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      10816
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 100
+  },
+  "91151": {
+    "DungeonId": 91151,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91101,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      91151,
+      911510
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91152": {
+    "DungeonId": 91152,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91102,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      91152,
+      911520
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91153": {
+    "DungeonId": 91153,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91103,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      91153,
+      911530
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91154": {
+    "DungeonId": 91154,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91104,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10809,
+    "OnInitSpawnRule": [
+      91154,
+      911540
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91155": {
+    "DungeonId": 91155,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91105,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10810,
+    "OnInitSpawnRule": [
+      91155,
+      911550
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91156": {
+    "DungeonId": 91156,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91106,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10810,
+    "OnInitSpawnRule": [
+      91156,
+      911560
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91157": {
+    "DungeonId": 91157,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91107,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      91157,
+      911570
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91158": {
+    "DungeonId": 91158,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91108,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      91158,
+      911580
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91159": {
+    "DungeonId": 91159,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91109,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      91159,
+      911590
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91160": {
+    "DungeonId": 91160,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91110,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      91160,
+      911600
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91161": {
+    "DungeonId": 91161,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91111,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10812,
+    "OnInitSpawnRule": [
+      91161,
+      911610
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91162": {
+    "DungeonId": 91162,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91112,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      91162,
+      911620
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91163": {
+    "DungeonId": 91163,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91113,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      91163,
+      911630
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91164": {
+    "DungeonId": 91164,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91114,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      91164,
+      911640
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91165": {
+    "DungeonId": 91165,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91115,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      91165,
+      911650
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91166": {
+    "DungeonId": 91166,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91116,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      91166,
+      911660
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91167": {
+    "DungeonId": 91167,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91117,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10813,
+    "OnInitSpawnRule": [
+      91167,
+      911670
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91168": {
+    "DungeonId": 91168,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91118,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      91168,
+      911680
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91169": {
+    "DungeonId": 91169,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91119,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      91169,
+      911690
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91170": {
+    "DungeonId": 91170,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91120,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      91170,
+      911700
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91171": {
+    "DungeonId": 91171,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91121,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      91171,
+      911710
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91172": {
+    "DungeonId": 91172,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91122,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      91172,
+      911720
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91173": {
+    "DungeonId": 91173,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91123,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10814,
+    "OnInitSpawnRule": [
+      91173,
+      911730
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91174": {
+    "DungeonId": 91174,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91137,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      91174,
+      911740
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91175": {
+    "DungeonId": 91175,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91138,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      91175,
+      911750
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91176": {
+    "DungeonId": 91176,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91139,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      91176,
+      911760
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91177": {
+    "DungeonId": 91177,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91140,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      91177,
+      911770
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91178": {
+    "DungeonId": 91178,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91141,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      91178,
+      911780
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91179": {
+    "DungeonId": 91179,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91142,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10815,
+    "OnInitSpawnRule": [
+      91179,
+      911790
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91180": {
+    "DungeonId": 91180,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91143,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      91180,
+      911800
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91181": {
+    "DungeonId": 91181,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91144,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      91181,
+      911810
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91182": {
+    "DungeonId": 91182,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91145,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      91182,
+      911820
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91183": {
+    "DungeonId": 91183,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91146,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      91183,
+      911830
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91184": {
+    "DungeonId": 91184,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91147,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      91184,
+      911840
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  },
+  "91185": {
+    "DungeonId": 91185,
+    "EliteRange": [
+      9998,
+      9999
+    ],
+    "EliteSpawnOnlyRelation": false,
+    "EliteSpawnRule": 91148,
+    "NormalRange": [
+      9998,
+      9999
+    ],
+    "NormalSpawnOnlyRelation": false,
+    "NormalSpawnRule": 10816,
+    "OnInitSpawnRule": [
+      91185,
+      911850
+    ],
+    "PetSpawnRange": [
+      0,
+      5
+    ],
+    "TargetNum": 13
+  }
+}

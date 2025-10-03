@@ -1,0 +1,10 @@
+{
+  "FakeHpRate": {
+    "ActiveRule": false,
+    "ID": "FakeHpRate"
+  },
+  "MaxDamagedValue": {
+    "ActiveRule": false,
+    "ID": "MaxDamagedValue"
+  }
+}

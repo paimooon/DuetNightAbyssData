@@ -1,0 +1,316 @@
+{
+  "1101": [
+    [
+      {
+        "VoiceId": 10001,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Heitao_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "1103": [
+    [
+      {
+        "VoiceId": 10644,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Tuosi_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "1501": [
+    [
+      {
+        "VoiceId": 10866,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Baonu_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "1502": [
+    [
+      {
+        "VoiceId": 10550,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Nifu_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "1503": [
+    [
+      {
+        "VoiceId": 10749,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Kezhou_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "1801": [
+    [
+      {
+        "VoiceId": 10437,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Feina_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "2101": [
+    [
+      {
+        "VoiceId": 10037,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Shuimu_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "2301": [
+    [
+      {
+        "VoiceId": 10074,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Zhangyu_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "3101": [
+    [
+      {
+        "VoiceId": 10109,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Linen_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "3102": [
+    [
+      {
+        "VoiceId": 10141,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Xier_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "3103": [
+    [
+      {
+        "VoiceId": 10475,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Yeer_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "3201": [
+    [
+      {
+        "VoiceId": 10512,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Haier_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "3301": [
+    [
+      {
+        "VoiceId": 10394,
+        "VoiceRes": [
+          "vo_gain_1"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Maer_vo_gain_1"
+        ]
+      }
+    ],
+    [
+      {
+        "GachaVoiceCondition": [
+          6007
+        ],
+        "VoiceId": 10395,
+        "VoiceRes": [
+          "vo_gain_2"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Maer_vo_gain_2"
+        ]
+      }
+    ]
+  ],
+  "4101": [
+    [
+      {
+        "VoiceId": 10599,
+        "VoiceRes": [
+          "vo_gain_01"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Lise_vo_gain_01"
+        ]
+      }
+    ],
+    [
+      {
+        "GachaVoiceCondition": [
+          100307
+        ],
+        "VoiceId": 10600,
+        "VoiceRes": [
+          "vo_gain_02"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Lise_vo_gain_02"
+        ]
+      }
+    ]
+  ],
+  "4102": [
+    [
+      {
+        "VoiceId": 10826,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Zhiliu_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "4201": [
+    [
+      {
+        "VoiceId": 10182,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Yuming_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "4202": [
+    [
+      {
+        "VoiceId": 10326,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Landi_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "4301": [
+    [
+      {
+        "VoiceId": 10358,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Xibi_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "5101": [
+    [
+      {
+        "VoiceId": 10287,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Songlu_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "5102": [
+    [
+      {
+        "VoiceId": 10789,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Aote_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "5301": [
+    [
+      {
+        "VoiceId": 10212,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Saiqi_vo_gain"
+        ]
+      }
+    ]
+  ],
+  "5401": [
+    [
+      {
+        "VoiceId": 10700,
+        "VoiceRes": [
+          "vo_gain"
+        ],
+        "VoiceText": [
+          "voice_ch_char_Dafu_vo_gain"
+        ]
+      }
+    ]
+  ]
+}

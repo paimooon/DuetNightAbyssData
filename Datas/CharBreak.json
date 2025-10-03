@@ -1,0 +1,2830 @@
+{
+  "1101": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1101,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10021
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1101,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10022
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1101,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10022
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1101,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1101,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1101,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "1103": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1103,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10021
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1103,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10022
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1103,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10022
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1103,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1103,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1103,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "1104": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1104,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10021
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1104,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10022
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1104,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10022
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1104,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1104,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1104,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10023
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "1501": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1501,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10017
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1501,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1501,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1501,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1501,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1501,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "1502": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1502,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10017
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1502,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1502,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1502,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1502,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1502,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "1503": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1503,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10017
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1503,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1503,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1503,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1503,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1503,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "1601": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1601,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10017
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1601,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1601,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1601,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1601,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1601,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "160101": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 160101,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10017
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 160101,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 160101,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 160101,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 160101,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 160101,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "1801": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 1801,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20011,
+        10017
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 1801,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 1801,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20018,
+        10018
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 1801,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 1801,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 1801,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20018,
+        10019
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "2101": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 2101,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20005,
+        10009
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 2101,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 2101,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 2101,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 2101,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 2101,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "2102": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 2102,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20005,
+        10009
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 2102,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 2102,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 2102,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 2102,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 2102,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "2301": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 2301,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20005,
+        10009
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 2301,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 2301,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 2301,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 2301,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 2301,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "2401": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 2401,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20005,
+        10009
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 2401,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 2401,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20020,
+        10010
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 2401,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 2401,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 2401,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20020,
+        10011
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "3101": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 3101,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20002,
+        10005
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 3101,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 3101,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 3101,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 3101,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 3101,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "3102": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 3102,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20002,
+        10005
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 3102,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 3102,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 3102,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 3102,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 3102,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "3103": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 3103,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20002,
+        10005
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 3103,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 3103,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 3103,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 3103,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 3103,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "3201": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 3201,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20002,
+        10005
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 3201,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 3201,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 3201,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 3201,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 3201,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "3202": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 3202,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20002,
+        10005
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 3202,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 3202,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 3202,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 3202,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 3202,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "3301": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 3301,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20002,
+        10005
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 3301,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 3301,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20019,
+        10006
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 3301,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 3301,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 3301,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20019,
+        10007
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "4101": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 4101,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20012,
+        10013
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 4101,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 4101,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 4101,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 4101,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 4101,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "4102": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 4102,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20012,
+        10013
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 4102,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 4102,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 4102,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 4102,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 4102,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "4201": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 4201,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20012,
+        10013
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 4201,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 4201,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 4201,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 4201,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 4201,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "4202": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 4202,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20012,
+        10013
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 4202,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 4202,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 4202,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 4202,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 4202,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "4301": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 4301,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20012,
+        10013
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 4301,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 4301,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20017,
+        10014
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 4301,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 4301,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 4301,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20017,
+        10015
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "5101": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 5101,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20009,
+        10001
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 5101,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 5101,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 5101,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 5101,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 5101,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "5102": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 5102,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20009,
+        10001
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 5102,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 5102,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 5102,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 5102,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 5102,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ],
+  "5301": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 5301,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20009,
+        10001
+      ],
+      "ItemNum": [
+        5200,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 5301,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        10400,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 5301,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        16300,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 5301,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        34700,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 5301,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        81600,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 5301,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        243000,
+        80,
+        25
+      ]
+    }
+  ],
+  "5401": [
+    {
+      "CharBreakLevel": 20,
+      "CharBreakNum": 1,
+      "CharId": 5401,
+      "CollectRewardExp": 50,
+      "ItemId": [
+        101,
+        20009,
+        10001
+      ],
+      "ItemNum": [
+        4160,
+        10,
+        5
+      ]
+    },
+    {
+      "CharBreakLevel": 30,
+      "CharBreakNum": 2,
+      "CharId": 5401,
+      "CollectReward": 61001,
+      "CollectRewardExp": 100,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        8320,
+        5,
+        7
+      ]
+    },
+    {
+      "CharBreakLevel": 40,
+      "CharBreakNum": 3,
+      "CharId": 5401,
+      "CollectRewardExp": 200,
+      "ItemId": [
+        101,
+        20014,
+        10002
+      ],
+      "ItemNum": [
+        13040,
+        10,
+        15
+      ]
+    },
+    {
+      "CharBreakLevel": 50,
+      "CharBreakNum": 4,
+      "CharId": 5401,
+      "CollectReward": 61002,
+      "CollectRewardExp": 400,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        27760,
+        20,
+        6
+      ]
+    },
+    {
+      "CharBreakLevel": 60,
+      "CharBreakNum": 5,
+      "CharId": 5401,
+      "CollectRewardExp": 800,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        65280,
+        40,
+        12
+      ]
+    },
+    {
+      "CharBreakLevel": 70,
+      "CharBreakNum": 6,
+      "CharId": 5401,
+      "CollectReward": 61003,
+      "CollectRewardExp": 1600,
+      "ItemId": [
+        101,
+        20014,
+        10003
+      ],
+      "ItemNum": [
+        194400,
+        80,
+        25
+      ]
+    }
+  ]
+}

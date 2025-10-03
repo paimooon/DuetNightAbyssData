@@ -1,0 +1,829 @@
+{
+  "Char": [],
+  "CharAccessory": [],
+  "Draft": {
+    "151002": [
+      {
+        "DungeonId": 91143,
+        "MonsterId": 8001
+      }
+    ],
+    "151003": [
+      {
+        "DungeonId": 91143,
+        "MonsterId": 8001
+      }
+    ],
+    "151007": [
+      {
+        "DungeonId": 91143,
+        "MonsterId": 8001
+      }
+    ],
+    "151301": [
+      {
+        "DungeonId": 91143,
+        "MonsterId": 8001
+      }
+    ],
+    "151311": [
+      {
+        "DungeonId": 91137,
+        "MonsterId": 7001
+      }
+    ],
+    "151312": [
+      {
+        "DungeonId": 91138,
+        "MonsterId": 7002
+      }
+    ],
+    "151313": [
+      {
+        "DungeonId": 91139,
+        "MonsterId": 7003
+      }
+    ],
+    "151314": [
+      {
+        "DungeonId": 91140,
+        "MonsterId": 7004
+      }
+    ],
+    "151315": [
+      {
+        "DungeonId": 91141,
+        "MonsterId": 7005
+      }
+    ],
+    "151316": [
+      {
+        "DungeonId": 91142,
+        "MonsterId": 7006
+      }
+    ],
+    "151801": [
+      {
+        "DungeonId": 91137,
+        "MonsterId": 7001
+      }
+    ],
+    "151802": [
+      {
+        "DungeonId": 91138,
+        "MonsterId": 7002
+      }
+    ],
+    "151803": [
+      {
+        "DungeonId": 91139,
+        "MonsterId": 7003
+      }
+    ],
+    "151804": [
+      {
+        "DungeonId": 91140,
+        "MonsterId": 7004
+      }
+    ],
+    "151805": [
+      {
+        "DungeonId": 91141,
+        "MonsterId": 7005
+      }
+    ],
+    "151806": [
+      {
+        "DungeonId": 91142,
+        "MonsterId": 7006
+      }
+    ],
+    "151807": [
+      {
+        "DungeonId": 91137,
+        "MonsterId": 7001
+      }
+    ],
+    "151808": [
+      {
+        "DungeonId": 91138,
+        "MonsterId": 7002
+      }
+    ],
+    "151809": [
+      {
+        "DungeonId": 91139,
+        "MonsterId": 7003
+      }
+    ],
+    "151810": [
+      {
+        "DungeonId": 91140,
+        "MonsterId": 7004
+      }
+    ],
+    "151811": [
+      {
+        "DungeonId": 91141,
+        "MonsterId": 7005
+      }
+    ],
+    "151812": [
+      {
+        "DungeonId": 91142,
+        "MonsterId": 7006
+      }
+    ]
+  },
+  "Drop": [],
+  "HeadFrame": [],
+  "HeadSculpture": [],
+  "Mod": {
+    "11001": [
+      {
+        "DungeonId": 91103,
+        "MonsterId": 1003
+      },
+      {
+        "DungeonId": 91101,
+        "MonsterId": 1001
+      }
+    ],
+    "11004": [
+      {
+        "DungeonId": 91104,
+        "MonsterId": 1004
+      },
+      {
+        "DungeonId": 91102,
+        "MonsterId": 1002
+      }
+    ],
+    "12001": [
+      {
+        "DungeonId": 91101,
+        "MonsterId": 1001
+      }
+    ],
+    "12002": [
+      {
+        "DungeonId": 91102,
+        "MonsterId": 1002
+      }
+    ],
+    "12003": [
+      {
+        "DungeonId": 91102,
+        "MonsterId": 1002
+      }
+    ],
+    "12006": [
+      {
+        "DungeonId": 91101,
+        "MonsterId": 1001
+      }
+    ],
+    "13001": [
+      {
+        "DungeonId": 91103,
+        "MonsterId": 1003
+      }
+    ],
+    "13002": [
+      {
+        "DungeonId": 91104,
+        "MonsterId": 1004
+      }
+    ],
+    "13003": [
+      {
+        "DungeonId": 91104,
+        "MonsterId": 1004
+      }
+    ],
+    "13006": [
+      {
+        "DungeonId": 91103,
+        "MonsterId": 1003
+      }
+    ],
+    "21005": [
+      {
+        "DungeonId": 91105,
+        "MonsterId": 2001
+      }
+    ],
+    "21006": [
+      {
+        "DungeonId": 91106,
+        "MonsterId": 2002
+      }
+    ],
+    "22007": [
+      {
+        "DungeonId": 91105,
+        "MonsterId": 2001
+      }
+    ],
+    "22008": [
+      {
+        "DungeonId": 91106,
+        "MonsterId": 2002
+      }
+    ],
+    "23007": [
+      {
+        "DungeonId": 91105,
+        "MonsterId": 2001
+      }
+    ],
+    "23008": [
+      {
+        "DungeonId": 91106,
+        "MonsterId": 2002
+      }
+    ],
+    "31201": [
+      {
+        "DungeonId": 91108,
+        "MonsterId": 4002
+      }
+    ],
+    "31202": [
+      {
+        "DungeonId": 91109,
+        "MonsterId": 4003
+      }
+    ],
+    "31203": [
+      {
+        "DungeonId": 91110,
+        "MonsterId": 4004
+      }
+    ],
+    "31204": [
+      {
+        "DungeonId": 91111,
+        "MonsterId": 4005
+      }
+    ],
+    "31215": [
+      {
+        "DungeonId": 90167,
+        "MonsterId": 3003
+      }
+    ],
+    "31216": [
+      {
+        "DungeonId": 90161,
+        "MonsterId": 3001
+      }
+    ],
+    "31217": [
+      {
+        "DungeonId": 90168,
+        "MonsterId": 3004
+      }
+    ],
+    "31218": [
+      {
+        "DungeonId": 90162,
+        "MonsterId": 3002
+      }
+    ],
+    "31301": [
+      {
+        "DungeonId": 91107,
+        "MonsterId": 4001
+      }
+    ],
+    "32004": [
+      {
+        "DungeonId": 90167,
+        "MonsterId": 3003
+      },
+      {
+        "DungeonId": 90161,
+        "MonsterId": 3001
+      }
+    ],
+    "32005": [
+      {
+        "DungeonId": 90168,
+        "MonsterId": 3004
+      },
+      {
+        "DungeonId": 90162,
+        "MonsterId": 3002
+      }
+    ],
+    "32301": [
+      {
+        "DungeonId": 91108,
+        "MonsterId": 4002
+      },
+      {
+        "DungeonId": 91107,
+        "MonsterId": 4001
+      }
+    ],
+    "32302": [
+      {
+        "DungeonId": 91110,
+        "MonsterId": 4004
+      }
+    ],
+    "33004": [
+      {
+        "DungeonId": 90167,
+        "MonsterId": 3003
+      },
+      {
+        "DungeonId": 90161,
+        "MonsterId": 3001
+      }
+    ],
+    "33005": [
+      {
+        "DungeonId": 90168,
+        "MonsterId": 3004
+      },
+      {
+        "DungeonId": 90162,
+        "MonsterId": 3002
+      }
+    ],
+    "33311": [
+      {
+        "DungeonId": 91109,
+        "MonsterId": 4003
+      }
+    ],
+    "33321": [
+      {
+        "DungeonId": 91108,
+        "MonsterId": 4002
+      }
+    ],
+    "33322": [
+      {
+        "DungeonId": 91109,
+        "MonsterId": 4003
+      },
+      {
+        "DungeonId": 91107,
+        "MonsterId": 4001
+      }
+    ],
+    "33331": [
+      {
+        "DungeonId": 91111,
+        "MonsterId": 4005
+      }
+    ],
+    "33332": [
+      {
+        "DungeonId": 91110,
+        "MonsterId": 4004
+      }
+    ],
+    "33411": [
+      {
+        "DungeonId": 91111,
+        "MonsterId": 4005
+      }
+    ],
+    "41213": [
+      {
+        "DungeonId": 91112,
+        "MonsterId": 5501
+      }
+    ],
+    "41214": [
+      {
+        "DungeonId": 91113,
+        "MonsterId": 5502
+      }
+    ],
+    "41311": [
+      {
+        "DungeonId": 91118,
+        "MonsterId": 6001
+      }
+    ],
+    "41312": [
+      {
+        "DungeonId": 91119,
+        "MonsterId": 6002
+      }
+    ],
+    "41313": [
+      {
+        "DungeonId": 91120,
+        "MonsterId": 6003
+      }
+    ],
+    "41314": [
+      {
+        "DungeonId": 91121,
+        "MonsterId": 6004
+      }
+    ],
+    "41315": [
+      {
+        "DungeonId": 91122,
+        "MonsterId": 6005
+      }
+    ],
+    "41316": [
+      {
+        "DungeonId": 91123,
+        "MonsterId": 6006
+      }
+    ],
+    "41801": [
+      {
+        "DungeonId": 90188,
+        "MonsterId": 6509
+      }
+    ],
+    "41802": [
+      {
+        "DungeonId": 90180,
+        "MonsterId": 6501
+      }
+    ],
+    "41803": [
+      {
+        "DungeonId": 90180,
+        "MonsterId": 6501
+      }
+    ],
+    "41804": [
+      {
+        "DungeonId": 90181,
+        "MonsterId": 6502
+      }
+    ],
+    "41805": [
+      {
+        "DungeonId": 90184,
+        "MonsterId": 6505
+      }
+    ],
+    "41806": [
+      {
+        "DungeonId": 90181,
+        "MonsterId": 6502
+      }
+    ],
+    "41807": [
+      {
+        "DungeonId": 90182,
+        "MonsterId": 6503
+      }
+    ],
+    "41808": [
+      {
+        "DungeonId": 90186,
+        "MonsterId": 6507
+      }
+    ],
+    "41809": [
+      {
+        "DungeonId": 90183,
+        "MonsterId": 6504
+      }
+    ],
+    "41810": [
+      {
+        "DungeonId": 90187,
+        "MonsterId": 6508
+      }
+    ],
+    "41811": [
+      {
+        "DungeonId": 90182,
+        "MonsterId": 6503
+      }
+    ],
+    "41812": [
+      {
+        "DungeonId": 90185,
+        "MonsterId": 6506
+      }
+    ],
+    "41911": [
+      {
+        "DungeonId": 90180,
+        "MonsterId": 6501
+      }
+    ],
+    "41921": [
+      {
+        "DungeonId": 90181,
+        "MonsterId": 6502
+      }
+    ],
+    "41922": [
+      {
+        "DungeonId": 90182,
+        "MonsterId": 6503
+      }
+    ],
+    "41931": [
+      {
+        "DungeonId": 90183,
+        "MonsterId": 6504
+      }
+    ],
+    "41941": [
+      {
+        "DungeonId": 90184,
+        "MonsterId": 6505
+      }
+    ],
+    "41951": [
+      {
+        "DungeonId": 90185,
+        "MonsterId": 6506
+      }
+    ],
+    "41952": [
+      {
+        "DungeonId": 90186,
+        "MonsterId": 6507
+      }
+    ],
+    "41961": [
+      {
+        "DungeonId": 90188,
+        "MonsterId": 6509
+      }
+    ],
+    "41962": [
+      {
+        "DungeonId": 90187,
+        "MonsterId": 6508
+      }
+    ],
+    "42203": [
+      {
+        "DungeonId": 90163,
+        "MonsterId": 5001
+      }
+    ],
+    "42311": [
+      {
+        "DungeonId": 90166,
+        "MonsterId": 5004
+      }
+    ],
+    "42312": [
+      {
+        "DungeonId": 90163,
+        "MonsterId": 5001
+      }
+    ],
+    "42321": [
+      {
+        "DungeonId": 90165,
+        "MonsterId": 5003
+      }
+    ],
+    "42322": [
+      {
+        "DungeonId": 90164,
+        "MonsterId": 5002
+      }
+    ],
+    "42401": [
+      {
+        "DungeonId": 91115,
+        "MonsterId": 5504
+      },
+      {
+        "DungeonId": 91112,
+        "MonsterId": 5501
+      }
+    ],
+    "42403": [
+      {
+        "DungeonId": 91121,
+        "MonsterId": 6004
+      },
+      {
+        "DungeonId": 91116,
+        "MonsterId": 5505
+      },
+      {
+        "DungeonId": 91113,
+        "MonsterId": 5502
+      }
+    ],
+    "42411": [
+      {
+        "DungeonId": 91118,
+        "MonsterId": 6001
+      },
+      {
+        "DungeonId": 91117,
+        "MonsterId": 5506
+      }
+    ],
+    "42412": [
+      {
+        "DungeonId": 91119,
+        "MonsterId": 6002
+      }
+    ],
+    "42413": [
+      {
+        "DungeonId": 91120,
+        "MonsterId": 6003
+      }
+    ],
+    "42421": [
+      {
+        "DungeonId": 91121,
+        "MonsterId": 6004
+      }
+    ],
+    "42501": [
+      {
+        "DungeonId": 90183,
+        "MonsterId": 6504
+      }
+    ],
+    "42502": [
+      {
+        "DungeonId": 90184,
+        "MonsterId": 6505
+      }
+    ],
+    "42503": [
+      {
+        "DungeonId": 90185,
+        "MonsterId": 6506
+      }
+    ],
+    "42504": [
+      {
+        "DungeonId": 91122,
+        "MonsterId": 6005
+      }
+    ],
+    "42511": [
+      {
+        "DungeonId": 91123,
+        "MonsterId": 6006
+      }
+    ],
+    "42512": [
+      {
+        "DungeonId": 91114,
+        "MonsterId": 5503
+      }
+    ],
+    "43008": [
+      {
+        "DungeonId": 90166,
+        "MonsterId": 5004
+      }
+    ],
+    "43123": [
+      {
+        "DungeonId": 90165,
+        "MonsterId": 5003
+      },
+      {
+        "DungeonId": 90163,
+        "MonsterId": 5001
+      }
+    ],
+    "43301": [
+      {
+        "DungeonId": 90165,
+        "MonsterId": 5003
+      }
+    ],
+    "43341": [
+      {
+        "DungeonId": 90164,
+        "MonsterId": 5002
+      }
+    ],
+    "43401": [
+      {
+        "DungeonId": 91115,
+        "MonsterId": 5504
+      },
+      {
+        "DungeonId": 91112,
+        "MonsterId": 5501
+      }
+    ],
+    "43402": [
+      {
+        "DungeonId": 91116,
+        "MonsterId": 5505
+      },
+      {
+        "DungeonId": 91113,
+        "MonsterId": 5502
+      }
+    ],
+    "43403": [
+      {
+        "DungeonId": 91118,
+        "MonsterId": 6001
+      },
+      {
+        "DungeonId": 91117,
+        "MonsterId": 5506
+      }
+    ],
+    "43404": [
+      {
+        "DungeonId": 91119,
+        "MonsterId": 6002
+      }
+    ],
+    "43405": [
+      {
+        "DungeonId": 91120,
+        "MonsterId": 6003
+      }
+    ],
+    "43501": [
+      {
+        "DungeonId": 90186,
+        "MonsterId": 6507
+      }
+    ],
+    "43502": [
+      {
+        "DungeonId": 90187,
+        "MonsterId": 6508
+      }
+    ],
+    "43503": [
+      {
+        "DungeonId": 90188,
+        "MonsterId": 6509
+      }
+    ],
+    "43504": [
+      {
+        "DungeonId": 91122,
+        "MonsterId": 6005
+      }
+    ],
+    "43511": [
+      {
+        "DungeonId": 91123,
+        "MonsterId": 6006
+      }
+    ],
+    "43512": [
+      {
+        "DungeonId": 91114,
+        "MonsterId": 5503
+      }
+    ],
+    "43601": [
+      {
+        "DungeonId": 91114,
+        "MonsterId": 5503
+      }
+    ],
+    "43602": [
+      {
+        "DungeonId": 91115,
+        "MonsterId": 5504
+      }
+    ],
+    "43603": [
+      {
+        "DungeonId": 91116,
+        "MonsterId": 5505
+      }
+    ],
+    "43604": [
+      {
+        "DungeonId": 91117,
+        "MonsterId": 5506
+      }
+    ]
+  },
+  "Pet": [],
+  "Resource": [],
+  "Reward": [],
+  "Skin": [],
+  "Title": [],
+  "TitleFrame": [],
+  "Walnut": [],
+  "Weapon": [],
+  "WeaponAccessory": [],
+  "WeaponSkin": []
+}

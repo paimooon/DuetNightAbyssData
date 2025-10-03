@@ -1,0 +1,11 @@
+{
+  "DailyFreeTicketAmount": {
+    "ConstantName": "DailyFreeTicketAmount"
+  },
+  "DailyModDungeonAmount": {
+    "ConstantName": "DailyModDungeonAmount"
+  },
+  "EventBonus": {
+    "ConstantName": "EventBonus"
+  }
+}

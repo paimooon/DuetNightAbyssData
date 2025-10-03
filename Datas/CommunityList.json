@@ -1,0 +1,27 @@
+[
+  {
+    "CommunityId": 1,
+    "Icon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/SNS/T_Icon_Sns_JJJCN.T_Icon_Sns_JJJCN'",
+    "JobTips": "FollowCommunity_JJJ",
+    "JumpLink": "https://dnabbs.yingxiong.com",
+    "JumpTips": "UI_FollowCommunity",
+    "Reward": 107003,
+    "RewardMark": true
+  },
+  {
+    "CommunityId": 2,
+    "Icon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/SNS/T_Icon_Sns_Weixin.T_Icon_Sns_Weixin'",
+    "JobTips": "FollowCommunity_WeCom",
+    "JumpLink": "http://welk.co/6XyrBr43tS",
+    "JumpTips": "UI_JumpCommunity",
+    "Reward": 107004
+  },
+  {
+    "CommunityId": 3,
+    "Icon": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/SNS/T_Icon_Sns_Douyin.T_Icon_Sns_Douyin'",
+    "JobTips": "FollowCommunity_Douyin",
+    "JumpLink": "https://v.douyin.com/O8ILZ72QUZM/ 8@3.com",
+    "JumpTips": "UI_JumpCommunity",
+    "Reward": 107004
+  }
+]

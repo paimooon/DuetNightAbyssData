@@ -1,0 +1,42 @@
+[
+  {
+    "PhysicalSurfaceEnum": 1,
+    "PhysicalSurfaceName": "Concrete"
+  },
+  {
+    "PhysicalSurfaceEnum": 2,
+    "PhysicalSurfaceName": "Flesh"
+  },
+  {
+    "PhysicalSurfaceEnum": 3,
+    "PhysicalSurfaceName": "Grass"
+  },
+  {
+    "PhysicalSurfaceEnum": 4,
+    "PhysicalSurfaceName": "Glass"
+  },
+  {
+    "PhysicalSurfaceEnum": 5,
+    "PhysicalSurfaceName": "Metal"
+  },
+  {
+    "PhysicalSurfaceEnum": 6,
+    "PhysicalSurfaceName": "Mud"
+  },
+  {
+    "PhysicalSurfaceEnum": 7,
+    "PhysicalSurfaceName": "Sand"
+  },
+  {
+    "PhysicalSurfaceEnum": 8,
+    "PhysicalSurfaceName": "Snow"
+  },
+  {
+    "PhysicalSurfaceEnum": 9,
+    "PhysicalSurfaceName": "Water"
+  },
+  {
+    "PhysicalSurfaceEnum": 10,
+    "PhysicalSurfaceName": "Wood"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "JunkInform",
+    "Index": 1,
+    "Text": "UI_COMMONPOP_TEXT_100090_3"
+  },
+  {
+    "Id": "OffensiveLanguage",
+    "Index": 2,
+    "Text": "UI_COMMONPOP_TEXT_100090_4"
+  },
+  {
+    "Id": "Harass",
+    "Index": 3,
+    "Text": "UI_COMMONPOP_TEXT_100090_5"
+  },
+  {
+    "Id": "RealLifeThreat",
+    "Index": 4,
+    "Text": "UI_COMMONPOP_TEXT_100090_6"
+  },
+  {
+    "Id": "Cheat",
+    "Index": 5,
+    "Text": "UI_COMMONPOP_TEXT_100090_7"
+  },
+  {
+    "Id": "RealMoneyTrading",
+    "Index": 6,
+    "Text": "UI_COMMONPOP_TEXT_100090_8"
+  },
+  {
+    "Id": "IntentionalDisruption",
+    "Index": 7,
+    "Text": "UI_COMMONPOP_TEXT_100090_9"
+  },
+  {
+    "Id": "HateSpeech",
+    "Index": 8,
+    "Text": "UI_COMMONPOP_TEXT_100090_10"
+  }
+]

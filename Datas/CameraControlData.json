@@ -1,0 +1,393 @@
+{
+  "Arm120OffsetZM40": {
+    "ArmLength": 120,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "Arm120OffsetZM40",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      -40
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "Arm150OffsetZ40": {
+    "ArmLength": 150,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "Arm150OffsetZ40",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      40
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "Arm90OffsetZ20": {
+    "ArmLength": 90,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "Arm90OffsetZ20",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      20
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "BossHeilongDefault": {
+    "ArmLength": 3600,
+    "ArmPos": [
+      0,
+      0,
+      25
+    ],
+    "CameraName": "BossHeilongDefault",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      3000,
+      0,
+      200
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": false,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": true
+  },
+  "BossLinenDefault": {
+    "ArmLength": 550,
+    "ArmPos": [
+      0,
+      0,
+      25
+    ],
+    "CameraName": "BossLinenDefault",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      120
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": false,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": false
+  },
+  "BossMapSkill": {
+    "ArmLength": 0,
+    "ArmPos": [
+      0,
+      0,
+      60
+    ],
+    "CameraName": "BossMapSkill",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      40
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": false
+  },
+  "BossShijingzheSkill15": {
+    "ArmLength": 800,
+    "ArmPos": [
+      0,
+      0,
+      25
+    ],
+    "CameraName": "BossShijingzheSkill15",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      120
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": false,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": false
+  },
+  "Default": {
+    "ArmLength": 360,
+    "ArmPos": [
+      0,
+      0,
+      25
+    ],
+    "CameraName": "Default",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      35,
+      55
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": false,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": false
+  },
+  "FallAttack": {
+    "ArmLength": 60,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "FallAttack",
+    "LagMaxDistance": [
+      50,
+      0,
+      0
+    ],
+    "LagSpeed": [
+      4,
+      0,
+      0
+    ],
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      0
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "FuluoSkill01": {
+    "ArmLength": 420,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "FuluoSkill01",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      50
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "FuluoSkill02": {
+    "ArmLength": 120,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "FuluoSkill02",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      25
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "IncrementDefault": {
+    "ArmLength": 0,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "IncrementDefault",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      0
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "KezhouSkill02": {
+    "ArmLength": 120,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "KezhouSkill02",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      25
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "SongluSkill02": {
+    "ArmLength": 0,
+    "ArmPos": [
+      0,
+      0,
+      60
+    ],
+    "CameraName": "SongluSkill02",
+    "LagMaxDistance": [
+      50,
+      0,
+      0
+    ],
+    "LagSpeed": [
+      4,
+      0,
+      0
+    ],
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      -80
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "SpringArm200": {
+    "ArmLength": 200,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "SpringArm200",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      0
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  },
+  "StoryDefault": {
+    "ArmLength": 800,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "StoryDefault",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      225
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": false,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": false
+  },
+  "StoryEast01Nai01": {
+    "ArmLength": 200,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "StoryEast01Nai01",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      40,
+      35
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": false,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": false
+  },
+  "StoryEast01Nai02": {
+    "ArmLength": 200,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "StoryEast01Nai02",
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      40,
+      43
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": false,
+    "bIncrementArmPos": false,
+    "bIncrementSocketOffset": false
+  },
+  "TuosiSkill02": {
+    "ArmLength": 150,
+    "ArmPos": [
+      0,
+      0,
+      0
+    ],
+    "CameraName": "TuosiSkill02",
+    "LagMaxDistance": [
+      50,
+      0,
+      0
+    ],
+    "LagSpeed": [
+      4,
+      0,
+      0
+    ],
+    "ProbeSize": 12,
+    "SocketOffset": [
+      0,
+      0,
+      40
+    ],
+    "TimelineFloatCurve": "CameraCurve",
+    "bIncrementArmLength": true,
+    "bIncrementArmPos": true,
+    "bIncrementSocketOffset": true
+  }
+}

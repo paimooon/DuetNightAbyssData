@@ -1,0 +1,44 @@
+{
+  "160102": [
+    "TERM_Common_OverES"
+  ],
+  "180103": [
+    "TERM_Common_AdditionalDmg"
+  ],
+  "240102": [
+    "TERM_Common_OverES"
+  ],
+  "240103": [
+    "TERM_Common_SkillSpeed"
+  ],
+  "320102": [
+    "TERM_Common_Taunt"
+  ],
+  "320104": [
+    "TERM_Common_Taunt"
+  ],
+  "404": [
+    "TERM_Common_OverES"
+  ],
+  "410201": [
+    "TERM_Common_OverES"
+  ],
+  "414": [
+    "TERM_Common_OverES"
+  ],
+  "420202": [
+    "TERM_Common_OverES"
+  ],
+  "420203": [
+    "TERM_Common_OverES"
+  ],
+  "426": [
+    "TERM_Common_AdditionalDmg"
+  ],
+  "510202": [
+    "TERM_Common_OverES"
+  ],
+  "530102": [
+    "TERM_Common_OverES"
+  ]
+}

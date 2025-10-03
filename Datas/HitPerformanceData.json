@@ -1,0 +1,1151 @@
+{
+  "AirToHitFly_Common": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 1000
+    },
+    "HitId": "AirToHitFly_Common"
+  },
+  "BossAida_Skill08TrainHit": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 1500,
+      "HitFlyZ": 1000,
+      "UseResourceDirection": "Y"
+    },
+    "HitId": "BossAida_Skill08TrainHit"
+  },
+  "BossAida_Skill10SPHit": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 1500,
+      "HitFlyZ": 1000,
+      "UseResourceDirection": "Y"
+    },
+    "HitId": "BossAida_Skill10SPHit"
+  },
+  "BossKuxiu_ShockWave": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 400
+    },
+    "HitId": "BossKuxiu_ShockWave"
+  },
+  "BossKuxiu_Skill01": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 400
+    },
+    "HitId": "BossKuxiu_Skill01"
+  },
+  "BossLianhuo_Effect850507": {
+    "CauseHit": "GrabHit",
+    "CauseHitParam": {
+      "GrabAnim": "GrabHit_Lianhuo",
+      "Offset": [
+        12.5,
+        -0.5,
+        0
+      ]
+    },
+    "HitId": "BossLianhuo_Effect850507"
+  },
+  "BossLinen_Skill02": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 700
+    },
+    "HitId": "BossLinen_Skill02"
+  },
+  "BossLinen_Skill05": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 500
+    },
+    "HitId": "BossLinen_Skill05"
+  },
+  "BossLinen_Skill06": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 700
+    },
+    "HitId": "BossLinen_Skill06"
+  },
+  "BossLinen_Skill07": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 700
+    },
+    "HitId": "BossLinen_Skill07"
+  },
+  "BossLinen_Skill11": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 700
+    },
+    "HitId": "BossLinen_Skill11"
+  },
+  "BossLinen_Summon3": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 700
+    },
+    "HitId": "BossLinen_Summon3"
+  },
+  "BossLizhan_Skill02": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 700
+    },
+    "HitId": "BossLizhan_Skill02"
+  },
+  "BossLizhan_Skill04": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 1300
+    },
+    "HitId": "BossLizhan_Skill04"
+  },
+  "BossLizhan_Skill07": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 1000
+    },
+    "HitId": "BossLizhan_Skill07"
+  },
+  "BossShijingzhe_Effect850301": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 250
+    },
+    "HitId": "BossShijingzhe_Effect850301"
+  },
+  "BossShijingzhe_Effect850302": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 700
+    },
+    "HitId": "BossShijingzhe_Effect850302"
+  },
+  "BossShijingzhe_Effect850304": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 1500
+    },
+    "HitId": "BossShijingzhe_Effect850304"
+  },
+  "BossShijingzhe_Effect850306": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 900
+    },
+    "HitId": "BossShijingzhe_Effect850306"
+  },
+  "BossShijingzhe_Effect850316": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 150
+    },
+    "HitId": "BossShijingzhe_Effect850316"
+  },
+  "BossShijingzhe_Effect8503181": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 1000
+    },
+    "HitId": "BossShijingzhe_Effect8503181"
+  },
+  "BossShijingzhe_Effect8503182": {
+    "CauseHit": "GrabHit",
+    "CauseHitParam": {
+      "GrabAnim": "GrabHit_Shijingzhe",
+      "Offset": [
+        3.51566,
+        0.0145,
+        0
+      ]
+    },
+    "HitId": "BossShijingzhe_Effect8503182"
+  },
+  "BossShijingzhe_Effect850320": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 650,
+      "HitFlyZ": 900
+    },
+    "HitId": "BossShijingzhe_Effect850320"
+  },
+  "BossShijingzhe_Effect850322": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 700,
+      "HitFlyZ": 1350
+    },
+    "HitId": "BossShijingzhe_Effect850322"
+  },
+  "BossShijingzhe_Effect850324": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 800
+    },
+    "HitId": "BossShijingzhe_Effect850324"
+  },
+  "BossXibi_Skill07": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 1000
+    },
+    "HitId": "BossXibi_Skill07"
+  },
+  "BossXibi_Skill08": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 1000
+    },
+    "HitId": "BossXibi_Skill08"
+  },
+  "HeavyHit": {
+    "CauseHit": "HeavyHit",
+    "HitId": "HeavyHit"
+  },
+  "HeavyHit_100": {
+    "CauseHit": "HeavyHit",
+    "CauseHitParam": {
+      "MoveDis": 100
+    },
+    "HitId": "HeavyHit_100"
+  },
+  "HeavyHit_120": {
+    "CauseHit": "HeavyHit",
+    "CauseHitParam": {
+      "MoveDis": 120
+    },
+    "HitId": "HeavyHit_120"
+  },
+  "HeavyHit_200": {
+    "CauseHit": "HeavyHit",
+    "CauseHitParam": {
+      "MoveDis": 200
+    },
+    "HitId": "HeavyHit_200"
+  },
+  "HeavyHit_30": {
+    "CauseHit": "HeavyHit",
+    "CauseHitParam": {
+      "MoveDis": 30
+    },
+    "HitId": "HeavyHit_30"
+  },
+  "HeavyHit_50": {
+    "CauseHit": "HeavyHit",
+    "CauseHitParam": {
+      "MoveDis": 50
+    },
+    "HitId": "HeavyHit_50"
+  },
+  "HeavyHit_80": {
+    "CauseHit": "HeavyHit",
+    "CauseHitParam": {
+      "MoveDis": 80
+    },
+    "HitId": "HeavyHit_80"
+  },
+  "HitDown": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 300
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": -500
+    },
+    "HitId": "HitDown",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 50
+    }
+  },
+  "HitFly_Force_Common": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "Bone": [
+        "Pelvis"
+      ],
+      "ForceXY": [
+        8000,
+        15000
+      ],
+      "ForceZ": [
+        8000,
+        12000
+      ]
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 500
+    },
+    "HitId": "HitFly_Force_Common",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_Force_Songlu": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "Bone": [
+        "Pelvis"
+      ],
+      "ForceXY": [
+        50000,
+        80000
+      ],
+      "ForceZ": [
+        30000,
+        50000
+      ]
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 1000,
+      "HitFlyZ": 400
+    },
+    "HitId": "HitFly_Force_Songlu",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_XY0Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY0Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 50
+    }
+  },
+  "HitFly_XY0Z300": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 300
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 300
+    },
+    "HitId": "HitFly_XY0Z300",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 50
+    }
+  },
+  "HitFly_XY0Z3000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 3000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 3000
+    },
+    "HitId": "HitFly_XY0Z3000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_XY0Z500": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 500
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 500
+    },
+    "HitId": "HitFly_XY0Z500",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 50
+    }
+  },
+  "HitFly_XY0Z800": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 800
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 0,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY0Z800",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 50
+    }
+  },
+  "HitFly_XY1000Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 1000,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 1000,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY1000Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_XY1000Z300_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 1000,
+      "HitFlyZ": 300,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 1000,
+      "HitFlyZ": 200,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY1000Z300_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_XY1000Z500": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 1000,
+      "HitFlyZ": 500
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 1000,
+      "HitFlyZ": 400
+    },
+    "HitId": "HitFly_XY1000Z500",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_XY1200Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 1200,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 1200,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY1200Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_XY2000Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 2000,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 2000,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY2000Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 500
+    }
+  },
+  "HitFly_XY200Z100": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 100
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 100
+    },
+    "HitId": "HitFly_XY200Z100",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "HitFly_XY200Z100_B": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 100,
+      "UseResourceDirection": "-X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 100,
+      "UseResourceDirection": "-X"
+    },
+    "HitId": "HitFly_XY200Z100_B",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "HitFly_XY200Z300": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 300
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 300
+    },
+    "HitId": "HitFly_XY200Z300",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "HitFly_XY200Z300_B": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 300,
+      "UseResourceDirection": "-X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 200,
+      "UseResourceDirection": "-X"
+    },
+    "HitId": "HitFly_XY200Z300_B",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "HitFly_XY200Z300_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 300,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 200,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY200Z300_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "HitFly_XY200Z500": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 500
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 400
+    },
+    "HitId": "HitFly_XY200Z500",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "HitFly_XY200Z500_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 500,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 400,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY200Z500_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "HitFly_XY300Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 300,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 300,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY300Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 150
+    }
+  },
+  "HitFly_XY300Z800": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 300,
+      "HitFlyZ": 800
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 300,
+      "HitFlyZ": 700
+    },
+    "HitId": "HitFly_XY300Z800",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 150
+    }
+  },
+  "HitFly_XY400Z300": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 300
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 200
+    },
+    "HitId": "HitFly_XY400Z300",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 200
+    }
+  },
+  "HitFly_XY400Z300_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 300,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 200,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY400Z300_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 200
+    }
+  },
+  "HitFly_XY400Z400_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 400,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 300,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY400Z400_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 200
+    }
+  },
+  "HitFly_XY400Z500_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 500,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 400,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY400Z500_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 200
+    }
+  },
+  "HitFly_XY400Z600": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 600
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 500
+    },
+    "HitId": "HitFly_XY400Z600",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 200
+    }
+  },
+  "HitFly_XY500Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY500Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 250
+    }
+  },
+  "HitFly_XY500Z300": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 300
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 200
+    },
+    "HitId": "HitFly_XY500Z300",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 250
+    }
+  },
+  "HitFly_XY500Z300_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 300
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 500,
+      "HitFlyZ": 200,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY500Z300_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 250
+    }
+  },
+  "HitFly_XY600Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY600Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 300
+    }
+  },
+  "HitFly_XY600Z300": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 300
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 250
+    },
+    "HitId": "HitFly_XY600Z300",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 300
+    }
+  },
+  "HitFly_XY600Z400": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 400
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 300
+    },
+    "HitId": "HitFly_XY600Z400",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 300
+    }
+  },
+  "HitFly_XY600Z400_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 400,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 400,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY600Z400_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 300
+    }
+  },
+  "HitFly_XY600Z600": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 600
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 500
+    },
+    "HitId": "HitFly_XY600Z600",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 300
+    }
+  },
+  "HitFly_XY800Z1000": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 1000
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 800
+    },
+    "HitId": "HitFly_XY800Z1000",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 400
+    }
+  },
+  "HitFly_XY800Z400": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 400
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 300
+    },
+    "HitId": "HitFly_XY800Z400",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 400
+    }
+  },
+  "HitFly_XY800Z400_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 400,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 300,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY800Z400_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 400
+    }
+  },
+  "HitFly_XY800Z600_F": {
+    "CauseHit": "HitFly",
+    "CauseHitParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 600,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 800,
+      "HitFlyZ": 500,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "HitFly_XY800Z600_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 400
+    }
+  },
+  "LightHit": {
+    "CauseHit": "LightHit",
+    "HitFlyComboParam": {
+      "HitFlyXY": 50,
+      "HitFlyZ": 100
+    },
+    "HitId": "LightHit"
+  },
+  "LightHit_100": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 100
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 200
+    },
+    "HitId": "LightHit_100",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "LightHit_1000_Z": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 1000,
+      "UseResourceDirection": "Z"
+    },
+    "HitId": "LightHit_1000_Z"
+  },
+  "LightHit_100_F": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 100,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 200,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "LightHit_100_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "LightHit_120": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 120
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 200
+    },
+    "HitId": "LightHit_120",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "LightHit_150": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 150
+    },
+    "HitId": "LightHit_150",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 150
+    }
+  },
+  "LightHit_150_F": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 150,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 400,
+      "HitFlyZ": 300,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "LightHit_150_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 150
+    }
+  },
+  "LightHit_150_Laser": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 150,
+      "UseTargetDirection": 1
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 50,
+      "HitFlyZ": 100
+    },
+    "HitId": "LightHit_150_Laser"
+  },
+  "LightHit_200": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 200
+    },
+    "HitId": "LightHit_200",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 150
+    }
+  },
+  "LightHit_300": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 300
+    },
+    "HitId": "LightHit_300",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 150
+    }
+  },
+  "LightHit_40": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 40
+    },
+    "HitId": "LightHit_40"
+  },
+  "LightHit_400": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 400
+    },
+    "HitId": "LightHit_400",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 150
+    }
+  },
+  "LightHit_50": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 50
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 200
+    },
+    "HitId": "LightHit_50",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 80
+    }
+  },
+  "LightHit_50_F": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 50,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 200,
+      "HitFlyZ": 200,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "LightHit_50_F",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 80
+    }
+  },
+  "LightHit_60": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 60
+    },
+    "HitId": "LightHit_60",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 80
+    }
+  },
+  "LightHit_80": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 80
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 300,
+      "HitFlyZ": 200
+    },
+    "HitId": "LightHit_80",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 80
+    }
+  },
+  "LightHit_IceBomb": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "UseTargetDirection": 1
+    },
+    "HitId": "LightHit_IceBomb"
+  },
+  "LightHit_Laser": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "UseTargetDirection": 1
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 50,
+      "HitFlyZ": 100
+    },
+    "HitId": "LightHit_Laser"
+  },
+  "LightHit_Tuosi": {
+    "CauseHit": "LightHit",
+    "CauseHitParam": {
+      "MoveDis": 100,
+      "UseResourceDirection": "X"
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 300,
+      "HitFlyZ": 80,
+      "UseResourceDirection": "X"
+    },
+    "HitId": "LightHit_Tuosi",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "RangedWeapon_Common": {
+    "CauseHit": "LightHitRanged",
+    "FirstHit": "LightHit",
+    "HitFlyComboParam": {
+      "HitFlyXY": 50,
+      "HitFlyZ": 100
+    },
+    "HitId": "RangedWeapon_Common",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 100
+    }
+  },
+  "RangedWeapon_Shotgun": {
+    "CauseDie": "HitFly",
+    "CauseDieParam": {
+      "HitFlyXY": 600,
+      "HitFlyZ": 300
+    },
+    "CauseHit": "LightHitRanged",
+    "FirstHit": "LightHit",
+    "FirstHitParam": {
+      "MoveDis": 50
+    },
+    "HitFlyComboParam": {
+      "HitFlyXY": 50,
+      "HitFlyZ": 200
+    },
+    "HitId": "RangedWeapon_Shotgun",
+    "TNZeroHeavyHitParam": {
+      "MoveDis": 200
+    }
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "1": {
+    "EliteArgs": [
+      1500,
+      500,
+      7,
+      1
+    ],
+    "EliteId": 1,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          200,
+          300
+        ]
+      },
+      {
+        "OffsetXY": [
+          -200,
+          300
+        ]
+      },
+      {
+        "OffsetXY": [
+          400,
+          150
+        ]
+      },
+      {
+        "OffsetXY": [
+          -400,
+          150
+        ]
+      },
+      {
+        "OffsetXY": [
+          600,
+          450
+        ]
+      },
+      {
+        "OffsetXY": [
+          -600,
+          450
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          400
+        ]
+      }
+    ],
+    "TeamType": 1
+  },
+  "10101": {
+    "EliteId": 10101,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          150,
+          150
+        ]
+      }
+    ]
+  },
+  "10104900": {
+    "EliteId": 10104900,
+    "SummonPresetShape": {
+      "Interval": 30,
+      "PreFormationType": "Circle",
+      "Radius": 150,
+      "Random": 1
+    }
+  },
+  "2": {
+    "EliteId": 2,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "210101": {
+    "EliteId": 210101,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "Offsets": [
+      {
+        "OffsetXY": [
+          260,
+          0
+        ]
+      }
+    ]
+  },
+  "230101": {
+    "EliteId": 230101,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "230102": {
+    "EliteId": 230102,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "Offsets": [
+      {
+        "OffsetXY": [
+          200,
+          -300
+        ]
+      },
+      {
+        "OffsetXY": [
+          550,
+          50
+        ]
+      },
+      {
+        "OffsetXY": [
+          700,
+          -300
+        ]
+      },
+      {
+        "OffsetXY": [
+          1000,
+          50
+        ]
+      }
+    ]
+  },
+  "230103": {
+    "EliteId": 230103,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "Offsets": [
+      {
+        "OffsetXY": [
+          300,
+          -50
+        ]
+      },
+      {
+        "OffsetXY": [
+          400,
+          300
+        ]
+      },
+      {
+        "OffsetXY": [
+          800,
+          -100
+        ]
+      },
+      {
+        "OffsetXY": [
+          1150,
+          300
+        ]
+      }
+    ]
+  },
+  "230104": {
+    "EliteId": 230104,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "Offsets": [
+      {
+        "OffsetXY": [
+          150,
+          350
+        ]
+      },
+      {
+        "OffsetXY": [
+          450,
+          -400
+        ]
+      },
+      {
+        "OffsetXY": [
+          800,
+          350
+        ]
+      },
+      {
+        "OffsetXY": [
+          1050,
+          -300
+        ]
+      }
+    ]
+  },
+  "240101": {
+    "EliteId": 240101,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "Offsets": [
+      {
+        "OffsetXY": [
+          260,
+          0
+        ]
+      }
+    ]
+  },
+  "410101": {
+    "EliteId": 410101,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          -50,
+          0
+        ]
+      }
+    ]
+  },
+  "410201": {
+    "EliteId": 410201,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          11,
+          -23
+        ]
+      }
+    ]
+  },
+  "430101": {
+    "EliteId": 430101,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          200,
+          0
+        ]
+      }
+    ]
+  },
+  "510101": {
+    "EliteId": 510101,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          95
+        ]
+      }
+    ]
+  },
+  "510102": {
+    "EliteId": 510102
+  },
+  "540201": {
+    "EliteId": 540201,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "Offsets": [
+      {
+        "OffsetXY": [
+          560,
+          0
+        ]
+      }
+    ]
+  },
+  "6000005": {
+    "EliteId": 6000005,
+    "SummonPresetShape": {
+      "Interval": 120,
+      "PreFormationType": "Circle",
+      "Radius": 700,
+      "Random": 0
+    }
+  },
+  "6000009": {
+    "EliteId": 6000009,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          1500,
+          0,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          -750,
+          1500,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          -750,
+          -1500,
+          0
+        ]
+      }
+    ]
+  },
+  "6000012": {
+    "EliteId": 6000012,
+    "SummonPresetShape": {
+      "Interval": 60,
+      "PreFormationType": "Circle",
+      "Radius": 1200,
+      "Random": 0
+    }
+  },
+  "6000014": {
+    "EliteId": 6000014,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          500,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -500,
+          0
+        ]
+      }
+    ]
+  },
+  "600501": {
+    "EliteId": 600501,
+    "SummonPresetShape": {
+      "Interval": 30,
+      "PreFormationType": "Circle",
+      "Radius": 200,
+      "Random": 1
+    }
+  },
+  "600502": {
+    "EliteId": 600502,
+    "SummonPresetShape": {
+      "Interval": 30,
+      "PreFormationType": "Circle",
+      "Radius": 200,
+      "Random": 1
+    }
+  },
+  "601301": {
+    "EliteId": 601301,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          300,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          300
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -300
+        ]
+      }
+    ]
+  },
+  "700201": {
+    "EliteId": 700201,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          -200,
+          200
+        ]
+      }
+    ]
+  },
+  "700202": {
+    "EliteId": 700202,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          200,
+          0
+        ]
+      }
+    ]
+  },
+  "700801": {
+    "EliteId": 700801,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          100,
+          50,
+          400
+        ]
+      }
+    ]
+  },
+  "800201": {
+    "EliteId": 800201,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          300
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -300
+        ]
+      }
+    ]
+  },
+  "800202": {
+    "EliteId": 800202,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          300
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -300
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          600
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -600
+        ]
+      }
+    ]
+  },
+  "850061": {
+    "EliteId": 850061,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "850081": {
+    "EliteId": 850081,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "850401": {
+    "EliteId": 850401,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          -500
+        ]
+      }
+    ]
+  },
+  "850402": {
+    "EliteId": 850402,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          500
+        ]
+      }
+    ]
+  },
+  "850403": {
+    "EliteId": 850403,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          -1000
+        ]
+      }
+    ]
+  },
+  "850404": {
+    "EliteId": 850404,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          1000
+        ]
+      }
+    ]
+  },
+  "850501": {
+    "EliteId": 850501,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          650
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -650
+        ]
+      }
+    ]
+  },
+  "850502": {
+    "EliteId": 850502,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          450,
+          600
+        ]
+      },
+      {
+        "OffsetXY": [
+          450,
+          -600
+        ]
+      },
+      {
+        "OffsetXY": [
+          -450,
+          600
+        ]
+      },
+      {
+        "OffsetXY": [
+          -450,
+          -600
+        ]
+      }
+    ]
+  },
+  "850901": {
+    "EliteId": 850901,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "851001": {
+    "EliteId": 851001,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          400,
+          500
+        ]
+      },
+      {
+        "OffsetXY": [
+          400,
+          -500
+        ]
+      }
+    ]
+  },
+  "851002": {
+    "EliteId": 851002,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          500
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -500
+        ]
+      },
+      {
+        "OffsetXY": [
+          500,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          -500,
+          0
+        ]
+      }
+    ]
+  },
+  "851801": {
+    "EliteId": 851801,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          0,
+          600
+        ]
+      },
+      {
+        "OffsetXY": [
+          0,
+          -600
+        ]
+      },
+      {
+        "OffsetXY": [
+          600,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          -600,
+          0
+        ]
+      },
+      {
+        "OffsetXY": [
+          424,
+          424
+        ]
+      },
+      {
+        "OffsetXY": [
+          424,
+          -424
+        ]
+      },
+      {
+        "OffsetXY": [
+          -424,
+          424
+        ]
+      },
+      {
+        "OffsetXY": [
+          -424,
+          -424
+        ]
+      }
+    ]
+  },
+  "900301": {
+    "EliteId": 900301,
+    "Offsets": [
+      {
+        "OffsetXY": [
+          200,
+          0
+        ]
+      }
+    ]
+  },
+  "900601": {
+    "EliteId": 900601,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "Offsets": [
+      {
+        "OffsetXY": [
+          20,
+          0
+        ]
+      }
+    ]
+  },
+  "900602": {
+    "EliteId": 900602,
+    "LocationCheckParam": {
+      "HalfHeight": 90,
+      "MaxLength": 200,
+      "MaxWidth": 100,
+      "Radius": 45,
+      "StepHeight": 50,
+      "WalkableFloorAngle": 60
+    },
+    "SummonPresetShape": {
+      "Interval": 72,
+      "PreFormationType": "Circle",
+      "Radius": 500,
+      "Random": 0
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "BehaviorId": 1,
+    "OutBattleBehaviorType": "Stroll",
+    "StrollRange": 600
+  },
+  {
+    "BehaviorId": 2,
+    "LoopMontageId": 1,
+    "OutBattleBehaviorType": "LoopMontage"
+  }
+]

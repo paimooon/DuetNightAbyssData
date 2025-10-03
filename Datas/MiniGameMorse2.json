@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "PasswordLen": [
+      2,
+      3
+    ],
+    "Turn": 2
+  },
+  {
+    "Id": 2,
+    "PasswordLen": [
+      4,
+      4
+    ],
+    "Turn": 2
+  }
+]

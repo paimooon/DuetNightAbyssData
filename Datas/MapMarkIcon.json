@@ -1,0 +1,51 @@
+[
+  {
+    "MarkIconID": 1,
+    "MarkIconPath": {
+      "Panel": "/Game/UI/Texture/Dynamic/Atlas/Map/T_Map_MarkIcon_Star.T_Map_MarkIcon_Star",
+      "Point": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_Mark_Star.T_Gp_Mark_Star"
+    }
+  },
+  {
+    "MarkIconID": 2,
+    "MarkIconPath": {
+      "Panel": "/Game/UI/Texture/Dynamic/Atlas/Map/T_Map_MarkIcon_Mission.T_Map_MarkIcon_Mission",
+      "Point": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_Mark_Mission.T_Gp_Mark_Mission"
+    }
+  },
+  {
+    "MarkIconID": 3,
+    "MarkIconPath": {
+      "Panel": "/Game/UI/Texture/Dynamic/Atlas/Map/T_Map_MarkIcon_Enemy.T_Map_MarkIcon_Enemy",
+      "Point": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_Mark_Enemy.T_Gp_Mark_Enemy"
+    }
+  },
+  {
+    "MarkIconID": 4,
+    "MarkIconPath": {
+      "Panel": "/Game/UI/Texture/Dynamic/Atlas/Map/T_Map_MarkIcon_Collect.T_Map_MarkIcon_Collect",
+      "Point": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_Mark_Collect.T_Gp_Mark_Collect"
+    }
+  },
+  {
+    "MarkIconID": 5,
+    "MarkIconPath": {
+      "Panel": "/Game/UI/Texture/Dynamic/Atlas/Map/T_Map_MarkIcon_Fish.T_Map_MarkIcon_Fish",
+      "Point": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_Mark_Fish.T_Gp_Mark_Fish"
+    }
+  },
+  {
+    "MarkIconID": 6,
+    "MarkIconPath": {
+      "Panel": "/Game/UI/Texture/Dynamic/Atlas/Map/T_Map_MarkIcon_Mining.T_Map_MarkIcon_Mining",
+      "Point": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_Mark_Mining.T_Gp_Mark_Mining"
+    }
+  },
+  {
+    "MarkIconID": 7,
+    "MarkIconPath": {
+      "Panel": "/Game/UI/Texture/Dynamic/Atlas/Map/T_Map_MarkIcon_Pet.T_Map_MarkIcon_Pet",
+      "Point": "/Game/UI/Texture/Dynamic/Atlas/GuidePoint/T_Gp_Mark_Pet.T_Gp_Mark_Pet"
+    }
+  }
+]

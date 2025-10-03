@@ -1,0 +1,116 @@
+{
+  "Birth": {
+    "ActionMode": 1,
+    "SourceTag": "Birth"
+  },
+  "CaptureSuccess": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "CaptureSuccess"
+  },
+  "Cover": {
+    "ActionMode": 0,
+    "SourceTag": "Cover"
+  },
+  "Crouch": {
+    "ActionMode": 0,
+    "SourceTag": "Crouch"
+  },
+  "Dead": {
+    "ActionMode": 1,
+    "ForbidAI": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "Dead"
+  },
+  "Defeated": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "Defeated"
+  },
+  "Falling": {
+    "ActionMode": 0,
+    "SourceTag": "Falling"
+  },
+  "HeavyHit": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "HeavyHit",
+    "TagType": [
+      "Hit"
+    ]
+  },
+  "HitFly": {
+    "ActionMode": 1,
+    "BreakableItem": {
+      "Breakable": true
+    },
+    "InterruptNavLink": true,
+    "SourceTag": "HitFly",
+    "TagType": [
+      "Hit"
+    ]
+  },
+  "Idle": {
+    "ActionMode": 0,
+    "SourceTag": "Idle"
+  },
+  "LandHeavy": {
+    "ActionMode": 0,
+    "SourceTag": "LandHeavy"
+  },
+  "LightHit": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "LightHit",
+    "TagType": [
+      "Hit"
+    ]
+  },
+  "LightHitRanged": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "LightHitRanged",
+    "TagType": [
+      "Hit"
+    ]
+  },
+  "Shooting": {
+    "ActionMode": 0,
+    "SourceTag": "Shooting",
+    "TagType": [
+      "Skill"
+    ]
+  },
+  "Skill": {
+    "ActionMode": 0,
+    "SourceTag": "Skill",
+    "TagType": [
+      "Skill"
+    ]
+  },
+  "Slide": {
+    "ActionMode": 0,
+    "SourceTag": "Slide"
+  },
+  "Stun": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "Stun",
+    "TagType": [
+      "Controlled"
+    ]
+  },
+  "StunFloat": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "StunFloat",
+    "TagType": [
+      "Controlled"
+    ]
+  },
+  "WaitForCaught": {
+    "ActionMode": 1,
+    "InterruptNavLink": true,
+    "SourceTag": "WaitForCaught"
+  }
+}

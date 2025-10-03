@@ -1,0 +1,10 @@
+[
+  {
+    "Text": "UI_CharVoice_Normal",
+    "Type": 1
+  },
+  {
+    "Text": "UI_CharVoice_Battle",
+    "Type": 2
+  }
+]

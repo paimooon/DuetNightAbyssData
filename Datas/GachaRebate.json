@@ -1,0 +1,31 @@
+{
+  "Char": [
+    null,
+    null,
+    null,
+    {
+      "Rarity": 4,
+      "Type": "Char"
+    },
+    {
+      "Rarity": 5,
+      "Type": "Char"
+    }
+  ],
+  "Weapon": [
+    null,
+    null,
+    {
+      "Rarity": 3,
+      "Type": "Weapon"
+    },
+    {
+      "Rarity": 4,
+      "Type": "Weapon"
+    },
+    {
+      "Rarity": 5,
+      "Type": "Weapon"
+    }
+  ]
+}

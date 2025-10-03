@@ -1,0 +1,31 @@
+[
+  {
+    "Id": 1,
+    "RegionType": {
+      "From": "Main",
+      "To": "Fantasy"
+    },
+    "TriggerCondition": {
+      "QuestUnstart": {
+        "QuestId": 10020802
+      }
+    },
+    "WBPPath": "WidgetBlueprint'/Game/UI/WBP/Common/Loading/Widget/WBP_Com_Loading_White.WBP_Com_Loading_White'"
+  },
+  {
+    "Id": 2,
+    "RegionType": {
+      "From": "Main",
+      "To": "EX"
+    },
+    "WBPPath": "WidgetBlueprint'/Game/UI/WBP/ChapterStart/Widget/WBP_Chapter_CharChange.WBP_Chapter_CharChange'"
+  },
+  {
+    "Id": 3,
+    "RegionType": {
+      "From": "EX",
+      "To": "Main"
+    },
+    "WBPPath": "WidgetBlueprint'/Game/UI/WBP/ChapterStart/Widget/WBP_Chapter_CharChange.WBP_Chapter_CharChange'"
+  }
+]

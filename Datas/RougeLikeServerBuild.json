@@ -1,0 +1,450 @@
+{
+  "1": {
+    "Id": 1,
+    "Param": [
+      1
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "MRTExtraTimes"
+  },
+  "10": {
+    "Id": 10,
+    "Param": [
+      0.2
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "TokenExtraRate"
+  },
+  "11": {
+    "Id": 11,
+    "Param": [
+      13
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetTreasure"
+  },
+  "12": {
+    "Id": 12,
+    "Param": [
+      1.5
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "ShopDiscount"
+  },
+  "13": {
+    "Id": 13,
+    "Param": [
+      2
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "ChoiceNumber"
+  },
+  "14": {
+    "Id": 14,
+    "RoomCount": -1,
+    "ServerBuild": "RandomChoice"
+  },
+  "15": {
+    "Id": 15,
+    "Param": [
+      0,
+      1
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "RefreshCost"
+  },
+  "16": {
+    "Id": 16,
+    "Param": [
+      4,
+      4
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetTreasure"
+  },
+  "17": {
+    "Id": 17,
+    "Param": [
+      5,
+      5
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "18": {
+    "Id": 18,
+    "Param": [
+      5,
+      5
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetTreasure"
+  },
+  "19": {
+    "Id": 19,
+    "Param": [
+      0.3
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "EndPointsExtraRate"
+  },
+  "2": {
+    "Id": 2,
+    "Param": [
+      200
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetToken"
+  },
+  "20": {
+    "Id": 20,
+    "Param": [
+      2
+    ],
+    "RoomCount": 4,
+    "ServerBuild": "RefreshRate"
+  },
+  "21": {
+    "Id": 21,
+    "Param": [
+      1000,
+      500
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "RecoverTimes"
+  },
+  "22": {
+    "Id": 22,
+    "Param": [
+      1,
+      [
+        1
+      ]
+    ],
+    "RoomCount": -1,
+    "RoomType": [
+      1,
+      6
+    ],
+    "ServerBuild": "MRTAutoUpgrade"
+  },
+  "23": {
+    "Id": 23,
+    "Param": [
+      "Mon.Strong",
+      3,
+      24
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "KillMonster"
+  },
+  "24": {
+    "Id": 24,
+    "Param": [
+      150
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetToken"
+  },
+  "25": {
+    "Id": 25,
+    "Param": [
+      50
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "EffectByToken"
+  },
+  "26": {
+    "Id": 26,
+    "Param": [
+      "Blessing",
+      50
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetTokenByAwardCount"
+  },
+  "27": {
+    "Id": 27,
+    "Param": [
+      "Blessing",
+      [
+        2,
+        3
+      ]
+    ],
+    "RoomCount": 2,
+    "RoomType": [
+      1,
+      6
+    ],
+    "ServerBuild": "MRTLimitRarity"
+  },
+  "28": {
+    "Id": 28,
+    "Param": [
+      1.2
+    ],
+    "RoomCount": 4,
+    "ServerBuild": "ShopDiscount"
+  },
+  "29": {
+    "Id": 29,
+    "Param": [
+      300
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetToken"
+  },
+  "3": {
+    "Id": 3,
+    "Param": [
+      0.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "ShopDiscount"
+  },
+  "30": {
+    "Id": 30,
+    "Param": [
+      2
+    ],
+    "RoomCount": 4,
+    "ServerBuild": "RefreshRate"
+  },
+  "31": {
+    "Id": 31,
+    "Param": [
+      300
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetToken"
+  },
+  "32": {
+    "Id": 32,
+    "RoomCount": 6,
+    "ServerBuild": "DisableGetToken"
+  },
+  "33": {
+    "Id": 33,
+    "Param": [
+      1000
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetToken"
+  },
+  "34": {
+    "Id": 34,
+    "Param": [
+      "Blessing",
+      1,
+      1
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetGroupAwardByCount"
+  },
+  "35": {
+    "Id": 35,
+    "Param": [
+      21
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "36": {
+    "Id": 36,
+    "Param": [
+      "Blessing",
+      [
+        1
+      ],
+      1.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "GroupWeightRate"
+  },
+  "37": {
+    "Id": 37,
+    "Param": [
+      22
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "38": {
+    "Id": 38,
+    "Param": [
+      "Blessing",
+      [
+        2
+      ],
+      1.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "GroupWeightRate"
+  },
+  "39": {
+    "Id": 39,
+    "Param": [
+      23
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "4": {
+    "Id": 4,
+    "Param": [
+      4,
+      4
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "40": {
+    "Id": 40,
+    "Param": [
+      "Blessing",
+      [
+        3
+      ],
+      1.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "GroupWeightRate"
+  },
+  "41": {
+    "Id": 41,
+    "Param": [
+      24
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "42": {
+    "Id": 42,
+    "Param": [
+      "Blessing",
+      [
+        4
+      ],
+      1.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "GroupWeightRate"
+  },
+  "43": {
+    "Id": 43,
+    "Param": [
+      25
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "44": {
+    "Id": 44,
+    "Param": [
+      "Blessing",
+      [
+        5
+      ],
+      1.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "GroupWeightRate"
+  },
+  "45": {
+    "Id": 45,
+    "Param": [
+      26
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "46": {
+    "Id": 46,
+    "Param": [
+      "Blessing",
+      [
+        6
+      ],
+      1.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "GroupWeightRate"
+  },
+  "47": {
+    "Id": 47,
+    "Param": [
+      27
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "GetBlessing"
+  },
+  "48": {
+    "Id": 48,
+    "Param": [
+      "Blessing",
+      [
+        7
+      ],
+      1.8
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "GroupWeightRate"
+  },
+  "49": {
+    "Id": 49,
+    "RoomCount": 1,
+    "ServerBuild": "Skip"
+  },
+  "5": {
+    "Id": 5,
+    "Param": [
+      6
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "ReplaceAllBlessing"
+  },
+  "50": {
+    "Id": 50,
+    "RoomCount": 6,
+    "ServerBuild": "Skip"
+  },
+  "6": {
+    "Id": 6,
+    "Param": [
+      6
+    ],
+    "RoomCount": 0,
+    "ServerBuild": "ReplaceAllTreasure"
+  },
+  "7": {
+    "Id": 7,
+    "RoomCount": 3,
+    "RoomType": [
+      1,
+      6
+    ],
+    "ServerBuild": "DisableGetToken"
+  },
+  "8": {
+    "Id": 8,
+    "RoomCount": 2,
+    "RoomType": [
+      1
+    ],
+    "ServerBuild": "DisableGetToken"
+  },
+  "9": {
+    "Id": 9,
+    "Param": [
+      0.2
+    ],
+    "RoomCount": -1,
+    "ServerBuild": "EndPointsExtraRate"
+  },
+  "999": {
+    "Id": 999,
+    "RoomCount": 1,
+    "ServerBuild": "DisableGetToken"
+  }
+}

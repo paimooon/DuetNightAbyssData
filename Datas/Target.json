@@ -1,0 +1,5346 @@
+{
+  "1": {
+    "BattleAchiTargetTypeId": 1,
+    "TargetId": 1
+  },
+  "1001": {
+    "BattleAchiTargetTypeId": 1001,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1001
+  },
+  "100101": {
+    "TargetId": 100101,
+    "TargetType": 11001
+  },
+  "10020201": {
+    "TargetId": 10020201,
+    "TargetParam": [
+      [
+        "90305",
+        "90306",
+        "90310"
+      ],
+      [
+        "3600"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "10020301": {
+    "TargetId": 10020301,
+    "TargetParam": [
+      [
+        "90501",
+        "90502",
+        "90503",
+        "90504",
+        "90505",
+        "90506",
+        "90507",
+        "90508",
+        "90509",
+        "90510",
+        "90511",
+        "90512",
+        "90513",
+        "90514",
+        "90515"
+      ],
+      [
+        "3600"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "100401": {
+    "TargetId": 100401,
+    "TargetType": 10004
+  },
+  "10051601": {
+    "TargetId": 10051601,
+    "TargetType": 10516
+  },
+  "10051701": {
+    "TargetId": 10051701,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10517
+  },
+  "10051702": {
+    "TargetId": 10051702,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10517
+  },
+  "101": {
+    "TargetId": 101,
+    "TargetParam": [
+      [
+        "10"
+      ]
+    ],
+    "TargetType": 10001
+  },
+  "1010": {
+    "BattleAchiTargetTypeId": 1010,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1010
+  },
+  "101001": {
+    "TargetId": 101001,
+    "TargetParam": [
+      [
+        "29001"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "101002": {
+    "TargetId": 101002,
+    "TargetParam": [
+      [
+        "29002"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "101003": {
+    "TargetId": 101003,
+    "TargetParam": [
+      [
+        "29003"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10101": {
+    "TargetId": 10101,
+    "TargetParam": [
+      [
+        "101"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10102": {
+    "TargetId": 10102,
+    "TargetParam": [
+      [
+        "102"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10104": {
+    "TargetId": 10104,
+    "TargetParam": [
+      [
+        "2000003",
+        "2000004",
+        "2000005"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10105": {
+    "TargetId": 10105,
+    "TargetParam": [
+      [
+        "2000014",
+        "2000015",
+        "2000016"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "1010501": {
+    "TargetId": 1010501,
+    "TargetParam": [
+      [
+        "InfiniteBattleItem"
+      ],
+      [
+        "GestureItem"
+      ]
+    ],
+    "TargetType": 10105
+  },
+  "10106": {
+    "TargetId": 10106,
+    "TargetParam": [
+      [
+        "20602",
+        "20603",
+        "20604",
+        "20605"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10107": {
+    "TargetId": 10107,
+    "TargetParam": [
+      [
+        "20608",
+        "20609",
+        "20610",
+        "20611",
+        "20612",
+        "20613",
+        "20614",
+        "20615",
+        "20616",
+        "20617"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10108": {
+    "TargetId": 10108,
+    "TargetParam": [
+      [
+        "20620",
+        "20621",
+        "20622"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10109": {
+    "TargetId": 10109,
+    "TargetParam": [
+      [
+        "2000041",
+        "2000042",
+        "2000043"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "1011": {
+    "BattleAchiTargetTypeId": 1011,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1011
+  },
+  "10110": {
+    "TargetId": 10110,
+    "TargetParam": [
+      [
+        "5021010",
+        "5021011",
+        "5021020",
+        "5021021",
+        "5021030",
+        "5021031",
+        "5021040",
+        "5021041",
+        "5021050",
+        "5021051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10111": {
+    "TargetId": 10111,
+    "TargetParam": [
+      [
+        "5023010",
+        "5023011",
+        "5023020",
+        "5023021",
+        "5023030",
+        "5023031",
+        "5023040",
+        "5023041",
+        "5023050",
+        "5023051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10112": {
+    "TargetId": 10112,
+    "TargetParam": [
+      [
+        "5025010",
+        "5025011",
+        "5025020",
+        "5025021",
+        "5025030",
+        "5025031",
+        "5025040",
+        "5025041",
+        "5025050",
+        "5025051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10113": {
+    "TargetId": 10113,
+    "TargetParam": [
+      [
+        "5022010",
+        "5022011",
+        "5022020",
+        "5022021",
+        "5022030",
+        "5022031",
+        "5022040",
+        "5022041",
+        "5022050",
+        "5022051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10114": {
+    "TargetId": 10114,
+    "TargetParam": [
+      [
+        "5024010",
+        "5024011",
+        "5024020",
+        "5024021",
+        "5024030",
+        "5024031",
+        "5024040",
+        "5024041",
+        "5024050",
+        "5024051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10115": {
+    "TargetId": 10115,
+    "TargetParam": [
+      [
+        "5023010",
+        "5023011"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10116": {
+    "TargetId": 10116,
+    "TargetParam": [
+      [
+        "2003"
+      ]
+    ],
+    "TargetType": 10104
+  },
+  "10117": {
+    "TargetId": 10117,
+    "TargetParam": [
+      [
+        "6000001"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10118": {
+    "TargetId": 10118,
+    "TargetParam": [
+      [
+        "5012010",
+        "5012011",
+        "5012020",
+        "5012021",
+        "5012030",
+        "5012031",
+        "5023010",
+        "5023011",
+        "5023020",
+        "5023021",
+        "5023030",
+        "5023031",
+        "5023040",
+        "5023041",
+        "5023050",
+        "5023051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10119": {
+    "TargetId": 10119,
+    "TargetParam": [
+      [
+        "5011010",
+        "5011020",
+        "5011030",
+        "5021010",
+        "5021011",
+        "5021020",
+        "5021021",
+        "5021030",
+        "5021031",
+        "5021040",
+        "5021041",
+        "5021050",
+        "5021051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "1012": {
+    "BattleAchiTargetTypeId": 1012,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1012
+  },
+  "10120": {
+    "TargetId": 10120,
+    "TargetParam": [
+      [
+        "206"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10121": {
+    "TargetId": 10121,
+    "TargetParam": [
+      [
+        "2012"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10122": {
+    "TargetId": 10122,
+    "TargetParam": [
+      [
+        "10002",
+        "10006",
+        "10010",
+        "10014",
+        "10018",
+        "10022"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10123": {
+    "TargetId": 10123,
+    "TargetParam": [
+      [
+        "2008"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10124": {
+    "TargetId": 10124,
+    "TargetParam": [
+      [
+        "11002",
+        "11005",
+        "11008",
+        "11011",
+        "11014",
+        "11017"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10125": {
+    "TargetId": 10125,
+    "TargetParam": [
+      [
+        "2000057",
+        "2000058",
+        "2000059",
+        "2000060",
+        "2000061",
+        "2000062",
+        "2000063",
+        "2000064",
+        "2000065",
+        "2000066"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "10126": {
+    "TargetId": 10126,
+    "TargetParam": [
+      [
+        "2000053",
+        "2000054",
+        "2000055",
+        "2000056"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "1013": {
+    "BattleAchiTargetTypeId": 1013,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1013
+  },
+  "1014": {
+    "BattleAchiTargetTypeId": 1014,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1014
+  },
+  "1015": {
+    "BattleAchiTargetTypeId": 1015,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1015
+  },
+  "1016": {
+    "BattleAchiTargetTypeId": 1016,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1016
+  },
+  "1017": {
+    "BattleAchiTargetTypeId": 1017,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1017
+  },
+  "1018": {
+    "BattleAchiTargetTypeId": 1018,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 1018
+  },
+  "102": {
+    "TargetId": 102,
+    "TargetParam": [
+      [
+        "20"
+      ]
+    ],
+    "TargetType": 10001
+  },
+  "10200101": {
+    "TargetId": 10200101,
+    "TargetParam": [
+      [
+        "120101"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "10200102": {
+    "TargetId": 10200102,
+    "TargetParam": [
+      [
+        "120102"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "10200103": {
+    "TargetId": 10200103,
+    "TargetParam": [
+      [
+        "120103"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "10200104": {
+    "TargetId": 10200104,
+    "TargetParam": [
+      [
+        "120104"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "10200105": {
+    "TargetId": 10200105,
+    "TargetParam": [
+      [
+        "120105"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "10200106": {
+    "TargetId": 10200106,
+    "TargetParam": [
+      [
+        "120106"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "10201": {
+    "TargetId": 10201,
+    "TargetParam": [
+      [
+        "101"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10202": {
+    "TargetId": 10202,
+    "TargetParam": [
+      [
+        "102"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10203": {
+    "TargetId": 10203,
+    "TargetParam": [
+      [
+        "10001.0"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10204": {
+    "TargetId": 10204,
+    "TargetParam": [
+      [
+        "10002.0"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10205": {
+    "TargetId": 10205,
+    "TargetParam": [
+      [
+        "10003.0"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10206": {
+    "TargetId": 10206,
+    "TargetParam": [
+      [
+        "206"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10207": {
+    "TargetId": 10207,
+    "TargetParam": [
+      [
+        "207"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10208": {
+    "TargetId": 10208,
+    "TargetParam": [
+      [
+        "208"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "10209": {
+    "TargetId": 10209,
+    "TargetParam": [
+      [
+        "209"
+      ]
+    ],
+    "TargetType": 10102
+  },
+  "1021": {
+    "BattleAchiTargetTypeId": 1021,
+    "ConditionId": [
+      1000051
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 1021
+  },
+  "1022": {
+    "BattleAchiTargetTypeId": 1022,
+    "ConditionId": [
+      1000051
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 1022
+  },
+  "1023": {
+    "BattleAchiTargetTypeId": 1023,
+    "ConditionId": [
+      1000051
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 1023
+  },
+  "103": {
+    "TargetId": 103,
+    "TargetParam": [
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 10001
+  },
+  "10301": {
+    "TargetId": 10301,
+    "TargetParam": [
+      [
+        "Fish"
+      ],
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "TargetType": 10103
+  },
+  "10302": {
+    "TargetId": 10302,
+    "TargetParam": [
+      [
+        "Fish"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10103
+  },
+  "10351": {
+    "TargetId": 10351,
+    "TargetParam": [
+      [
+        "Read"
+      ],
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "TargetType": 10103
+  },
+  "104": {
+    "TargetId": 104,
+    "TargetParam": [
+      [
+        "40"
+      ]
+    ],
+    "TargetType": 10001
+  },
+  "105": {
+    "TargetId": 105,
+    "TargetParam": [
+      [
+        "50"
+      ]
+    ],
+    "TargetType": 10001
+  },
+  "106": {
+    "TargetId": 106,
+    "TargetParam": [
+      [
+        "60"
+      ]
+    ],
+    "TargetType": 10001
+  },
+  "1070301": {
+    "TargetId": 1070301,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10703
+  },
+  "1070302": {
+    "TargetId": 1070302,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10703
+  },
+  "1070303": {
+    "TargetId": 1070303,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10703
+  },
+  "1070304": {
+    "TargetId": 1070304,
+    "TargetParam": [
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 10703
+  },
+  "1400101": {
+    "TargetId": 1400101,
+    "TargetType": 14001
+  },
+  "1400201": {
+    "TargetId": 1400201,
+    "TargetType": 14002
+  },
+  "1400301": {
+    "TargetId": 1400301,
+    "TargetParam": [
+      [
+        "3"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 14003
+  },
+  "1400302": {
+    "TargetId": 1400302,
+    "TargetParam": [
+      [
+        "3"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 14003
+  },
+  "1400303": {
+    "TargetId": 1400303,
+    "TargetParam": [
+      [
+        "3"
+      ],
+      [
+        "10"
+      ]
+    ],
+    "TargetType": 14003
+  },
+  "1400401": {
+    "TargetId": 1400401,
+    "TargetParam": [
+      [
+        "1240833"
+      ]
+    ],
+    "TargetType": 14004
+  },
+  "1400402": {
+    "TargetId": 1400402,
+    "TargetParam": [
+      [
+        "1730280"
+      ]
+    ],
+    "TargetType": 14004
+  },
+  "1500101": {
+    "TargetId": 1500101,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "1"
+      ],
+      [
+        "7"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500102": {
+    "TargetId": 1500102,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "2"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500103": {
+    "TargetId": 1500103,
+    "TargetParam": [
+      [
+        "2"
+      ],
+      [
+        "2"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500104": {
+    "TargetId": 1500104,
+    "TargetParam": [
+      [
+        "3"
+      ],
+      [
+        "2"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500105": {
+    "TargetId": 1500105,
+    "TargetParam": [
+      [
+        "5"
+      ],
+      [
+        "2"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500106": {
+    "TargetId": 1500106,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "3"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500107": {
+    "TargetId": 1500107,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "3"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500108": {
+    "TargetId": 1500108,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "3"
+      ],
+      [
+        "10"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1500109": {
+    "TargetId": 1500109,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "1"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 15001
+  },
+  "1600101": {
+    "TargetId": 1600101,
+    "TargetType": 16001
+  },
+  "1700101": {
+    "TargetId": 1700101,
+    "TargetType": 17001
+  },
+  "1800101": {
+    "TargetId": 1800101,
+    "TargetParam": [
+      [
+        "1006"
+      ]
+    ],
+    "TargetType": 18001
+  },
+  "1800102": {
+    "TargetId": 1800102,
+    "TargetParam": [
+      [
+        "1007"
+      ]
+    ],
+    "TargetType": 18001
+  },
+  "1900101": {
+    "TargetId": 1900101,
+    "TargetParam": [
+      [
+        "1",
+        "2",
+        "3"
+      ]
+    ],
+    "TargetType": 19001
+  },
+  "1900102": {
+    "TargetId": 1900102,
+    "TargetParam": [
+      [
+        "1001"
+      ]
+    ],
+    "TargetType": 19002
+  },
+  "2000": {
+    "BattleAchiTargetTypeId": 2000,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2000
+  },
+  "2000101": {
+    "TargetId": 2000101,
+    "TargetParam": [
+      [
+        "Char",
+        "Weapon"
+      ]
+    ],
+    "TargetType": 20001
+  },
+  "2001": {
+    "BattleAchiTargetTypeId": 2001,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2001
+  },
+  "200101": {
+    "TargetId": 200101,
+    "TargetType": 12001
+  },
+  "2002": {
+    "BattleAchiTargetTypeId": 2002,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2002
+  },
+  "200201": {
+    "TargetId": 200201,
+    "TargetParam": [
+      [
+        "1011"
+      ],
+      [
+        "Chaos"
+      ],
+      [
+        "20"
+      ]
+    ],
+    "TargetType": 12002
+  },
+  "200202": {
+    "TargetId": 200202,
+    "TargetParam": [
+      [
+        "1011"
+      ],
+      [
+        "Benefit"
+      ],
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 12002
+  },
+  "200203": {
+    "TargetId": 200203,
+    "TargetParam": [
+      [
+        "1011"
+      ],
+      [
+        "Wisdom"
+      ],
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 12002
+  },
+  "200204": {
+    "TargetId": 200204,
+    "TargetParam": [
+      [
+        "1011"
+      ],
+      [
+        "Morality"
+      ],
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 12002
+  },
+  "20020401": {
+    "TargetId": 20020401,
+    "TargetType": 10513
+  },
+  "200205": {
+    "TargetId": 200205,
+    "TargetParam": [
+      [
+        "1011"
+      ],
+      [
+        "Empathy"
+      ],
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 12002
+  },
+  "20020509": {
+    "TargetId": 20020509,
+    "TargetParam": [
+      [
+        "5021010",
+        "5021011",
+        "5021020",
+        "5021021",
+        "5021030",
+        "5021031",
+        "5021040",
+        "5021041",
+        "5021050",
+        "5021051"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "200206": {
+    "TargetId": 200206,
+    "TargetParam": [
+      [
+        "1011"
+      ],
+      [
+        "Chaos"
+      ],
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 12002
+  },
+  "20022803": {
+    "TargetId": 20022803,
+    "TargetParam": [
+      [
+        "Weapon"
+      ],
+      [
+        "4",
+        "5"
+      ]
+    ],
+    "TargetType": 10901
+  },
+  "200235": {
+    "TargetId": 200235,
+    "TargetType": 10523
+  },
+  "20023601": {
+    "TargetId": 20023601,
+    "TargetParam": [
+      [
+        "1020"
+      ]
+    ],
+    "TargetType": 19002
+  },
+  "20023602": {
+    "TargetId": 20023602,
+    "TargetParam": [
+      [
+        "1005101"
+      ]
+    ],
+    "TargetType": 10101
+  },
+  "20023603": {
+    "TargetId": 20023603,
+    "TargetParam": [
+      [
+        "5101"
+      ]
+    ],
+    "TargetType": 10603
+  },
+  "2003": {
+    "BattleAchiTargetTypeId": 2003,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2003
+  },
+  "200301": {
+    "ConditionId": [
+      1052
+    ],
+    "TargetId": 200301,
+    "TargetType": 12003
+  },
+  "2004": {
+    "BattleAchiTargetTypeId": 2004,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2004
+  },
+  "200401": {
+    "TargetId": 200401,
+    "TargetParam": [
+      [
+        "1011",
+        "2101",
+        "2001",
+        "1001",
+        "1013",
+        "1014",
+        "1017",
+        "1019",
+        "1021",
+        "1022",
+        "1032"
+      ]
+    ],
+    "TargetType": 12004
+  },
+  "2005": {
+    "BattleAchiTargetTypeId": 2005,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2005
+  },
+  "2006": {
+    "BattleAchiTargetTypeId": 2006,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2006
+  },
+  "2007": {
+    "BattleAchiTargetTypeId": 2007,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2007
+  },
+  "2008": {
+    "BattleAchiTargetTypeId": 2008,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2008
+  },
+  "201": {
+    "TargetId": 201,
+    "TargetType": 10002
+  },
+  "2011": {
+    "BattleAchiTargetTypeId": 2011,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2011
+  },
+  "2012": {
+    "BattleAchiTargetTypeId": 2012,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2012
+  },
+  "2013": {
+    "BattleAchiTargetTypeId": 2013,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2013
+  },
+  "2014": {
+    "BattleAchiTargetTypeId": 2014,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2014
+  },
+  "2015": {
+    "BattleAchiTargetTypeId": 2015,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2015
+  },
+  "2016": {
+    "BattleAchiTargetTypeId": 2016,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2016
+  },
+  "2017": {
+    "BattleAchiTargetTypeId": 2017,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2017
+  },
+  "2021": {
+    "BattleAchiTargetTypeId": 2021,
+    "ConditionId": [
+      1000051
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 2021
+  },
+  "2022": {
+    "BattleAchiTargetTypeId": 2022,
+    "ConditionId": [
+      1000051
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 2022
+  },
+  "2023": {
+    "BattleAchiTargetTypeId": 2023,
+    "ConditionId": [
+      1000051
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 2023
+  },
+  "2024": {
+    "BattleAchiTargetTypeId": 2024,
+    "ConditionId": [
+      1000051
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 2024
+  },
+  "2031": {
+    "BattleAchiTargetTypeId": 2031,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2031
+  },
+  "2032": {
+    "BattleAchiTargetTypeId": 2032,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2032
+  },
+  "2033": {
+    "BattleAchiTargetTypeId": 2033,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2033
+  },
+  "2041": {
+    "BattleAchiTargetTypeId": 2041,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2041
+  },
+  "2042": {
+    "BattleAchiTargetTypeId": 2042,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2042
+  },
+  "2043": {
+    "BattleAchiTargetTypeId": 2043,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2043
+  },
+  "2044": {
+    "BattleAchiTargetTypeId": 2044,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2044
+  },
+  "2045": {
+    "BattleAchiTargetTypeId": 2045,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2045
+  },
+  "2046": {
+    "BattleAchiTargetTypeId": 2046,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2046
+  },
+  "2047": {
+    "BattleAchiTargetTypeId": 2047,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2047
+  },
+  "2051": {
+    "BattleAchiTargetTypeId": 2051,
+    "ConditionId": [
+      1000205
+    ],
+    "TargetId": 2051
+  },
+  "2052": {
+    "BattleAchiTargetTypeId": 2052,
+    "ConditionId": [
+      1000006,
+      1000205
+    ],
+    "TargetId": 2052
+  },
+  "2053": {
+    "BattleAchiTargetTypeId": 2053,
+    "ConditionId": [
+      1000006,
+      1000205
+    ],
+    "TargetId": 2053
+  },
+  "2100101": {
+    "TargetId": 2100101,
+    "TargetType": 21001
+  },
+  "2101": {
+    "BattleAchiTargetTypeId": 2101,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2101
+  },
+  "2102": {
+    "BattleAchiTargetTypeId": 2102,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2102
+  },
+  "2103": {
+    "BattleAchiTargetTypeId": 2103,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2103
+  },
+  "2104": {
+    "BattleAchiTargetTypeId": 2104,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2104
+  },
+  "2105": {
+    "BattleAchiTargetTypeId": 2105,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2105
+  },
+  "2106": {
+    "BattleAchiTargetTypeId": 2106,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2106
+  },
+  "2107": {
+    "BattleAchiTargetTypeId": 2107,
+    "ConditionId": [
+      1000006
+    ],
+    "TargetId": 2107
+  },
+  "2200101": {
+    "TargetId": 2200101,
+    "TargetParam": [
+      [
+        "108001"
+      ],
+      [
+        "False"
+      ],
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 22001
+  },
+  "2200102": {
+    "TargetId": 2200102,
+    "TargetParam": [
+      [
+        "108001"
+      ],
+      [
+        "False"
+      ],
+      [
+        "9"
+      ]
+    ],
+    "TargetType": 22001
+  },
+  "2200103": {
+    "TargetId": 2200103,
+    "TargetParam": [
+      [
+        "108001"
+      ],
+      [
+        "False"
+      ],
+      [
+        "12"
+      ]
+    ],
+    "TargetType": 22001
+  },
+  "2200104": {
+    "TargetId": 2200104,
+    "TargetParam": [
+      [
+        "108001"
+      ],
+      [
+        "True"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 22001
+  },
+  "2200301": {
+    "TargetId": 2200301,
+    "TargetType": 22003
+  },
+  "2200401": {
+    "TargetId": 2200401,
+    "TargetParam": [
+      [
+        "10200101",
+        "10200102",
+        "10200103",
+        "10200104",
+        "10200105",
+        "10200106"
+      ]
+    ],
+    "TargetType": 22004
+  },
+  "2200501": {
+    "TargetId": 2200501,
+    "TargetParam": [
+      [
+        "60004"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "2200601": {
+    "TargetId": 2200601,
+    "TargetType": 22006
+  },
+  "2201": {
+    "BattleAchiTargetTypeId": 2201,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2201
+  },
+  "2202": {
+    "BattleAchiTargetTypeId": 2202,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2202
+  },
+  "2203": {
+    "BattleAchiTargetTypeId": 2203,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2203
+  },
+  "2204": {
+    "BattleAchiTargetTypeId": 2204,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2204
+  },
+  "2205": {
+    "BattleAchiTargetTypeId": 2205,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 2205
+  },
+  "2300101": {
+    "TargetId": 2300101,
+    "TargetType": 23001
+  },
+  "2300102": {
+    "TargetId": 2300102,
+    "TargetParam": [
+      [
+        "1023"
+      ]
+    ],
+    "TargetType": 23001
+  },
+  "3001": {
+    "BattleAchiTargetTypeId": 3001,
+    "ConditionId": [
+      1000010
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 3001
+  },
+  "300101": {
+    "TargetId": 300101,
+    "TargetType": 13001
+  },
+  "301": {
+    "TargetId": 301,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10003
+  },
+  "30101": {
+    "TargetId": 30101,
+    "TargetType": 10301
+  },
+  "3011": {
+    "BattleAchiTargetTypeId": 3011,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3011
+  },
+  "3012": {
+    "BattleAchiTargetTypeId": 3012,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3012
+  },
+  "302": {
+    "TargetId": 302,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10003
+  },
+  "30201": {
+    "TargetId": 30201,
+    "TargetParam": [
+      [
+        "21005",
+        "21006"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30202": {
+    "TargetId": 30202,
+    "TargetParam": [
+      [
+        "22007",
+        "22008"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30203": {
+    "TargetId": 30203,
+    "TargetParam": [
+      [
+        "23007",
+        "23008"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30204": {
+    "TargetId": 30204,
+    "TargetParam": [
+      [
+        "31215",
+        "31216"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30205": {
+    "TargetId": 30205,
+    "TargetParam": [
+      [
+        "32004",
+        "32005"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30206": {
+    "TargetId": 30206,
+    "TargetParam": [
+      [
+        "33004",
+        "33005"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30207": {
+    "TargetId": 30207,
+    "TargetParam": [
+      [
+        "31301",
+        "31201",
+        "31202",
+        "31203",
+        "31204"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30208": {
+    "TargetId": 30208,
+    "TargetParam": [
+      [
+        "32301",
+        "32302"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30209": {
+    "TargetId": 30209,
+    "TargetParam": [
+      [
+        "33311",
+        "33331"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "3021": {
+    "BattleAchiTargetTypeId": 3021,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3021
+  },
+  "30210": {
+    "TargetId": 30210,
+    "TargetParam": [
+      [
+        "31217",
+        "31218"
+      ]
+    ],
+    "TargetType": 10302
+  },
+  "30301": {
+    "TargetId": 30301,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10303
+  },
+  "30302": {
+    "TargetId": 30302,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10303
+  },
+  "30303": {
+    "TargetId": 30303,
+    "TargetParam": [
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10303
+  },
+  "30304": {
+    "TargetId": 30304,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10303
+  },
+  "30305": {
+    "TargetId": 30305,
+    "TargetParam": [
+      [
+        "2"
+      ]
+    ],
+    "TargetType": 10303
+  },
+  "3031": {
+    "BattleAchiTargetTypeId": 3031,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3031
+  },
+  "3032": {
+    "BattleAchiTargetTypeId": 3032,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3032
+  },
+  "3033": {
+    "BattleAchiTargetTypeId": 3033,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3033
+  },
+  "3034": {
+    "BattleAchiTargetTypeId": 3034,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3034
+  },
+  "3035": {
+    "BattleAchiTargetTypeId": 3035,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3035
+  },
+  "3036": {
+    "BattleAchiTargetTypeId": 3036,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3036
+  },
+  "30401": {
+    "TargetId": 30401,
+    "TargetParam": [
+      [
+        "7"
+      ]
+    ],
+    "TargetType": 10304
+  },
+  "30402": {
+    "TargetId": 30402,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10304
+  },
+  "30403": {
+    "TargetId": 30403,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10304
+  },
+  "30404": {
+    "TargetId": 30404,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10304
+  },
+  "30405": {
+    "TargetId": 30405,
+    "TargetParam": [
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10304
+  },
+  "3041": {
+    "BattleAchiTargetTypeId": 3041,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3041
+  },
+  "3042": {
+    "BattleAchiTargetTypeId": 3042,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3042
+  },
+  "3043": {
+    "BattleAchiTargetTypeId": 3043,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3043
+  },
+  "3044": {
+    "BattleAchiTargetTypeId": 3044,
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 3044
+  },
+  "30501": {
+    "TargetId": 30501,
+    "TargetParam": [
+      [
+        "Melee"
+      ],
+      [
+        "7"
+      ]
+    ],
+    "TargetType": 10305
+  },
+  "30502": {
+    "TargetId": 30502,
+    "TargetParam": [
+      [
+        "Ranged"
+      ],
+      [
+        "7"
+      ]
+    ],
+    "TargetType": 10305
+  },
+  "30503": {
+    "TargetId": 30503,
+    "TargetParam": [
+      [
+        "Melee"
+      ],
+      [
+        "7"
+      ]
+    ],
+    "TargetType": 10305
+  },
+  "30504": {
+    "TargetId": 30504,
+    "TargetParam": [
+      [
+        "Ranged"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10305
+  },
+  "30601": {
+    "TargetId": 30601,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30602": {
+    "TargetId": 30602,
+    "TargetParam": [
+      [
+        "2"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30603": {
+    "TargetId": 30603,
+    "TargetParam": [
+      [
+        "3"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30604": {
+    "TargetId": 30604,
+    "TargetParam": [
+      [
+        "4"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30605": {
+    "TargetId": 30605,
+    "TargetParam": [
+      [
+        "5"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30606": {
+    "TargetId": 30606,
+    "TargetParam": [
+      [
+        "3"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30607": {
+    "TargetId": 30607,
+    "TargetParam": [
+      [
+        "4"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30608": {
+    "TargetId": 30608,
+    "TargetParam": [
+      [
+        "5"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30609": {
+    "TargetId": 30609,
+    "TargetParam": [
+      [
+        "5"
+      ],
+      [
+        "10"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30610": {
+    "TargetId": 30610,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30611": {
+    "TargetId": 30611,
+    "TargetParam": [
+      [
+        "2"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30612": {
+    "TargetId": 30612,
+    "TargetParam": [
+      [
+        "3"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30613": {
+    "TargetId": 30613,
+    "TargetParam": [
+      [
+        "4"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30614": {
+    "TargetId": 30614,
+    "TargetParam": [
+      [
+        "5"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10306
+  },
+  "30701": {
+    "ConditionId": [
+      6002
+    ],
+    "TargetId": 30701,
+    "TargetType": 10307
+  },
+  "30702": {
+    "ConditionId": [
+      6003
+    ],
+    "TargetId": 30702,
+    "TargetType": 10307
+  },
+  "30703": {
+    "ConditionId": [
+      6008
+    ],
+    "TargetId": 30703,
+    "TargetType": 10307
+  },
+  "30704": {
+    "ConditionId": [
+      6011
+    ],
+    "TargetId": 30704,
+    "TargetType": 10307
+  },
+  "40101": {
+    "TargetId": 40101,
+    "TargetType": 10401
+  },
+  "40201": {
+    "TargetId": 40201,
+    "TargetParam": [
+      [
+        "20"
+      ]
+    ],
+    "TargetType": 10402
+  },
+  "40202": {
+    "TargetId": 40202,
+    "TargetParam": [
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 10402
+  },
+  "40203": {
+    "TargetId": 40203,
+    "TargetParam": [
+      [
+        "40"
+      ]
+    ],
+    "TargetType": 10402
+  },
+  "40204": {
+    "TargetId": 40204,
+    "TargetParam": [
+      [
+        "10"
+      ]
+    ],
+    "TargetType": 10402
+  },
+  "40205": {
+    "TargetId": 40205,
+    "TargetParam": [
+      [
+        "50"
+      ]
+    ],
+    "TargetType": 10402
+  },
+  "40206": {
+    "TargetId": 40206,
+    "TargetParam": [
+      [
+        "60"
+      ]
+    ],
+    "TargetType": 10402
+  },
+  "40301": {
+    "TargetId": 40301,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10403
+  },
+  "40302": {
+    "TargetId": 40302,
+    "TargetParam": [
+      [
+        "2"
+      ]
+    ],
+    "TargetType": 10403
+  },
+  "40303": {
+    "TargetId": 40303,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10403
+  },
+  "40304": {
+    "TargetId": 40304,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10403
+  },
+  "40305": {
+    "TargetId": 40305,
+    "TargetParam": [
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10403
+  },
+  "40306": {
+    "TargetId": 40306,
+    "TargetParam": [
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 10403
+  },
+  "40401": {
+    "TargetId": 40401,
+    "TargetParam": [
+      [
+        "Ranged"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10404
+  },
+  "40501": {
+    "TargetId": 40501,
+    "TargetParam": [
+      [
+        "10101"
+      ]
+    ],
+    "TargetType": 10405
+  },
+  "40601": {
+    "TargetId": 40601,
+    "TargetParam": [
+      [
+        "4"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10406
+  },
+  "40602": {
+    "TargetId": 40602,
+    "TargetParam": [
+      [
+        "5"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10406
+  },
+  "40701": {
+    "TargetId": 40701,
+    "TargetParam": [
+      [
+        "10101"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10407
+  },
+  "5001": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000151
+    ],
+    "IndividualRule": "less",
+    "TargetId": 5001
+  },
+  "5002": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000152
+    ],
+    "IndividualRule": "less",
+    "TargetId": 5002
+  },
+  "5003": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000153
+    ],
+    "IndividualRule": "less",
+    "TargetId": 5003
+  },
+  "5004": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000154
+    ],
+    "IndividualRule": "less",
+    "TargetId": 5004
+  },
+  "5005": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000155
+    ],
+    "IndividualRule": "less",
+    "TargetId": 5005
+  },
+  "501001": {
+    "TargetId": 501001,
+    "TargetParam": [
+      [
+        "70500"
+      ],
+      [
+        "11"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501002": {
+    "TargetId": 501002,
+    "TargetParam": [
+      [
+        "70505"
+      ],
+      [
+        "705052"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501003": {
+    "TargetId": 501003,
+    "TargetParam": [
+      [
+        "7010096"
+      ]
+    ],
+    "TargetType": 10505
+  },
+  "501004": {
+    "TargetId": 501004,
+    "TargetParam": [
+      [
+        "7017047"
+      ]
+    ],
+    "TargetType": 10505
+  },
+  "50101": {
+    "TargetId": 50101,
+    "TargetParam": [
+      [
+        "6",
+        "32"
+      ],
+      [
+        "65"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "5011": {
+    "BattleAchiTargetTypeId": 5011,
+    "ConditionId": [
+      1000151
+    ],
+    "TargetId": 5011
+  },
+  "50119": {
+    "TargetId": 50119,
+    "TargetParam": [
+      [
+        "1008"
+      ],
+      [
+        "610014"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "5012": {
+    "BattleAchiTargetTypeId": 5011,
+    "ConditionId": [
+      1000152
+    ],
+    "TargetId": 5012
+  },
+  "50120": {
+    "TargetId": 50120,
+    "TargetParam": [
+      [
+        "1003"
+      ],
+      [
+        "610025"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50121": {
+    "TargetId": 50121,
+    "TargetParam": [
+      [
+        "1009"
+      ],
+      [
+        "610027"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50122": {
+    "TargetId": 50122,
+    "TargetParam": [
+      [
+        "1010"
+      ],
+      [
+        "610011"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50123": {
+    "TargetId": 50123,
+    "TargetParam": [
+      [
+        "1005"
+      ],
+      [
+        "610017"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50124": {
+    "TargetId": 50124,
+    "TargetParam": [
+      [
+        "1008"
+      ],
+      [
+        "610015"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50125": {
+    "TargetId": 50125,
+    "TargetParam": [
+      [
+        "1007"
+      ],
+      [
+        "610011"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50126": {
+    "TargetId": 50126,
+    "TargetParam": [
+      [
+        "1012"
+      ],
+      [
+        "610011"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50127": {
+    "TargetId": 50127,
+    "TargetParam": [
+      [
+        "1004"
+      ],
+      [
+        "610011"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50128": {
+    "TargetId": 50128,
+    "TargetParam": [
+      [
+        "1017"
+      ],
+      [
+        "610017"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50129": {
+    "TargetId": 50129,
+    "TargetParam": [
+      [
+        "1018"
+      ],
+      [
+        "610017"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "5013": {
+    "BattleAchiTargetTypeId": 5011,
+    "ConditionId": [
+      1000153
+    ],
+    "TargetId": 5013
+  },
+  "50130": {
+    "TargetId": 50130,
+    "TargetParam": [
+      [
+        "1002"
+      ],
+      [
+        "610019"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501301": {
+    "TargetId": 501301,
+    "TargetParam": [
+      [
+        "70100"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501302": {
+    "TargetId": 501302,
+    "TargetParam": [
+      [
+        "70101"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501303": {
+    "TargetId": 501303,
+    "TargetParam": [
+      [
+        "70102"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501304": {
+    "TargetId": 501304,
+    "TargetParam": [
+      [
+        "70105"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501305": {
+    "TargetId": 501305,
+    "TargetParam": [
+      [
+        "70106"
+      ],
+      [
+        "701063"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501306": {
+    "TargetId": 501306,
+    "TargetParam": [
+      [
+        "70107"
+      ],
+      [
+        "701063"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501307": {
+    "TargetId": 501307,
+    "TargetParam": [
+      [
+        "70108"
+      ],
+      [
+        "701063"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501308": {
+    "TargetId": 501308,
+    "TargetParam": [
+      [
+        "70109"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501309": {
+    "TargetId": 501309,
+    "TargetParam": [
+      [
+        "70110"
+      ],
+      [
+        "701103"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "50131": {
+    "TargetId": 50131,
+    "TargetParam": [
+      [
+        "1006"
+      ],
+      [
+        "610019"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501310": {
+    "TargetId": 501310,
+    "TargetParam": [
+      [
+        "70111"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501311": {
+    "TargetId": 501311,
+    "TargetParam": [
+      [
+        "70112"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501312": {
+    "TargetId": 501312,
+    "TargetParam": [
+      [
+        "70113"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501313": {
+    "TargetId": 501313,
+    "TargetParam": [
+      [
+        "70114"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501314": {
+    "TargetId": 501314,
+    "TargetParam": [
+      [
+        "70115"
+      ],
+      [
+        "701003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501316": {
+    "TargetId": 501316,
+    "TargetParam": [
+      [
+        "70199"
+      ],
+      [
+        "701133"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501317": {
+    "TargetId": 501317,
+    "TargetParam": [
+      [
+        "70200"
+      ],
+      [
+        "702003"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501318": {
+    "TargetId": 501318,
+    "TargetParam": [
+      [
+        "70130"
+      ],
+      [
+        "701303"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "501319": {
+    "TargetId": 501319,
+    "TargetParam": [
+      [
+        "70103"
+      ],
+      [
+        "701033"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10501
+  },
+  "5014": {
+    "BattleAchiTargetTypeId": 5011,
+    "ConditionId": [
+      1000154
+    ],
+    "TargetId": 5014
+  },
+  "5015": {
+    "BattleAchiTargetTypeId": 5011,
+    "ConditionId": [
+      1000155
+    ],
+    "TargetId": 5015
+  },
+  "5021": {
+    "BattleAchiTargetTypeId": 5021,
+    "ConditionId": [
+      1000006,
+      1000305
+    ],
+    "TargetId": 5021
+  },
+  "5022": {
+    "BattleAchiTargetTypeId": 5021,
+    "ConditionId": [
+      1000006,
+      1000306
+    ],
+    "TargetId": 5022
+  },
+  "5023": {
+    "BattleAchiTargetTypeId": 5021,
+    "ConditionId": [
+      1000006,
+      1000303
+    ],
+    "TargetId": 5023
+  },
+  "5024": {
+    "BattleAchiTargetTypeId": 5021,
+    "ConditionId": [
+      1000006,
+      1000307
+    ],
+    "TargetId": 5024
+  },
+  "5025": {
+    "BattleAchiTargetTypeId": 5021,
+    "ConditionId": [
+      1000006,
+      1000308
+    ],
+    "TargetId": 5025
+  },
+  "5026": {
+    "BattleAchiTargetTypeId": 5021,
+    "ConditionId": [
+      1000006,
+      1000309
+    ],
+    "TargetId": 5026
+  },
+  "5027": {
+    "BattleAchiTargetTypeId": 5021,
+    "ConditionId": [
+      1000006,
+      1000310
+    ],
+    "TargetId": 5027
+  },
+  "50308": {
+    "TargetId": 50308,
+    "TargetParam": [
+      [
+        "90305",
+        "90306",
+        "90310"
+      ],
+      [
+        "180.0"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "50309": {
+    "TargetId": 50309,
+    "TargetParam": [
+      [
+        "90501",
+        "90502",
+        "90503",
+        "90504",
+        "90505",
+        "90506",
+        "90507",
+        "90508",
+        "90509",
+        "90510",
+        "90511",
+        "90512",
+        "90513",
+        "90514",
+        "90515"
+      ],
+      [
+        "180"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5031": {
+    "BattleAchiTargetTypeId": 5031,
+    "ConditionId": [
+      1000006,
+      1000302
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5031
+  },
+  "5032": {
+    "BattleAchiTargetTypeId": 5031,
+    "ConditionId": [
+      1000006,
+      1000304
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5032
+  },
+  "5040": {
+    "BattleAchiTargetTypeId": 5001,
+    "IndividualRule": "greater",
+    "TargetId": 5040
+  },
+  "50401": {
+    "TargetId": 50401,
+    "TargetParam": [
+      [
+        "90102",
+        "90104",
+        "90106",
+        "90108",
+        "90110",
+        "90112",
+        "90114",
+        "90201",
+        "90202",
+        "90203",
+        "90204",
+        "90205",
+        "90206",
+        "90207",
+        "90401",
+        "90402",
+        "90403",
+        "90404",
+        "90405",
+        "90406",
+        "90407",
+        "90408",
+        "90409",
+        "90410",
+        "90411",
+        "90412",
+        "90413",
+        "90414",
+        "90415",
+        "90416",
+        "90417",
+        "90418",
+        "90419",
+        "90420",
+        "90421",
+        "90422",
+        "90423",
+        "90424",
+        "90425",
+        "90426",
+        "90427",
+        "90428",
+        "90429",
+        "90430",
+        "90431",
+        "90432",
+        "90433",
+        "90434",
+        "90435",
+        "90436",
+        "90437",
+        "90438",
+        "90439",
+        "90440",
+        "90441",
+        "90442",
+        "90601",
+        "90602",
+        "90603",
+        "90604",
+        "90605",
+        "90606",
+        "90607"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10504
+  },
+  "5041": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000101
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5041
+  },
+  "5042": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000102
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5042
+  },
+  "5043": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000103
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5043
+  },
+  "5044": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000104
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5044
+  },
+  "5045": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000105
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5045
+  },
+  "5051": {
+    "BattleAchiTargetTypeId": 5041,
+    "ConditionId": [
+      1000151
+    ],
+    "TargetId": 5051
+  },
+  "505101": {
+    "TargetId": 505101,
+    "TargetParam": [
+      [
+        "7000054",
+        "7000055",
+        "7001039",
+        "7001040",
+        "7030055",
+        "7030071",
+        "7030081",
+        "7031063",
+        "7010100",
+        "7010091",
+        "7010092",
+        "7010093",
+        "7010094",
+        "7010095",
+        "7010096",
+        "7011066",
+        "7017074",
+        "7011068",
+        "7011065",
+        "7017060",
+        "7017050",
+        "7017061",
+        "7017070",
+        "7060003",
+        "7060007",
+        "7030072",
+        "7030074",
+        "7031052",
+        "7031051",
+        "7002028"
+      ]
+    ],
+    "TargetType": 10505
+  },
+  "505102": {
+    "TargetId": 505102,
+    "TargetParam": [
+      [
+        "720034",
+        "720037"
+      ]
+    ],
+    "TargetType": 12005
+  },
+  "5052": {
+    "BattleAchiTargetTypeId": 5041,
+    "ConditionId": [
+      1000152
+    ],
+    "TargetId": 5052
+  },
+  "5053": {
+    "BattleAchiTargetTypeId": 5041,
+    "ConditionId": [
+      1000153
+    ],
+    "TargetId": 5053
+  },
+  "5054": {
+    "BattleAchiTargetTypeId": 5041,
+    "ConditionId": [
+      1000154
+    ],
+    "TargetId": 5054
+  },
+  "5055": {
+    "BattleAchiTargetTypeId": 5041,
+    "ConditionId": [
+      1000155
+    ],
+    "TargetId": 5055
+  },
+  "5061001": {
+    "ConditionId": [
+      1000006,
+      1000305
+    ],
+    "TargetId": 5061001,
+    "TargetParam": [
+      [
+        "90311"
+      ],
+      [
+        "300"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5061002": {
+    "ConditionId": [
+      1000006,
+      1000305
+    ],
+    "TargetId": 5061002,
+    "TargetParam": [
+      [
+        "90311"
+      ],
+      [
+        "180"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5061003": {
+    "ConditionId": [
+      1000006,
+      1000305
+    ],
+    "TargetId": 5061003,
+    "TargetParam": [
+      [
+        "90311"
+      ],
+      [
+        "90"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5062001": {
+    "ConditionId": [
+      1000006,
+      1000306
+    ],
+    "TargetId": 5062001,
+    "TargetParam": [
+      [
+        "90507"
+      ],
+      [
+        "300"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5062002": {
+    "ConditionId": [
+      1000006,
+      1000306
+    ],
+    "TargetId": 5062002,
+    "TargetParam": [
+      [
+        "90507"
+      ],
+      [
+        "180"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5062003": {
+    "ConditionId": [
+      1000006,
+      1000306
+    ],
+    "TargetId": 5062003,
+    "TargetParam": [
+      [
+        "90507"
+      ],
+      [
+        "90"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5063001": {
+    "ConditionId": [
+      1000006,
+      1000307
+    ],
+    "TargetId": 5063001,
+    "TargetParam": [
+      [
+        "90807"
+      ],
+      [
+        "420"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5063002": {
+    "ConditionId": [
+      1000006,
+      1000307
+    ],
+    "TargetId": 5063002,
+    "TargetParam": [
+      [
+        "90807"
+      ],
+      [
+        "300"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5063003": {
+    "ConditionId": [
+      1000006,
+      1000307
+    ],
+    "TargetId": 5063003,
+    "TargetParam": [
+      [
+        "90807"
+      ],
+      [
+        "180"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5064001": {
+    "ConditionId": [
+      1000006,
+      1000308
+    ],
+    "TargetId": 5064001,
+    "TargetParam": [
+      [
+        "90907"
+      ],
+      [
+        "420"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5064002": {
+    "ConditionId": [
+      1000006,
+      1000308
+    ],
+    "TargetId": 5064002,
+    "TargetParam": [
+      [
+        "90907"
+      ],
+      [
+        "300"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5064003": {
+    "ConditionId": [
+      1000006,
+      1000308
+    ],
+    "TargetId": 5064003,
+    "TargetParam": [
+      [
+        "90907"
+      ],
+      [
+        "180"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5065001": {
+    "ConditionId": [
+      1000006,
+      1000310
+    ],
+    "TargetId": 5065001,
+    "TargetParam": [
+      [
+        "91007"
+      ],
+      [
+        "300"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5065002": {
+    "ConditionId": [
+      1000006,
+      1000310
+    ],
+    "TargetId": 5065002,
+    "TargetParam": [
+      [
+        "91007"
+      ],
+      [
+        "180"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5065003": {
+    "ConditionId": [
+      1000006,
+      1000310
+    ],
+    "TargetId": 5065003,
+    "TargetParam": [
+      [
+        "91007"
+      ],
+      [
+        "90"
+      ]
+    ],
+    "TargetType": 10503
+  },
+  "5071": {
+    "BattleAchiTargetTypeId": 5051,
+    "ConditionId": [
+      1000151
+    ],
+    "TargetId": 5071
+  },
+  "5072": {
+    "BattleAchiTargetTypeId": 5052,
+    "ConditionId": [
+      1000152
+    ],
+    "TargetId": 5072
+  },
+  "5073": {
+    "BattleAchiTargetTypeId": 5053,
+    "ConditionId": [
+      1000153
+    ],
+    "IndividualRule": "less",
+    "TargetId": 5073
+  },
+  "50901": {
+    "TargetId": 50901,
+    "TargetParam": [
+      [
+        "Defence"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50902": {
+    "TargetId": 50902,
+    "TargetParam": [
+      [
+        "DefenceMove"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50903": {
+    "TargetId": 50903,
+    "TargetParam": [
+      [
+        "Excavation"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50904": {
+    "TargetId": 50904,
+    "TargetParam": [
+      [
+        "Capture"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50905": {
+    "TargetId": 50905,
+    "TargetParam": [
+      [
+        "SurvivalMini"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50906": {
+    "TargetId": 50906,
+    "TargetParam": [
+      [
+        "SurvivalMiniPro"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50907": {
+    "TargetId": 50907,
+    "TargetParam": [
+      [
+        "Sabotage"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50908": {
+    "TargetId": 50908,
+    "TargetParam": [
+      [
+        "Hijack"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "50909": {
+    "TargetId": 50909,
+    "TargetParam": [
+      [
+        "Exterminate"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "5091": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000181
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5091
+  },
+  "50910": {
+    "TargetId": 50910,
+    "TargetParam": [
+      [
+        "Rescue"
+      ]
+    ],
+    "TargetType": 10509
+  },
+  "5092": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000182
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5092
+  },
+  "50920": {
+    "TargetId": 50920,
+    "TargetParam": [
+      [
+        "Defence"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50921": {
+    "TargetId": 50921,
+    "TargetParam": [
+      [
+        "DefenceMove"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50922": {
+    "TargetId": 50922,
+    "TargetParam": [
+      [
+        "Excavation"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50923": {
+    "TargetId": 50923,
+    "TargetParam": [
+      [
+        "Capture"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50924": {
+    "TargetId": 50924,
+    "TargetParam": [
+      [
+        "SurvivalMini"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50925": {
+    "TargetId": 50925,
+    "TargetParam": [
+      [
+        "SurvivalMiniPro"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50926": {
+    "TargetId": 50926,
+    "TargetParam": [
+      [
+        "Sabotage"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50927": {
+    "TargetId": 50927,
+    "TargetParam": [
+      [
+        "Hijack"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50928": {
+    "TargetId": 50928,
+    "TargetParam": [
+      [
+        "Exterminate"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50929": {
+    "TargetId": 50929,
+    "TargetParam": [
+      [
+        "Rescue"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "5093": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000183
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5093
+  },
+  "50930": {
+    "TargetId": 50930,
+    "TargetParam": [
+      [
+        "Defence",
+        "DefenceMove",
+        "Excavation",
+        "Capture",
+        "SurvivalMini",
+        "SurvivalMiniPro",
+        "Sabotage",
+        "Hijack",
+        "Exterminate",
+        "Rescue",
+        "ExtermPro",
+        "SabotagePro",
+        "Synthesis"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50931": {
+    "TargetId": 50931,
+    "TargetParam": [
+      [
+        "Defence",
+        "DefenceMove",
+        "Excavation",
+        "Capture",
+        "SurvivalMini",
+        "SurvivalMiniPro",
+        "Sabotage",
+        "Hijack",
+        "Exterminate",
+        "Rescue",
+        "ExtermPro",
+        "SabotagePro",
+        "Synthesis"
+      ]
+    ],
+    "TargetType": 10515
+  },
+  "50932": {
+    "TargetId": 50932,
+    "TargetParam": [
+      [
+        "Synthesis"
+      ]
+    ],
+    "TargetType": 10514
+  },
+  "50933": {
+    "TargetId": 50933,
+    "TargetParam": [
+      [
+        "90161",
+        "90162",
+        "90185",
+        "90186",
+        "90163",
+        "90164",
+        "90165",
+        "90166",
+        "91101",
+        "91102",
+        "91103",
+        "91104",
+        "91105",
+        "91106",
+        "91107",
+        "91108",
+        "91109",
+        "91110",
+        "91111",
+        "91112",
+        "91113",
+        "91114",
+        "91115",
+        "91116",
+        "91117",
+        "91118",
+        "91119",
+        "91120",
+        "91121",
+        "91122",
+        "91123",
+        "91137",
+        "91138",
+        "91139",
+        "91140",
+        "91141",
+        "91142",
+        "91143",
+        "91201",
+        "91202",
+        "91203",
+        "91204",
+        "91205",
+        "91206",
+        "91207",
+        "91208",
+        "91209",
+        "90171",
+        "90172",
+        "90173",
+        "90174",
+        "90175",
+        "90176",
+        "90177",
+        "90178",
+        "91151",
+        "91152",
+        "91153",
+        "91154",
+        "91155",
+        "91156",
+        "91157",
+        "91158",
+        "91159",
+        "91160",
+        "91161",
+        "91162",
+        "91163",
+        "91164",
+        "91165",
+        "91166",
+        "91167",
+        "91168",
+        "91169",
+        "91170",
+        "91171",
+        "91172",
+        "91173",
+        "91174",
+        "91175",
+        "91176",
+        "91177",
+        "91178",
+        "91179",
+        "91180",
+        "91251",
+        "91252",
+        "91253",
+        "91254",
+        "91255",
+        "91256",
+        "91257",
+        "91258",
+        "91259"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "50934": {
+    "TargetId": 50934,
+    "TargetParam": [
+      [
+        "90601",
+        "90602",
+        "90603",
+        "90604",
+        "90605",
+        "90606",
+        "90607"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "50935": {
+    "TargetId": 50935,
+    "TargetParam": [
+      [
+        "90401",
+        "90407",
+        "90413",
+        "90419",
+        "90425",
+        "90431",
+        "90437"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "50936": {
+    "TargetId": 50936,
+    "TargetParam": [
+      [
+        "90801",
+        "90802",
+        "90803",
+        "90804",
+        "90805",
+        "90806",
+        "90807"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "50937": {
+    "TargetId": 50937,
+    "TargetParam": [
+      [
+        "90501",
+        "90502",
+        "90503",
+        "90504",
+        "90505",
+        "90506",
+        "90507"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "50938": {
+    "TargetId": 50938,
+    "TargetParam": [
+      [
+        "90902",
+        "90903",
+        "90904",
+        "90905",
+        "90906",
+        "90907"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "5094": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000184
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5094
+  },
+  "5095": {
+    "BattleAchiTargetTypeId": 5001,
+    "ConditionId": [
+      1000185
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 5095
+  },
+  "51301": {
+    "TargetId": 51301,
+    "TargetType": 90513
+  },
+  "51401": {
+    "TargetId": 51401,
+    "TargetType": 90514
+  },
+  "51501": {
+    "TargetId": 51501,
+    "TargetType": 90515
+  },
+  "51601": {
+    "TargetId": 51601,
+    "TargetType": 90516
+  },
+  "51701": {
+    "TargetId": 51701,
+    "TargetType": 90517
+  },
+  "51801": {
+    "TargetId": 51801,
+    "TargetType": 90518
+  },
+  "519001": {
+    "TargetId": 519001,
+    "TargetType": 10519
+  },
+  "51901": {
+    "TargetId": 51901,
+    "TargetType": 90519
+  },
+  "520001": {
+    "TargetId": 520001,
+    "TargetParam": [
+      [
+        "1590001",
+        "1570001",
+        "1580002"
+      ],
+      [
+        "901001"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "520002": {
+    "TargetId": 520002,
+    "TargetParam": [
+      [
+        "1180087",
+        "1190079",
+        "1190398",
+        "1190335",
+        "1180086",
+        "1240130",
+        "1240354",
+        "1240555",
+        "1240556"
+      ],
+      [
+        "901001"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "520003": {
+    "TargetId": 520003,
+    "TargetParam": [
+      [
+        "1720062",
+        "1730041",
+        "1730176",
+        "1720679"
+      ],
+      [
+        "901001"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "520004": {
+    "TargetId": 520004,
+    "TargetParam": [
+      [
+        "1270033",
+        "1440066"
+      ],
+      [
+        "901001"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "520005": {
+    "TargetId": 520005,
+    "TargetParam": [
+      [
+        "1640109",
+        "1640264",
+        "1640108",
+        "1650261",
+        "1650075",
+        "1650076"
+      ],
+      [
+        "901001"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "52001": {
+    "TargetId": 52001,
+    "TargetType": 90520
+  },
+  "520100": {
+    "TargetId": 520100,
+    "TargetParam": [
+      [
+        "1640555"
+      ],
+      [
+        "1061242"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "520101": {
+    "TargetId": 520101,
+    "TargetParam": [
+      [
+        "1640560"
+      ],
+      [
+        "1061253"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "520102": {
+    "TargetId": 520102,
+    "TargetParam": [
+      [
+        "1650555"
+      ],
+      [
+        "1061262"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "TargetType": 10520
+  },
+  "521001": {
+    "TargetId": 521001,
+    "TargetParam": [
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 10521
+  },
+  "521002": {
+    "TargetId": 521002,
+    "TargetParam": [
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10521
+  },
+  "521003": {
+    "TargetId": 521003,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10521
+  },
+  "521004": {
+    "TargetId": 521004,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10521
+  },
+  "52101": {
+    "TargetId": 52101,
+    "TargetType": 90521
+  },
+  "522001": {
+    "TargetId": 522001,
+    "TargetType": 10522
+  },
+  "52201": {
+    "TargetId": 52201,
+    "TargetType": 90522
+  },
+  "52301": {
+    "TargetId": 52301,
+    "TargetType": 90523
+  },
+  "52401": {
+    "TargetId": 52401,
+    "TargetType": 90524
+  },
+  "52501": {
+    "TargetId": 52501,
+    "TargetType": 90525
+  },
+  "52601": {
+    "TargetId": 52601,
+    "TargetType": 90526
+  },
+  "52701": {
+    "TargetId": 52701,
+    "TargetType": 90527
+  },
+  "60101": {
+    "TargetId": 60101,
+    "TargetParam": [
+      [
+        "20"
+      ]
+    ],
+    "TargetType": 10601
+  },
+  "60102": {
+    "TargetId": 60102,
+    "TargetParam": [
+      [
+        "30"
+      ]
+    ],
+    "TargetType": 10601
+  },
+  "60103": {
+    "TargetId": 60103,
+    "TargetParam": [
+      [
+        "40"
+      ]
+    ],
+    "TargetType": 10601
+  },
+  "60104": {
+    "TargetId": 60104,
+    "TargetParam": [
+      [
+        "10"
+      ]
+    ],
+    "TargetType": 10601
+  },
+  "60105": {
+    "TargetId": 60105,
+    "TargetParam": [
+      [
+        "50"
+      ]
+    ],
+    "TargetType": 10601
+  },
+  "60106": {
+    "TargetId": 60106,
+    "TargetParam": [
+      [
+        "60"
+      ]
+    ],
+    "TargetType": 10601
+  },
+  "60201": {
+    "TargetId": 60201,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 10602
+  },
+  "60202": {
+    "TargetId": 60202,
+    "TargetParam": [
+      [
+        "2"
+      ]
+    ],
+    "TargetType": 10602
+  },
+  "60203": {
+    "TargetId": 60203,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10602
+  },
+  "60206": {
+    "TargetId": 60206,
+    "TargetParam": [
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 10602
+  },
+  "60301": {
+    "TargetId": 60301,
+    "TargetParam": [
+      [
+        "1101"
+      ]
+    ],
+    "TargetType": 10603
+  },
+  "60302": {
+    "TargetId": 60302,
+    "TargetParam": [
+      [
+        "5301"
+      ]
+    ],
+    "TargetType": 10603
+  },
+  "60401": {
+    "TargetId": 60401,
+    "TargetType": 10604
+  },
+  "60501": {
+    "TargetId": 60501,
+    "TargetParam": [
+      [
+        "1101"
+      ]
+    ],
+    "TargetType": 10605
+  },
+  "60601": {
+    "TargetId": 60601,
+    "TargetParam": [
+      [
+        "4"
+      ],
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10606
+  },
+  "60602": {
+    "TargetId": 60602,
+    "TargetParam": [
+      [
+        "5"
+      ],
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 10606
+  },
+  "60701": {
+    "TargetId": 60701,
+    "TargetParam": [
+      [
+        "1101"
+      ]
+    ],
+    "TargetType": 10607
+  },
+  "60801": {
+    "TargetId": 60801,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10608
+  },
+  "60802": {
+    "TargetId": 60802,
+    "TargetParam": [
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10608
+  },
+  "60901": {
+    "TargetId": 60901,
+    "TargetParam": [
+      [
+        "2"
+      ]
+    ],
+    "TargetType": 10609
+  },
+  "60902": {
+    "TargetId": 60902,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 10609
+  },
+  "60903": {
+    "TargetId": 60903,
+    "TargetParam": [
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 10609
+  },
+  "70101": {
+    "TargetId": 70101,
+    "TargetParam": [
+      [
+        "100103"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70102": {
+    "TargetId": 70102,
+    "TargetParam": [
+      [
+        "200101"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70103": {
+    "TargetId": 70103,
+    "TargetParam": [
+      [
+        "999998"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70104": {
+    "TargetId": 70104,
+    "TargetParam": [
+      [
+        "100102"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70105": {
+    "TargetId": 70105,
+    "TargetParam": [
+      [
+        "100201"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70106": {
+    "TargetId": 70106,
+    "TargetParam": [
+      [
+        "100202"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70107": {
+    "TargetId": 70107,
+    "TargetParam": [
+      [
+        "100204"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70108": {
+    "TargetId": 70108,
+    "TargetParam": [
+      [
+        "100208"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70109": {
+    "TargetId": 70109,
+    "TargetParam": [
+      [
+        "110107"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70110": {
+    "TargetId": 70110,
+    "TargetParam": [
+      [
+        "110109"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70111": {
+    "TargetId": 70111,
+    "TargetParam": [
+      [
+        "10020202"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70112": {
+    "TargetId": 70112,
+    "TargetParam": [
+      [
+        "10020804"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70113": {
+    "TargetId": 70113,
+    "TargetParam": [
+      [
+        "10020305"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70114": {
+    "TargetId": 70114,
+    "TargetParam": [
+      [
+        "10020108"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70115": {
+    "TargetId": 70115,
+    "TargetParam": [
+      [
+        "10020704"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70116": {
+    "TargetId": 70116,
+    "TargetParam": [
+      [
+        "10020611"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70117": {
+    "TargetId": 70117,
+    "TargetParam": [
+      [
+        "10020506"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70118": {
+    "TargetId": 70118,
+    "TargetParam": [
+      [
+        "10020808"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70119": {
+    "TargetId": 70119,
+    "TargetParam": [
+      [
+        "10020105"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70120": {
+    "TargetId": 70120,
+    "TargetParam": [
+      [
+        "10020709"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70121": {
+    "TargetId": 70121,
+    "TargetParam": [
+      [
+        "11010306"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70122": {
+    "TargetId": 70122,
+    "TargetParam": [
+      [
+        "11010513"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70123": {
+    "ConditionId": [
+      1101051301
+    ],
+    "TargetId": 70123,
+    "TargetType": 10704
+  },
+  "70124": {
+    "ConditionId": [
+      1101051302
+    ],
+    "TargetId": 70124,
+    "TargetType": 10704
+  },
+  "70125": {
+    "TargetId": 70125,
+    "TargetParam": [
+      [
+        "11010804"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70126": {
+    "TargetId": 70126,
+    "TargetParam": [
+      [
+        "11010903"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70127": {
+    "TargetId": 70127,
+    "TargetParam": [
+      [
+        "200304"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70131": {
+    "TargetId": 70131,
+    "TargetParam": [
+      [
+        "100303"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70132": {
+    "TargetId": 70132,
+    "TargetParam": [
+      [
+        "100305"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70133": {
+    "TargetId": 70133,
+    "TargetParam": [
+      [
+        "100307"
+      ]
+    ],
+    "TargetType": 10701
+  },
+  "70134": {
+    "TargetId": 70134,
+    "TargetParam": [
+      [
+        "10030197"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70135": {
+    "TargetId": 70135,
+    "TargetParam": [
+      [
+        "10030209"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70136": {
+    "TargetId": 70136,
+    "TargetParam": [
+      [
+        "10030396"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70137": {
+    "TargetId": 70137,
+    "TargetParam": [
+      [
+        "10030498"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70138": {
+    "TargetId": 70138,
+    "TargetParam": [
+      [
+        "10030499"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70139": {
+    "TargetId": 70139,
+    "TargetParam": [
+      [
+        "10030405"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70140": {
+    "TargetId": 70140,
+    "TargetParam": [
+      [
+        "10030508"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70141": {
+    "TargetId": 70141,
+    "TargetParam": [
+      [
+        "10030601"
+      ]
+    ],
+    "TargetType": 10702
+  },
+  "70151": {
+    "TargetId": 70151,
+    "TargetParam": [
+      [
+        "60001"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "70152": {
+    "TargetId": 70152,
+    "TargetParam": [
+      [
+        "60002"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "70153": {
+    "TargetId": 70153,
+    "TargetParam": [
+      [
+        "60004"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "70154": {
+    "TargetId": 70154,
+    "TargetParam": [
+      [
+        "60006"
+      ]
+    ],
+    "TargetType": 10502
+  },
+  "80101": {
+    "TargetId": 80101,
+    "TargetType": 10801
+  },
+  "81501": {
+    "TargetId": 81501,
+    "TargetParam": [
+      [
+        "80502",
+        "80101"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "TargetType": 10518
+  },
+  "9000": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9000,
+    "TargetType": 9001
+  },
+  "9001": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9001,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "102",
+        "103",
+        "104",
+        "105"
+      ]
+    ],
+    "TargetType": 9001
+  },
+  "9002": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9002,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "103",
+        "104",
+        "105"
+      ]
+    ],
+    "TargetType": 9001
+  },
+  "9003": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9003,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "104",
+        "105"
+      ]
+    ],
+    "TargetType": 9001
+  },
+  "9004": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9004,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "105"
+      ]
+    ],
+    "TargetType": 9001
+  },
+  "90101": {
+    "TargetId": 90101,
+    "TargetParam": [
+      [
+        "Resource"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10901
+  },
+  "90102": {
+    "TargetId": 90102,
+    "TargetParam": [
+      [
+        "Resource"
+      ],
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10901
+  },
+  "90103": {
+    "TargetId": 90103,
+    "TargetParam": [
+      [
+        "Weapon"
+      ],
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 10901
+  },
+  "90104": {
+    "TargetId": 90104,
+    "TargetParam": [
+      [
+        "Weapon"
+      ],
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 10901
+  },
+  "90105": {
+    "TargetId": 90105,
+    "TargetParam": [
+      [
+        "Weapon",
+        "Resource",
+        "CharAccessory",
+        "Mod"
+      ],
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "TargetType": 10901
+  },
+  "9100": {
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 9100,
+    "TargetType": 9002
+  },
+  "9101": {
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 9101,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 9002
+  },
+  "9102": {
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 9102,
+    "TargetParam": [
+      [
+        "2"
+      ]
+    ],
+    "TargetType": 9002
+  },
+  "9103": {
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 9103,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 9002
+  },
+  "9104": {
+    "ConditionId": [
+      1000051
+    ],
+    "TargetId": 9104,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 9002
+  },
+  "9111": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9111,
+    "TargetParam": [
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 9005
+  },
+  "9112": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9112,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 9005
+  },
+  "9121": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9121,
+    "TargetType": 9006
+  },
+  "9122": {
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9122,
+    "TargetType": 9007
+  },
+  "9123": {
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9123,
+    "TargetType": 9008
+  },
+  "9201": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9201,
+    "TargetParam": [
+      [
+        "1"
+      ]
+    ],
+    "TargetType": 9003
+  },
+  "9202": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9202,
+    "TargetParam": [
+      [
+        "2"
+      ]
+    ],
+    "TargetType": 9003
+  },
+  "9203": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9203,
+    "TargetParam": [
+      [
+        "3"
+      ]
+    ],
+    "TargetType": 9003
+  },
+  "9204": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9204,
+    "TargetParam": [
+      [
+        "4"
+      ]
+    ],
+    "TargetType": 9003
+  },
+  "9205": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9205,
+    "TargetParam": [
+      [
+        "5"
+      ]
+    ],
+    "TargetType": 9003
+  },
+  "9206": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9206,
+    "TargetParam": [
+      [
+        "6"
+      ]
+    ],
+    "TargetType": 9003
+  },
+  "9207": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9207,
+    "TargetParam": [
+      [
+        "7"
+      ]
+    ],
+    "TargetType": 9003
+  },
+  "9300": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9300,
+    "TargetType": 9004
+  },
+  "9400": {
+    "BattleAchiTargetTypeId": 1001,
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9400
+  },
+  "9401": {
+    "BattleAchiTargetTypeId": 1024,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9401
+  },
+  "9402": {
+    "BattleAchiTargetTypeId": 1025,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9402
+  },
+  "9403": {
+    "BattleAchiTargetTypeId": 1026,
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9403
+  },
+  "9404": {
+    "BattleAchiTargetTypeId": 1027,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9404
+  },
+  "9405": {
+    "BattleAchiTargetTypeId": 1028,
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9405
+  },
+  "9406": {
+    "BattleAchiTargetTypeId": 1023,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9406
+  },
+  "9411": {
+    "BattleAchiTargetTypeId": 1010,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9411
+  },
+  "9412": {
+    "BattleAchiTargetTypeId": 1011,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9412
+  },
+  "9413": {
+    "BattleAchiTargetTypeId": 1012,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9413
+  },
+  "9414": {
+    "BattleAchiTargetTypeId": 1013,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9414
+  },
+  "9415": {
+    "BattleAchiTargetTypeId": 1014,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9415
+  },
+  "9416": {
+    "BattleAchiTargetTypeId": 1015,
+    "ConditionId": [
+      1000012
+    ],
+    "IndividualRule": "greater",
+    "TargetId": 9416
+  },
+  "9421": {
+    "BattleAchiTargetTypeId": 2000,
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9421
+  },
+  "9422": {
+    "BattleAchiTargetTypeId": 2004,
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9422
+  },
+  "9500": {
+    "ConditionId": [
+      1000012
+    ],
+    "TargetId": 9500,
+    "TargetParam": [
+      [
+        "1"
+      ],
+      [
+        "100"
+      ]
+    ],
+    "TargetType": 9009
+  }
+}

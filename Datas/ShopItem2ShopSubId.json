@@ -1,0 +1,2780 @@
+{
+  "Char": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "CharAccessory": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": {
+      "10009": [
+        {
+          "ShopItemId": 140106,
+          "SubTabId": 1402
+        }
+      ],
+      "10010": [
+        {
+          "ShopItemId": 120202,
+          "SubTabId": 1202
+        }
+      ],
+      "10012": [
+        {
+          "ShopItemId": 140104,
+          "SubTabId": 1402
+        }
+      ],
+      "10013": [
+        {
+          "ShopItemId": 140105,
+          "SubTabId": 1402
+        },
+        {
+          "ShopItemId": 120203,
+          "SubTabId": 1202
+        }
+      ],
+      "10016": [
+        {
+          "ShopItemId": 120213,
+          "SubTabId": 1202
+        }
+      ],
+      "10017": [
+        {
+          "ShopItemId": 120212,
+          "SubTabId": 1202
+        }
+      ],
+      "10018": [
+        {
+          "ShopItemId": 120211,
+          "SubTabId": 1202
+        }
+      ],
+      "10035": [
+        {
+          "ShopItemId": 120217,
+          "SubTabId": 1202
+        }
+      ],
+      "10037": [
+        {
+          "ShopItemId": 120214,
+          "SubTabId": 1202
+        }
+      ],
+      "10038": [
+        {
+          "ShopItemId": 120215,
+          "SubTabId": 1202
+        }
+      ],
+      "10039": [
+        {
+          "ShopItemId": 120216,
+          "SubTabId": 1202
+        }
+      ],
+      "10040": [
+        {
+          "ShopItemId": 120204,
+          "SubTabId": 1202
+        }
+      ],
+      "10041": [
+        {
+          "ShopItemId": 120205,
+          "SubTabId": 1202
+        }
+      ],
+      "10042": [
+        {
+          "ShopItemId": 120206,
+          "SubTabId": 1202
+        }
+      ],
+      "10043": [
+        {
+          "ShopItemId": 120207,
+          "SubTabId": 1202
+        }
+      ],
+      "10044": [
+        {
+          "ShopItemId": 120208,
+          "SubTabId": 1202
+        }
+      ],
+      "10045": [
+        {
+          "ShopItemId": 120209,
+          "SubTabId": 1202
+        }
+      ],
+      "10046": [
+        {
+          "ShopItemId": 120218,
+          "SubTabId": 1202
+        }
+      ],
+      "10047": [
+        {
+          "ShopItemId": 140107,
+          "SubTabId": 1402
+        }
+      ],
+      "10048": [
+        {
+          "ShopItemId": 140108,
+          "SubTabId": 1402
+        }
+      ],
+      "10050": [
+        {
+          "ShopItemId": 120201,
+          "SubTabId": 1202
+        }
+      ],
+      "20005": [
+        {
+          "ShopItemId": 120305,
+          "SubTabId": 1203
+        }
+      ],
+      "20006": [
+        {
+          "ShopItemId": 120306,
+          "SubTabId": 1203
+        }
+      ],
+      "20007": [
+        {
+          "ShopItemId": 140111,
+          "SubTabId": 1402
+        }
+      ],
+      "20016": [
+        {
+          "ShopItemId": 120303,
+          "SubTabId": 1203
+        }
+      ],
+      "20017": [
+        {
+          "ShopItemId": 120304,
+          "SubTabId": 1203
+        }
+      ],
+      "20018": [
+        {
+          "ShopItemId": 140109,
+          "SubTabId": 1402
+        }
+      ],
+      "20019": [
+        {
+          "ShopItemId": 140110,
+          "SubTabId": 1402
+        }
+      ],
+      "20027": [
+        {
+          "ShopItemId": 140115,
+          "SubTabId": 1402
+        }
+      ],
+      "20028": [
+        {
+          "ShopItemId": 140114,
+          "SubTabId": 1402
+        }
+      ],
+      "20029": [
+        {
+          "ShopItemId": 120301,
+          "SubTabId": 1203
+        }
+      ],
+      "20031": [
+        {
+          "ShopItemId": 140113,
+          "SubTabId": 1402
+        }
+      ],
+      "20032": [
+        {
+          "ShopItemId": 140112,
+          "SubTabId": 1402
+        }
+      ],
+      "20033": [
+        {
+          "ShopItemId": 120302,
+          "SubTabId": 1203
+        }
+      ],
+      "20034": [
+        {
+          "ShopItemId": 140117,
+          "SubTabId": 1402
+        }
+      ],
+      "20036": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140203,
+          "SubTabId": 1401
+        }
+      ],
+      "20037": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140204,
+          "SubTabId": 1401
+        }
+      ],
+      "20038": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140205,
+          "SubTabId": 1401
+        }
+      ],
+      "30002": [
+        {
+          "ShopItemId": 120401,
+          "SubTabId": 1204
+        }
+      ],
+      "30007": [
+        {
+          "ShopItemId": 120402,
+          "SubTabId": 1204
+        }
+      ],
+      "30009": [
+        {
+          "ShopItemId": 140119,
+          "SubTabId": 1402
+        }
+      ],
+      "30017": [
+        {
+          "ShopItemId": 120403,
+          "SubTabId": 1204
+        }
+      ],
+      "40001": [
+        {
+          "ShopItemId": 120502,
+          "SubTabId": 1205
+        }
+      ],
+      "40002": [
+        {
+          "ShopItemId": 120501,
+          "SubTabId": 1205
+        }
+      ],
+      "40005": [
+        {
+          "ShopItemId": 140118,
+          "SubTabId": 1402
+        }
+      ],
+      "80001": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140206,
+          "SubTabId": 1401
+        }
+      ]
+    }
+  },
+  "Draft": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "Drop": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "HeadFrame": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "HeadSculpture": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "Mod": {
+    "AbyssShop": {
+      "101002": [
+        {
+          "ShopItemId": 10000501,
+          "SubTabId": 100001
+        }
+      ],
+      "102001": [
+        {
+          "ShopItemId": 10000500,
+          "SubTabId": 100001
+        }
+      ],
+      "102004": [
+        {
+          "ShopItemId": 10000503,
+          "SubTabId": 100001
+        }
+      ],
+      "106001": [
+        {
+          "ShopItemId": 10000502,
+          "SubTabId": 100001
+        }
+      ]
+    },
+    "ExploreBadgeShop": {
+      "31502": [
+        {
+          "ShopItemId": 702007,
+          "SubTabId": 7020
+        }
+      ],
+      "31513": [
+        {
+          "ShopItemId": 703004,
+          "SubTabId": 7030
+        }
+      ],
+      "31521": [
+        {
+          "ShopItemId": 701004,
+          "SubTabId": 7010
+        }
+      ],
+      "31522": [
+        {
+          "ShopItemId": 703005,
+          "SubTabId": 7030
+        }
+      ],
+      "31523": [
+        {
+          "ShopItemId": 702008,
+          "SubTabId": 7020
+        }
+      ],
+      "31524": [
+        {
+          "ShopItemId": 703006,
+          "SubTabId": 7030
+        }
+      ],
+      "31525": [
+        {
+          "ShopItemId": 702010,
+          "SubTabId": 7020
+        }
+      ],
+      "31526": [
+        {
+          "ShopItemId": 701005,
+          "SubTabId": 7010
+        }
+      ],
+      "31531": [
+        {
+          "ShopItemId": 702009,
+          "SubTabId": 7020
+        }
+      ],
+      "31532": [
+        {
+          "ShopItemId": 701003,
+          "SubTabId": 7010
+        }
+      ]
+    },
+    "FishingShop": {
+      "103002": [
+        {
+          "ShopItemId": 801201,
+          "SubTabId": 8011
+        }
+      ],
+      "104001": [
+        {
+          "ShopItemId": 801202,
+          "SubTabId": 8011
+        }
+      ]
+    },
+    "Rouge": {
+      "101001": [
+        {
+          "ShopItemId": 10002106,
+          "SubTabId": 100021
+        }
+      ],
+      "102002": [
+        {
+          "ShopItemId": 10002109,
+          "SubTabId": 100021
+        }
+      ],
+      "103001": [
+        {
+          "ShopItemId": 10002108,
+          "SubTabId": 100021
+        }
+      ],
+      "104002": [
+        {
+          "ShopItemId": 10002107,
+          "SubTabId": 100021
+        }
+      ],
+      "24001": [
+        {
+          "ShopItemId": 10002228,
+          "SubTabId": 100022
+        }
+      ],
+      "24002": [
+        {
+          "ShopItemId": 10002229,
+          "SubTabId": 100022
+        }
+      ],
+      "24003": [
+        {
+          "ShopItemId": 10002230,
+          "SubTabId": 100022
+        }
+      ],
+      "24004": [
+        {
+          "ShopItemId": 10002231,
+          "SubTabId": 100022
+        }
+      ],
+      "24005": [
+        {
+          "ShopItemId": 10002232,
+          "SubTabId": 100022
+        }
+      ],
+      "24006": [
+        {
+          "ShopItemId": 10002233,
+          "SubTabId": 100022
+        }
+      ],
+      "24101": [
+        {
+          "ShopItemId": 10002234,
+          "SubTabId": 100022
+        }
+      ],
+      "24102": [
+        {
+          "ShopItemId": 10002235,
+          "SubTabId": 100022
+        }
+      ],
+      "24103": [
+        {
+          "ShopItemId": 10002236,
+          "SubTabId": 100022
+        }
+      ],
+      "25001": [
+        {
+          "ShopItemId": 10002328,
+          "SubTabId": 100023
+        }
+      ],
+      "25002": [
+        {
+          "ShopItemId": 10002329,
+          "SubTabId": 100023
+        }
+      ],
+      "25003": [
+        {
+          "ShopItemId": 10002330,
+          "SubTabId": 100023
+        }
+      ],
+      "25004": [
+        {
+          "ShopItemId": 10002331,
+          "SubTabId": 100023
+        }
+      ],
+      "25005": [
+        {
+          "ShopItemId": 10002332,
+          "SubTabId": 100023
+        }
+      ],
+      "25006": [
+        {
+          "ShopItemId": 10002333,
+          "SubTabId": 100023
+        }
+      ],
+      "25101": [
+        {
+          "ShopItemId": 10002334,
+          "SubTabId": 100023
+        }
+      ],
+      "25102": [
+        {
+          "ShopItemId": 10002335,
+          "SubTabId": 100023
+        }
+      ],
+      "25103": [
+        {
+          "ShopItemId": 10002336,
+          "SubTabId": 100023
+        }
+      ],
+      "34001": [
+        {
+          "ShopItemId": 10002219,
+          "SubTabId": 100022
+        }
+      ],
+      "34002": [
+        {
+          "ShopItemId": 10002220,
+          "SubTabId": 100022
+        }
+      ],
+      "34003": [
+        {
+          "ShopItemId": 10002221,
+          "SubTabId": 100022
+        }
+      ],
+      "34004": [
+        {
+          "ShopItemId": 10002222,
+          "SubTabId": 100022
+        }
+      ],
+      "34005": [
+        {
+          "ShopItemId": 10002223,
+          "SubTabId": 100022
+        }
+      ],
+      "34006": [
+        {
+          "ShopItemId": 10002224,
+          "SubTabId": 100022
+        }
+      ],
+      "34101": [
+        {
+          "ShopItemId": 10002225,
+          "SubTabId": 100022
+        }
+      ],
+      "34102": [
+        {
+          "ShopItemId": 10002226,
+          "SubTabId": 100022
+        }
+      ],
+      "34103": [
+        {
+          "ShopItemId": 10002227,
+          "SubTabId": 100022
+        }
+      ],
+      "35001": [
+        {
+          "ShopItemId": 10002319,
+          "SubTabId": 100023
+        }
+      ],
+      "35002": [
+        {
+          "ShopItemId": 10002320,
+          "SubTabId": 100023
+        }
+      ],
+      "35003": [
+        {
+          "ShopItemId": 10002321,
+          "SubTabId": 100023
+        }
+      ],
+      "35004": [
+        {
+          "ShopItemId": 10002322,
+          "SubTabId": 100023
+        }
+      ],
+      "35005": [
+        {
+          "ShopItemId": 10002323,
+          "SubTabId": 100023
+        }
+      ],
+      "35006": [
+        {
+          "ShopItemId": 10002324,
+          "SubTabId": 100023
+        }
+      ],
+      "35101": [
+        {
+          "ShopItemId": 10002325,
+          "SubTabId": 100023
+        }
+      ],
+      "35102": [
+        {
+          "ShopItemId": 10002326,
+          "SubTabId": 100023
+        }
+      ],
+      "35103": [
+        {
+          "ShopItemId": 10002327,
+          "SubTabId": 100023
+        }
+      ],
+      "44001": [
+        {
+          "ShopItemId": 10002210,
+          "SubTabId": 100022
+        }
+      ],
+      "44002": [
+        {
+          "ShopItemId": 10002211,
+          "SubTabId": 100022
+        }
+      ],
+      "44003": [
+        {
+          "ShopItemId": 10002212,
+          "SubTabId": 100022
+        }
+      ],
+      "44004": [
+        {
+          "ShopItemId": 10002213,
+          "SubTabId": 100022
+        }
+      ],
+      "44005": [
+        {
+          "ShopItemId": 10002214,
+          "SubTabId": 100022
+        }
+      ],
+      "44006": [
+        {
+          "ShopItemId": 10002215,
+          "SubTabId": 100022
+        }
+      ],
+      "44101": [
+        {
+          "ShopItemId": 10002216,
+          "SubTabId": 100022
+        }
+      ],
+      "44102": [
+        {
+          "ShopItemId": 10002217,
+          "SubTabId": 100022
+        }
+      ],
+      "44103": [
+        {
+          "ShopItemId": 10002218,
+          "SubTabId": 100022
+        }
+      ],
+      "45001": [
+        {
+          "ShopItemId": 10002310,
+          "SubTabId": 100023
+        }
+      ],
+      "45002": [
+        {
+          "ShopItemId": 10002311,
+          "SubTabId": 100023
+        }
+      ],
+      "45003": [
+        {
+          "ShopItemId": 10002312,
+          "SubTabId": 100023
+        }
+      ],
+      "45004": [
+        {
+          "ShopItemId": 10002313,
+          "SubTabId": 100023
+        }
+      ],
+      "45005": [
+        {
+          "ShopItemId": 10002314,
+          "SubTabId": 100023
+        }
+      ],
+      "45006": [
+        {
+          "ShopItemId": 10002315,
+          "SubTabId": 100023
+        }
+      ],
+      "45101": [
+        {
+          "ShopItemId": 10002316,
+          "SubTabId": 100023
+        }
+      ],
+      "45102": [
+        {
+          "ShopItemId": 10002317,
+          "SubTabId": 100023
+        }
+      ],
+      "45103": [
+        {
+          "ShopItemId": 10002318,
+          "SubTabId": 100023
+        }
+      ]
+    },
+    "Shop": []
+  },
+  "Pet": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "Resource": {
+    "AbyssShop": {
+      "101": [
+        {
+          "ShopItemId": 10000104,
+          "SubTabId": 100001
+        },
+        {
+          "ShopItemId": 10000107,
+          "SubTabId": 100001
+        }
+      ],
+      "102": [
+        {
+          "ShopItemId": 10000105,
+          "SubTabId": 100001
+        }
+      ],
+      "2009": [
+        {
+          "ShopItemId": 10000102,
+          "SubTabId": 100001
+        }
+      ],
+      "2013": [
+        {
+          "ShopItemId": 10000101,
+          "SubTabId": 100001
+        }
+      ],
+      "3006": [
+        {
+          "ShopItemId": 10000103,
+          "SubTabId": 100001
+        }
+      ],
+      "3007": [
+        {
+          "ShopItemId": 10000106,
+          "SubTabId": 100001
+        }
+      ]
+    },
+    "ExploreBadgeShop": {
+      "10100": [
+        {
+          "ShopItemId": 703001,
+          "SubTabId": 7030
+        },
+        {
+          "ShopItemId": 702001,
+          "SubTabId": 7020
+        },
+        {
+          "ShopItemId": 702002,
+          "SubTabId": 7020
+        }
+      ],
+      "2009": [
+        {
+          "ShopItemId": 702004,
+          "SubTabId": 7020
+        }
+      ],
+      "201": [
+        {
+          "ShopItemId": 703002,
+          "SubTabId": 7030
+        },
+        {
+          "ShopItemId": 702005,
+          "SubTabId": 7020
+        },
+        {
+          "ShopItemId": 701001,
+          "SubTabId": 7010
+        }
+      ],
+      "2013": [
+        {
+          "ShopItemId": 702003,
+          "SubTabId": 7020
+        }
+      ],
+      "202": [
+        {
+          "ShopItemId": 702006,
+          "SubTabId": 7020
+        },
+        {
+          "ShopItemId": 703003,
+          "SubTabId": 7030
+        },
+        {
+          "ShopItemId": 701002,
+          "SubTabId": 7010
+        }
+      ]
+    },
+    "FishingShop": {
+      "1001": [
+        {
+          "ShopItemId": 801143,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801132,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801121,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801112,
+          "SubTabId": 8011
+        }
+      ],
+      "101": [
+        {
+          "ShopItemId": 801118,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801140,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801129,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801104,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801109,
+          "SubTabId": 8011
+        }
+      ],
+      "10100": [
+        {
+          "ShopItemId": 801120,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801142,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801131,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801111,
+          "SubTabId": 8011
+        }
+      ],
+      "102": [
+        {
+          "ShopItemId": 801119,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801141,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801130,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801105,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801110,
+          "SubTabId": 8011
+        }
+      ],
+      "2008": [
+        {
+          "ShopItemId": 801102,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801107,
+          "SubTabId": 8011
+        }
+      ],
+      "2009": [
+        {
+          "ShopItemId": 801116,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801127,
+          "SubTabId": 8011
+        }
+      ],
+      "201": [
+        {
+          "ShopItemId": 801145,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801134,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801123,
+          "SubTabId": 8011
+        }
+      ],
+      "2010": [
+        {
+          "ShopItemId": 801138,
+          "SubTabId": 8011
+        }
+      ],
+      "2012": [
+        {
+          "ShopItemId": 801101,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801106,
+          "SubTabId": 8011
+        }
+      ],
+      "2013": [
+        {
+          "ShopItemId": 801115,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801126,
+          "SubTabId": 8011
+        }
+      ],
+      "2014": [
+        {
+          "ShopItemId": 801137,
+          "SubTabId": 8011
+        }
+      ],
+      "202": [
+        {
+          "ShopItemId": 801146,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801135,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801124,
+          "SubTabId": 8011
+        }
+      ],
+      "211": [
+        {
+          "ShopItemId": 801114,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801136,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801125,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801147,
+          "SubTabId": 8011
+        }
+      ],
+      "3001": [
+        {
+          "ShopItemId": 801144,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801113,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801133,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801122,
+          "SubTabId": 8011
+        }
+      ],
+      "3005": [
+        {
+          "ShopItemId": 801103,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801108,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801203,
+          "SubTabId": 8011
+        }
+      ],
+      "3006": [
+        {
+          "ShopItemId": 801139,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801117,
+          "SubTabId": 8011
+        },
+        {
+          "ShopItemId": 801128,
+          "SubTabId": 8011
+        }
+      ],
+      "41013": [
+        {
+          "ShopItemId": 801200,
+          "SubTabId": 8011
+        }
+      ],
+      "5110200": [
+        {
+          "ShopItemId": 801005,
+          "SubTabId": 8010
+        }
+      ],
+      "5110300": [
+        {
+          "ShopItemId": 801006,
+          "SubTabId": 8010
+        }
+      ],
+      "5110400": [
+        {
+          "ShopItemId": 801007,
+          "SubTabId": 8010
+        }
+      ],
+      "5110500": [
+        {
+          "ShopItemId": 801008,
+          "SubTabId": 8010
+        }
+      ],
+      "5210100": [
+        {
+          "ShopItemId": 801001,
+          "SubTabId": 8010
+        }
+      ],
+      "5210200": [
+        {
+          "ShopItemId": 801002,
+          "SubTabId": 8010
+        }
+      ],
+      "5210300": [
+        {
+          "ShopItemId": 801003,
+          "SubTabId": 8010
+        }
+      ],
+      "5210400": [
+        {
+          "ShopItemId": 801004,
+          "SubTabId": 8010
+        }
+      ]
+    },
+    "Rouge": {
+      "101": [
+        {
+          "ShopItemId": 10002103,
+          "SubTabId": 100021
+        },
+        {
+          "ShopItemId": 10002105,
+          "SubTabId": 100021
+        }
+      ],
+      "102": [
+        {
+          "ShopItemId": 10002104,
+          "SubTabId": 100021
+        }
+      ],
+      "2009": [
+        {
+          "ShopItemId": 10002102,
+          "SubTabId": 100021
+        }
+      ],
+      "2013": [
+        {
+          "ShopItemId": 10002101,
+          "SubTabId": 100021
+        }
+      ]
+    },
+    "Shop": {
+      "1001": [
+        {
+          "ShopItemId": 140145,
+          "SubTabId": 1402
+        },
+        {
+          "AccessOrder": 1,
+          "ShopItemId": 150106,
+          "SubTabId": 1501
+        }
+      ],
+      "1001101": [
+        {
+          "ShopItemId": 150116,
+          "SubTabId": 1502
+        }
+      ],
+      "1001103": [
+        {
+          "ShopItemId": 150117,
+          "SubTabId": 1502
+        }
+      ],
+      "1001501": [
+        {
+          "ShopItemId": 150118,
+          "SubTabId": 1502
+        }
+      ],
+      "1001502": [
+        {
+          "ShopItemId": 150119,
+          "SubTabId": 1502
+        }
+      ],
+      "1001801": [
+        {
+          "ShopItemId": 150122,
+          "SubTabId": 1502
+        }
+      ],
+      "1002": [
+        {
+          "ShopItemId": 140142,
+          "SubTabId": 1402
+        },
+        {
+          "ShopItemId": 150115,
+          "SubTabId": 1501
+        }
+      ],
+      "1002101": [
+        {
+          "ShopItemId": 150123,
+          "SubTabId": 1502
+        }
+      ],
+      "1002301": [
+        {
+          "ShopItemId": 150124,
+          "SubTabId": 1502
+        }
+      ],
+      "1003": [
+        {
+          "ShopItemId": 140146,
+          "SubTabId": 1402
+        },
+        {
+          "AccessOrder": 1,
+          "ShopItemId": 150107,
+          "SubTabId": 1501
+        }
+      ],
+      "1003101": [
+        {
+          "ShopItemId": 150126,
+          "SubTabId": 1502
+        }
+      ],
+      "1003103": [
+        {
+          "ShopItemId": 150128,
+          "SubTabId": 1502
+        }
+      ],
+      "1003201": [
+        {
+          "ShopItemId": 150129,
+          "SubTabId": 1502
+        }
+      ],
+      "1003301": [
+        {
+          "ShopItemId": 150131,
+          "SubTabId": 1502
+        }
+      ],
+      "1004101": [
+        {
+          "ShopItemId": 150132,
+          "SubTabId": 1502
+        }
+      ],
+      "1004202": [
+        {
+          "ShopItemId": 150135,
+          "SubTabId": 1502
+        }
+      ],
+      "1004301": [
+        {
+          "ShopItemId": 150136,
+          "SubTabId": 1502
+        }
+      ],
+      "1005101": [
+        {
+          "ShopItemId": 150137,
+          "SubTabId": 1502
+        }
+      ],
+      "1005102": [
+        {
+          "ShopItemId": 150138,
+          "SubTabId": 1502
+        }
+      ],
+      "1005301": [
+        {
+          "ShopItemId": 150139,
+          "SubTabId": 1502
+        }
+      ],
+      "1005401": [
+        {
+          "ShopItemId": 150140,
+          "SubTabId": 1502
+        }
+      ],
+      "101": [
+        {
+          "ShopItemId": 140136,
+          "SubTabId": 1402
+        }
+      ],
+      "102": [
+        {
+          "ShopItemId": 140141,
+          "SubTabId": 1402
+        }
+      ],
+      "2009": [
+        {
+          "ShopItemId": 140137,
+          "SubTabId": 1402
+        }
+      ],
+      "201": [
+        {
+          "ShopItemId": 140143,
+          "SubTabId": 1402
+        },
+        {
+          "ShopItemId": 150104,
+          "SubTabId": 1501
+        }
+      ],
+      "2013": [
+        {
+          "ShopItemId": 140138,
+          "SubTabId": 1402
+        }
+      ],
+      "202": [
+        {
+          "ShopItemId": 140144,
+          "SubTabId": 1402
+        },
+        {
+          "ShopItemId": 150105,
+          "SubTabId": 1501
+        }
+      ],
+      "30101": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140213,
+          "SubTabId": 1401
+        },
+        {
+          "ShopItemId": 140147,
+          "SubTabId": 1402
+        }
+      ],
+      "30102": [
+        {
+          "ShopItemId": 150108,
+          "SubTabId": 1501
+        }
+      ],
+      "30103": [
+        {
+          "ShopItemId": 150109,
+          "SubTabId": 1501
+        }
+      ],
+      "30104": [
+        {
+          "ShopItemId": 150110,
+          "SubTabId": 1501
+        }
+      ],
+      "30105": [
+        {
+          "ShopItemId": 150111,
+          "SubTabId": 1501
+        }
+      ],
+      "30106": [
+        {
+          "ShopItemId": 150112,
+          "SubTabId": 1501
+        }
+      ],
+      "30107": [
+        {
+          "ShopItemId": 150113,
+          "SubTabId": 1501
+        }
+      ],
+      "30108": [
+        {
+          "ShopItemId": 140148,
+          "SubTabId": 1402
+        },
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140214,
+          "SubTabId": 1401
+        }
+      ],
+      "30109": [
+        {
+          "ShopItemId": 150114,
+          "SubTabId": 1501
+        }
+      ],
+      "41002": [
+        {
+          "ShopItemId": 140133,
+          "SubTabId": 1402
+        }
+      ],
+      "41005": [
+        {
+          "ShopItemId": 140134,
+          "SubTabId": 1402
+        }
+      ],
+      "41006": [
+        {
+          "ShopItemId": 140135,
+          "SubTabId": 1402
+        }
+      ],
+      "41012": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140210,
+          "SubTabId": 1401
+        }
+      ],
+      "41014": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140207,
+          "SubTabId": 1401
+        }
+      ],
+      "41015": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140211,
+          "SubTabId": 1401
+        }
+      ],
+      "41016": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140212,
+          "SubTabId": 1401
+        }
+      ],
+      "41017": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140208,
+          "SubTabId": 1401
+        }
+      ],
+      "41018": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140209,
+          "SubTabId": 1401
+        }
+      ],
+      "99": [
+        {
+          "ShopItemId": 110101,
+          "SubTabId": 1101
+        },
+        {
+          "ShopItemId": 110102,
+          "SubTabId": 1101
+        },
+        {
+          "ShopItemId": 110103,
+          "SubTabId": 1101
+        },
+        {
+          "ShopItemId": 110104,
+          "SubTabId": 1101
+        },
+        {
+          "ShopItemId": 110105,
+          "SubTabId": 1101
+        },
+        {
+          "ShopItemId": 110106,
+          "SubTabId": 1101
+        }
+      ]
+    }
+  },
+  "Reward": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": {
+      "140026": [
+        {
+          "ShopItemId": 10002201,
+          "SubTabId": 100022
+        }
+      ],
+      "140027": [
+        {
+          "ShopItemId": 10002202,
+          "SubTabId": 100022
+        }
+      ],
+      "140028": [
+        {
+          "ShopItemId": 10002203,
+          "SubTabId": 100022
+        }
+      ],
+      "140029": [
+        {
+          "ShopItemId": 10002204,
+          "SubTabId": 100022
+        }
+      ],
+      "140030": [
+        {
+          "ShopItemId": 10002205,
+          "SubTabId": 100022
+        }
+      ],
+      "140031": [
+        {
+          "ShopItemId": 10002206,
+          "SubTabId": 100022
+        }
+      ],
+      "140032": [
+        {
+          "ShopItemId": 10002207,
+          "SubTabId": 100022
+        }
+      ],
+      "140033": [
+        {
+          "ShopItemId": 10002208,
+          "SubTabId": 100022
+        }
+      ],
+      "140034": [
+        {
+          "ShopItemId": 10002209,
+          "SubTabId": 100022
+        }
+      ],
+      "140035": [
+        {
+          "ShopItemId": 10002301,
+          "SubTabId": 100023
+        }
+      ],
+      "140036": [
+        {
+          "ShopItemId": 10002302,
+          "SubTabId": 100023
+        }
+      ],
+      "140037": [
+        {
+          "ShopItemId": 10002303,
+          "SubTabId": 100023
+        }
+      ],
+      "140038": [
+        {
+          "ShopItemId": 10002304,
+          "SubTabId": 100023
+        }
+      ],
+      "140039": [
+        {
+          "ShopItemId": 10002305,
+          "SubTabId": 100023
+        }
+      ],
+      "140040": [
+        {
+          "ShopItemId": 10002306,
+          "SubTabId": 100023
+        }
+      ],
+      "140041": [
+        {
+          "ShopItemId": 10002307,
+          "SubTabId": 100023
+        }
+      ],
+      "140042": [
+        {
+          "ShopItemId": 10002308,
+          "SubTabId": 100023
+        }
+      ],
+      "140043": [
+        {
+          "ShopItemId": 10002309,
+          "SubTabId": 100023
+        }
+      ]
+    },
+    "Shop": {
+      "12001": [
+        {
+          "AccessOrder": 8,
+          "ShopItemId": 160301,
+          "SubTabId": 1606
+        }
+      ],
+      "12002": [
+        {
+          "AccessOrder": 7,
+          "ShopItemId": 160302,
+          "SubTabId": 1606
+        }
+      ],
+      "12003": [
+        {
+          "AccessOrder": 6,
+          "ShopItemId": 160303,
+          "SubTabId": 1606
+        }
+      ],
+      "12004": [
+        {
+          "AccessOrder": 5,
+          "ShopItemId": 160304,
+          "SubTabId": 1606
+        }
+      ],
+      "12005": [
+        {
+          "AccessOrder": 3,
+          "ShopItemId": 160306,
+          "SubTabId": 1606
+        }
+      ],
+      "12006": [
+        {
+          "AccessOrder": 1,
+          "ShopItemId": 160308,
+          "SubTabId": 1606
+        }
+      ],
+      "12034": [
+        {
+          "AccessOrder": 4,
+          "ShopItemId": 160305,
+          "SubTabId": 1606
+        }
+      ],
+      "12035": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 160307,
+          "SubTabId": 1606
+        }
+      ],
+      "12036": [
+        {
+          "ShopItemId": 160309,
+          "SubTabId": 1606
+        }
+      ],
+      "12037": [
+        {
+          "ShopItemId": 160310,
+          "SubTabId": 1606
+        }
+      ],
+      "12038": [
+        {
+          "ShopItemId": 160311,
+          "SubTabId": 1606
+        }
+      ],
+      "12039": [
+        {
+          "ShopItemId": 160312,
+          "SubTabId": 1606
+        }
+      ],
+      "12040": [
+        {
+          "ShopItemId": 160313,
+          "SubTabId": 1606
+        }
+      ],
+      "12041": [
+        {
+          "ShopItemId": 160314,
+          "SubTabId": 1606
+        }
+      ],
+      "12042": [
+        {
+          "ShopItemId": 160315,
+          "SubTabId": 1606
+        }
+      ],
+      "12043": [
+        {
+          "ShopItemId": 160204,
+          "SubTabId": 1605
+        }
+      ],
+      "12044": [
+        {
+          "ShopItemId": 160205,
+          "SubTabId": 1605
+        }
+      ],
+      "12045": [
+        {
+          "ShopItemId": 160206,
+          "SubTabId": 1605
+        }
+      ],
+      "12046": [
+        {
+          "ShopItemId": 160207,
+          "SubTabId": 1605
+        }
+      ],
+      "12047": [
+        {
+          "ShopItemId": 160208,
+          "SubTabId": 1605
+        }
+      ],
+      "12048": [
+        {
+          "ShopItemId": 160209,
+          "SubTabId": 1605
+        }
+      ],
+      "12049": [
+        {
+          "ShopItemId": 160210,
+          "SubTabId": 1605
+        }
+      ],
+      "12050": [
+        {
+          "ShopItemId": 160211,
+          "SubTabId": 1605
+        }
+      ],
+      "12051": [
+        {
+          "ShopItemId": 160201,
+          "SubTabId": 1604
+        }
+      ],
+      "12052": [
+        {
+          "ShopItemId": 160202,
+          "SubTabId": 1604
+        }
+      ]
+    }
+  },
+  "Skin": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": {
+      "530101": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140201,
+          "SubTabId": 1401
+        }
+      ]
+    }
+  },
+  "Title": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "TitleFrame": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": []
+  },
+  "Walnut": {
+    "AbyssShop": {
+      "2029": [
+        {
+          "ShopItemId": 10000108,
+          "SubTabId": 100001
+        }
+      ]
+    },
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": {
+      "1000": [
+        {
+          "ShopItemId": 151000,
+          "SubTabId": 1801
+        }
+      ],
+      "1003": [
+        {
+          "ShopItemId": 151003,
+          "SubTabId": 1801
+        }
+      ],
+      "1006": [
+        {
+          "ShopItemId": 151006,
+          "SubTabId": 1801
+        }
+      ],
+      "1009": [
+        {
+          "ShopItemId": 151009,
+          "SubTabId": 1801
+        }
+      ],
+      "1014": [
+        {
+          "ShopItemId": 151014,
+          "SubTabId": 1801
+        }
+      ],
+      "1018": [
+        {
+          "ShopItemId": 151018,
+          "SubTabId": 1801
+        }
+      ],
+      "1019": [
+        {
+          "ShopItemId": 151019,
+          "SubTabId": 1801
+        }
+      ],
+      "1021": [
+        {
+          "ShopItemId": 151021,
+          "SubTabId": 1801
+        }
+      ],
+      "1023": [
+        {
+          "ShopItemId": 151023,
+          "SubTabId": 1801
+        }
+      ],
+      "151321": [
+        {
+          "ShopItemId": 651321,
+          "SubTabId": 1803
+        }
+      ],
+      "151322": [
+        {
+          "ShopItemId": 651322,
+          "SubTabId": 1803
+        }
+      ],
+      "151323": [
+        {
+          "ShopItemId": 651323,
+          "SubTabId": 1803
+        }
+      ],
+      "151324": [
+        {
+          "ShopItemId": 651324,
+          "SubTabId": 1803
+        }
+      ],
+      "151325": [
+        {
+          "ShopItemId": 651325,
+          "SubTabId": 1803
+        }
+      ],
+      "151326": [
+        {
+          "ShopItemId": 651326,
+          "SubTabId": 1803
+        }
+      ],
+      "151331": [
+        {
+          "ShopItemId": 651331,
+          "SubTabId": 1803
+        }
+      ],
+      "151332": [
+        {
+          "ShopItemId": 651332,
+          "SubTabId": 1803
+        }
+      ],
+      "151333": [
+        {
+          "ShopItemId": 651333,
+          "SubTabId": 1803
+        }
+      ],
+      "151334": [
+        {
+          "ShopItemId": 651334,
+          "SubTabId": 1803
+        }
+      ],
+      "151335": [
+        {
+          "ShopItemId": 651335,
+          "SubTabId": 1803
+        }
+      ],
+      "151336": [
+        {
+          "ShopItemId": 651336,
+          "SubTabId": 1803
+        }
+      ],
+      "151711": [
+        {
+          "ShopItemId": 651711,
+          "SubTabId": 1803
+        }
+      ],
+      "151712": [
+        {
+          "ShopItemId": 651712,
+          "SubTabId": 1803
+        }
+      ],
+      "151713": [
+        {
+          "ShopItemId": 651713,
+          "SubTabId": 1803
+        }
+      ],
+      "151714": [
+        {
+          "ShopItemId": 651714,
+          "SubTabId": 1803
+        }
+      ],
+      "151721": [
+        {
+          "ShopItemId": 651721,
+          "SubTabId": 1803
+        }
+      ],
+      "151722": [
+        {
+          "ShopItemId": 651722,
+          "SubTabId": 1803
+        }
+      ],
+      "151723": [
+        {
+          "ShopItemId": 651723,
+          "SubTabId": 1803
+        }
+      ],
+      "151724": [
+        {
+          "ShopItemId": 651724,
+          "SubTabId": 1803
+        }
+      ],
+      "151731": [
+        {
+          "ShopItemId": 651731,
+          "SubTabId": 1803
+        }
+      ],
+      "151732": [
+        {
+          "ShopItemId": 651732,
+          "SubTabId": 1803
+        }
+      ],
+      "151733": [
+        {
+          "ShopItemId": 651733,
+          "SubTabId": 1803
+        }
+      ],
+      "151734": [
+        {
+          "ShopItemId": 651734,
+          "SubTabId": 1803
+        }
+      ],
+      "151741": [
+        {
+          "ShopItemId": 651741,
+          "SubTabId": 1803
+        }
+      ],
+      "151742": [
+        {
+          "ShopItemId": 651742,
+          "SubTabId": 1803
+        }
+      ],
+      "151743": [
+        {
+          "ShopItemId": 651743,
+          "SubTabId": 1803
+        }
+      ],
+      "151744": [
+        {
+          "ShopItemId": 651744,
+          "SubTabId": 1803
+        }
+      ],
+      "151751": [
+        {
+          "ShopItemId": 651751,
+          "SubTabId": 1803
+        }
+      ],
+      "151752": [
+        {
+          "ShopItemId": 651752,
+          "SubTabId": 1803
+        }
+      ],
+      "151753": [
+        {
+          "ShopItemId": 651753,
+          "SubTabId": 1803
+        }
+      ],
+      "151754": [
+        {
+          "ShopItemId": 651754,
+          "SubTabId": 1803
+        }
+      ],
+      "151761": [
+        {
+          "ShopItemId": 651761,
+          "SubTabId": 1803
+        }
+      ],
+      "151762": [
+        {
+          "ShopItemId": 651762,
+          "SubTabId": 1803
+        }
+      ],
+      "151763": [
+        {
+          "ShopItemId": 651763,
+          "SubTabId": 1803
+        }
+      ],
+      "151764": [
+        {
+          "ShopItemId": 651764,
+          "SubTabId": 1803
+        }
+      ],
+      "151911": [
+        {
+          "ShopItemId": 651911,
+          "SubTabId": 1803
+        }
+      ],
+      "151921": [
+        {
+          "ShopItemId": 651921,
+          "SubTabId": 1803
+        }
+      ],
+      "151922": [
+        {
+          "ShopItemId": 651922,
+          "SubTabId": 1803
+        }
+      ],
+      "151931": [
+        {
+          "ShopItemId": 651931,
+          "SubTabId": 1803
+        }
+      ],
+      "151941": [
+        {
+          "ShopItemId": 651941,
+          "SubTabId": 1803
+        }
+      ],
+      "151951": [
+        {
+          "ShopItemId": 651951,
+          "SubTabId": 1803
+        }
+      ],
+      "151952": [
+        {
+          "ShopItemId": 651952,
+          "SubTabId": 1803
+        }
+      ],
+      "151961": [
+        {
+          "ShopItemId": 651961,
+          "SubTabId": 1803
+        }
+      ],
+      "151962": [
+        {
+          "ShopItemId": 651962,
+          "SubTabId": 1803
+        }
+      ],
+      "2001": [
+        {
+          "ShopItemId": 152001,
+          "SubTabId": 1802
+        }
+      ],
+      "2002": [
+        {
+          "ShopItemId": 152002,
+          "SubTabId": 1802
+        }
+      ],
+      "2003": [
+        {
+          "ShopItemId": 152003,
+          "SubTabId": 1802
+        }
+      ],
+      "2004": [
+        {
+          "ShopItemId": 152004,
+          "SubTabId": 1802
+        }
+      ],
+      "2005": [
+        {
+          "ShopItemId": 152005,
+          "SubTabId": 1802
+        }
+      ],
+      "2006": [
+        {
+          "ShopItemId": 152006,
+          "SubTabId": 1802
+        }
+      ],
+      "2007": [
+        {
+          "ShopItemId": 152007,
+          "SubTabId": 1802
+        }
+      ],
+      "2008": [
+        {
+          "ShopItemId": 152008,
+          "SubTabId": 1802
+        }
+      ],
+      "2009": [
+        {
+          "ShopItemId": 152009,
+          "SubTabId": 1802
+        }
+      ],
+      "2010": [
+        {
+          "ShopItemId": 152010,
+          "SubTabId": 1802
+        }
+      ],
+      "2011": [
+        {
+          "ShopItemId": 152011,
+          "SubTabId": 1802
+        }
+      ],
+      "2012": [
+        {
+          "ShopItemId": 152012,
+          "SubTabId": 1802
+        }
+      ],
+      "2013": [
+        {
+          "ShopItemId": 152013,
+          "SubTabId": 1802
+        }
+      ],
+      "2014": [
+        {
+          "ShopItemId": 152014,
+          "SubTabId": 1802
+        }
+      ],
+      "2015": [
+        {
+          "ShopItemId": 152015,
+          "SubTabId": 1802
+        }
+      ],
+      "2016": [
+        {
+          "ShopItemId": 152016,
+          "SubTabId": 1802
+        }
+      ],
+      "2017": [
+        {
+          "ShopItemId": 152017,
+          "SubTabId": 1802
+        }
+      ],
+      "2018": [
+        {
+          "ShopItemId": 152018,
+          "SubTabId": 1802
+        }
+      ],
+      "2019": [
+        {
+          "ShopItemId": 152019,
+          "SubTabId": 1802
+        }
+      ],
+      "2020": [
+        {
+          "ShopItemId": 152020,
+          "SubTabId": 1802
+        }
+      ],
+      "2021": [
+        {
+          "ShopItemId": 152021,
+          "SubTabId": 1802
+        }
+      ],
+      "2022": [
+        {
+          "ShopItemId": 152022,
+          "SubTabId": 1802
+        }
+      ],
+      "2023": [
+        {
+          "ShopItemId": 152023,
+          "SubTabId": 1802
+        }
+      ],
+      "2024": [
+        {
+          "ShopItemId": 152024,
+          "SubTabId": 1802
+        }
+      ],
+      "2025": [
+        {
+          "ShopItemId": 152025,
+          "SubTabId": 1802
+        }
+      ]
+    }
+  },
+  "Weapon": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": {
+      "10101": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159101,
+          "SubTabId": 1503
+        }
+      ],
+      "10102": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159102,
+          "SubTabId": 1503
+        }
+      ],
+      "10103": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159103,
+          "SubTabId": 1503
+        }
+      ],
+      "10104": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159104,
+          "SubTabId": 1503
+        }
+      ],
+      "10105": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159105,
+          "SubTabId": 1503
+        }
+      ],
+      "10201": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159106,
+          "SubTabId": 1503
+        }
+      ],
+      "10202": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159107,
+          "SubTabId": 1503
+        }
+      ],
+      "10204": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159109,
+          "SubTabId": 1503
+        }
+      ],
+      "10206": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159111,
+          "SubTabId": 1503
+        }
+      ],
+      "10301": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159115,
+          "SubTabId": 1503
+        }
+      ],
+      "10302": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159116,
+          "SubTabId": 1503
+        }
+      ],
+      "10303": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159117,
+          "SubTabId": 1503
+        }
+      ],
+      "10401": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159119,
+          "SubTabId": 1503
+        }
+      ],
+      "10402": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159120,
+          "SubTabId": 1503
+        }
+      ],
+      "10403": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159121,
+          "SubTabId": 1503
+        }
+      ],
+      "10501": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159122,
+          "SubTabId": 1503
+        }
+      ],
+      "10503": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159124,
+          "SubTabId": 1503
+        }
+      ],
+      "10504": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159125,
+          "SubTabId": 1503
+        }
+      ],
+      "10601": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159126,
+          "SubTabId": 1503
+        }
+      ],
+      "10602": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159127,
+          "SubTabId": 1503
+        }
+      ],
+      "10603": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159128,
+          "SubTabId": 1503
+        }
+      ],
+      "20101": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159129,
+          "SubTabId": 1503
+        }
+      ],
+      "20102": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159130,
+          "SubTabId": 1503
+        }
+      ],
+      "20103": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159131,
+          "SubTabId": 1503
+        }
+      ],
+      "20201": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159132,
+          "SubTabId": 1503
+        }
+      ],
+      "20203": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159133,
+          "SubTabId": 1503
+        }
+      ],
+      "20205": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159134,
+          "SubTabId": 1503
+        }
+      ],
+      "20301": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159135,
+          "SubTabId": 1503
+        }
+      ],
+      "20303": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159137,
+          "SubTabId": 1503
+        }
+      ],
+      "20304": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159138,
+          "SubTabId": 1503
+        }
+      ],
+      "20305": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159139,
+          "SubTabId": 1503
+        }
+      ],
+      "20401": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159140,
+          "SubTabId": 1503
+        }
+      ],
+      "20402": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159141,
+          "SubTabId": 1503
+        }
+      ],
+      "20403": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159142,
+          "SubTabId": 1503
+        }
+      ],
+      "20405": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159143,
+          "SubTabId": 1503
+        }
+      ],
+      "20501": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159144,
+          "SubTabId": 1503
+        }
+      ],
+      "20502": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159145,
+          "SubTabId": 1503
+        }
+      ],
+      "20503": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159146,
+          "SubTabId": 1503
+        }
+      ],
+      "20504": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159147,
+          "SubTabId": 1503
+        }
+      ],
+      "20507": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159148,
+          "SubTabId": 1503
+        }
+      ],
+      "20601": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159151,
+          "SubTabId": 1503
+        }
+      ],
+      "20602": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159152,
+          "SubTabId": 1503
+        }
+      ],
+      "20603": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 159153,
+          "SubTabId": 1503
+        }
+      ]
+    }
+  },
+  "WeaponAccessory": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": {
+      "10001": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140218,
+          "SubTabId": 1401
+        }
+      ],
+      "10002": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140216,
+          "SubTabId": 1401
+        }
+      ],
+      "10003": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140217,
+          "SubTabId": 1401
+        }
+      ],
+      "10004": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140215,
+          "SubTabId": 1401
+        }
+      ],
+      "10005": [
+        {
+          "ShopItemId": 140120,
+          "SubTabId": 1402
+        }
+      ],
+      "10006": [
+        {
+          "ShopItemId": 140121,
+          "SubTabId": 1402
+        }
+      ],
+      "10007": [
+        {
+          "ShopItemId": 140122,
+          "SubTabId": 1402
+        }
+      ],
+      "10008": [
+        {
+          "ShopItemId": 140123,
+          "SubTabId": 1402
+        }
+      ],
+      "10009": [
+        {
+          "ShopItemId": 140124,
+          "SubTabId": 1402
+        }
+      ],
+      "10010": [
+        {
+          "ShopItemId": 140125,
+          "SubTabId": 1402
+        }
+      ],
+      "10011": [
+        {
+          "ShopItemId": 140126,
+          "SubTabId": 1402
+        }
+      ],
+      "10012": [
+        {
+          "ShopItemId": 140127,
+          "SubTabId": 1402
+        }
+      ],
+      "10013": [
+        {
+          "ShopItemId": 140128,
+          "SubTabId": 1402
+        }
+      ],
+      "10014": [
+        {
+          "ShopItemId": 140129,
+          "SubTabId": 1402
+        }
+      ],
+      "10015": [
+        {
+          "ShopItemId": 140130,
+          "SubTabId": 1402
+        }
+      ],
+      "10016": [
+        {
+          "ShopItemId": 140131,
+          "SubTabId": 1402
+        }
+      ]
+    }
+  },
+  "WeaponSkin": {
+    "AbyssShop": [],
+    "ExploreBadgeShop": [],
+    "FishingShop": [],
+    "Rouge": [],
+    "Shop": {
+      "3010101": [
+        {
+          "ShopItemId": 120103,
+          "SubTabId": 1201
+        }
+      ],
+      "3010201": [
+        {
+          "ShopItemId": 120104,
+          "SubTabId": 1201
+        }
+      ],
+      "3010202": [
+        {
+          "ShopItemId": 120101,
+          "SubTabId": 1201
+        }
+      ],
+      "3010401": [
+        {
+          "AccessOrder": 2,
+          "ShopItemId": 140202,
+          "SubTabId": 1401
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "ArchiveID": 1004,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_All",
+    "TabId": 1,
+    "TabName": "UI_Archive_Tab_AllResource",
+    "TabPara": "AllResource"
+  },
+  {
+    "ArchiveID": 1004,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Item",
+    "TabId": 2,
+    "TabName": "UI_Archive_Tab_NormalResource",
+    "TabPara": "NormalResource"
+  },
+  {
+    "ArchiveID": 1004,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Task",
+    "TabId": 3,
+    "TabName": "UI_Archive_Tab_TaskResource",
+    "TabPara": "TaskResource"
+  },
+  {
+    "ArchiveID": 1006,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Training_All",
+    "TabId": 4,
+    "TabName": "UI_Archive_Tab_AllEnemy",
+    "TabPara": "AllMonster"
+  },
+  {
+    "ArchiveID": 1006,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Training_Infection",
+    "TabId": 5,
+    "TabName": "UI_Archive_Tab_InfectionEnemy",
+    "TabPara": "Mon.Gr"
+  },
+  {
+    "ArchiveID": 1006,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Training_Alliance",
+    "TabId": 6,
+    "TabName": "UI_Archive_Tab_AllianceEnemy",
+    "TabPara": "Mon.Sq"
+  },
+  {
+    "ArchiveID": 1006,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Training_Empire",
+    "TabId": 7,
+    "TabName": "UI_Archive_Tab_EmpireEnemy",
+    "TabPara": "Mon.Jt"
+  },
+  {
+    "ArchiveID": 1006,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Training_Church",
+    "TabId": 8,
+    "TabName": "UI_Archive_Tab_ChurchEnemy",
+    "TabPara": "Mon.Jh"
+  },
+  null,
+  {
+    "ArchiveID": 1006,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Archive_Boss",
+    "TabId": 10,
+    "TabName": "UI_Archive_Tab_BossEnemy",
+    "TabPara": "Mon.Boss"
+  },
+  {
+    "ArchiveID": 1006,
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Training_Other",
+    "TabId": 11,
+    "TabName": "UI_Archive_Tab_OtherEnemy",
+    "TabPara": "OtherMonster"
+  }
+]

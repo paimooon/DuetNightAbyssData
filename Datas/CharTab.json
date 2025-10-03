@@ -1,0 +1,27 @@
+[
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Attr",
+    "TabId": 1,
+    "Text": "UI_Armory_Attribute"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Skill",
+    "TabId": 2,
+    "Text": "UI_Armory_Skill"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_CardLevel",
+    "TabId": 3,
+    "Text": "UI_Armory_Trace"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_ShopClothes",
+    "TabId": 4,
+    "Text": "UI_Armory_Appearance"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Data",
+    "TabId": 5,
+    "Text": "UI_Armory_Information"
+  }
+]

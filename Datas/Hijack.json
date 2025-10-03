@@ -1,0 +1,170 @@
+{
+  "30006": {
+    "CheckpointEilteMonsterNum": [
+      -1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 30006,
+    "ESAbsorbValue": 2
+  },
+  "60801": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 60801,
+    "ESAbsorbValue": 5
+  },
+  "60802": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 60802,
+    "ESAbsorbValue": 5
+  },
+  "62801": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 62801,
+    "ESAbsorbValue": 5
+  },
+  "62802": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 62802,
+    "ESAbsorbValue": 5
+  },
+  "64801": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 64801,
+    "ESAbsorbValue": 5
+  },
+  "64802": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 64802,
+    "ESAbsorbValue": 5
+  },
+  "90701": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 90701,
+    "ESAbsorbValue": 5
+  },
+  "90702": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 90702,
+    "ESAbsorbValue": 5
+  },
+  "90703": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 90703,
+    "ESAbsorbValue": 5
+  },
+  "90704": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 90704,
+    "ESAbsorbValue": 5
+  },
+  "90705": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 90705,
+    "ESAbsorbValue": 5
+  },
+  "90706": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 90706,
+    "ESAbsorbValue": 5
+  },
+  "90707": {
+    "CheckpointEilteMonsterNum": [
+      1,
+      -1
+    ],
+    "CheckpointMonsterNum": [
+      -1,
+      23
+    ],
+    "DungeonID": 90707,
+    "ESAbsorbValue": 5
+  }
+}

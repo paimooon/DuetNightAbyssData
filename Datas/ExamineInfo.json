@@ -1,0 +1,121 @@
+{
+  "1.0": {
+    "ChannelID": 56,
+    "ExamineKey": "1.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  },
+  "10.0": {
+    "ChannelID": 286,
+    "ExamineKey": "10.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  },
+  "11.0": {
+    "ChannelID": 297,
+    "ExamineKey": "11.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  },
+  "12.0": {
+    "ChannelID": 237,
+    "ExamineKey": "12.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 287,
+    "Port": 8000
+  },
+  "13.0": {
+    "ChannelID": 237,
+    "ExamineKey": "13.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 288,
+    "Port": 8000
+  },
+  "14.0": {
+    "ChannelID": 171,
+    "ExamineKey": "14.0",
+    "HostNum": 5003,
+    "IP": "47.91.14.178",
+    "Port": 8000
+  },
+  "15.0": {
+    "ChannelID": 160,
+    "ExamineKey": "15.0"
+  },
+  "16.0": {
+    "ChannelID": 240,
+    "ExamineKey": "16.0"
+  },
+  "2.0": {
+    "ChannelID": 18,
+    "ExamineKey": "2.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  },
+  "3.0": {
+    "ChannelID": 46,
+    "ExamineKey": "3.0",
+    "HostNum": 5002,
+    "IP": "106.14.60.38",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  },
+  "4.0": {
+    "ChannelID": 18,
+    "ExamineKey": "4.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 167,
+    "Port": 8000
+  },
+  "5.0": {
+    "ChannelID": 18,
+    "ExamineKey": "5.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 161,
+    "Port": 8000
+  },
+  "6.0": {
+    "ChannelID": 18,
+    "ExamineKey": "6.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 296,
+    "Port": 8000
+  },
+  "7.0": {
+    "ChannelID": 303,
+    "ExamineKey": "7.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  },
+  "8.0": {
+    "ChannelID": 237,
+    "ExamineKey": "8.0",
+    "HostNum": 5001,
+    "IP": "121.199.19.146",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  },
+  "9.0": {
+    "ChannelID": 269,
+    "ExamineKey": "9.0",
+    "HostNum": 5002,
+    "IP": "106.14.60.38",
+    "MirrorChannelID": 0,
+    "Port": 8000
+  }
+}

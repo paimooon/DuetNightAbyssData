@@ -1,0 +1,2924 @@
+{
+  "Char_Accessory_Purchase_Boy": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Purchase_Boy",
+    "Ease": 14,
+    "Location": [
+      85,
+      445,
+      128
+    ],
+    "Rotation": [
+      0,
+      -5,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Purchase_Girl": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Purchase_Girl",
+    "Ease": 14,
+    "Location": [
+      79,
+      405,
+      110
+    ],
+    "Rotation": [
+      0,
+      -4,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Purchase_Loli": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Purchase_Loli",
+    "Ease": 14,
+    "Location": [
+      71,
+      370,
+      135
+    ],
+    "Rotation": [
+      0,
+      -9,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Purchase_Man": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Purchase_Man",
+    "Ease": 14,
+    "Location": [
+      100,
+      500,
+      130
+    ],
+    "Rotation": [
+      0,
+      -3,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Purchase_Woman": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Purchase_Woman",
+    "Ease": 14,
+    "Location": [
+      84,
+      463,
+      152
+    ],
+    "LocationOffset": {
+      "1502": [
+        15,
+        27,
+        8
+      ]
+    },
+    "Rotation": [
+      0,
+      -7,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Reward_Boy": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Reward_Boy",
+    "Ease": 14,
+    "Location": [
+      -120,
+      445,
+      128
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -30,
+        25,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -5,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Reward_Girl": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Reward_Girl",
+    "Ease": 14,
+    "Location": [
+      -110,
+      405,
+      110
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -30,
+        25,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -4,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Reward_Loli": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Reward_Loli",
+    "Ease": 14,
+    "Location": [
+      -100,
+      370,
+      135
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -30,
+        30,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -9,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Reward_Man": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Reward_Man",
+    "Ease": 14,
+    "Location": [
+      -137,
+      500,
+      130
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -33,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -3,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Accessory_Reward_Woman": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Accessory_Reward_Woman",
+    "Ease": 14,
+    "Location": [
+      -127,
+      463,
+      152
+    ],
+    "LocationOffset": {
+      "1502": [
+        0,
+        27,
+        8
+      ]
+    },
+    "MobileLocationOffset": {
+      "0": [
+        -33,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -7,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Boy": {
+    "BackwardLocation": [
+      -345,
+      -295,
+      90
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      -205,
+      -175,
+      110
+    ],
+    "Location": [
+      -205,
+      -175,
+      110
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Girl": {
+    "BackwardLocation": [
+      -325,
+      -285,
+      90
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      -185,
+      -165,
+      115
+    ],
+    "Location": [
+      -185,
+      -165,
+      115
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Loli": {
+    "BackwardLocation": [
+      -329,
+      -295,
+      90
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      -189,
+      -175,
+      82
+    ],
+    "Location": [
+      -189,
+      -175,
+      82
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Man": {
+    "BackwardLocation": [
+      -325,
+      -295,
+      103
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      -185,
+      -175,
+      140
+    ],
+    "Location": [
+      -185,
+      -175,
+      140
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Switch_Boy": {
+    "BackwardLocation": [
+      -345,
+      -295,
+      90
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Switch_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      -205,
+      -175,
+      110
+    ],
+    "Location": [
+      -205,
+      -175,
+      110
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Switch_Girl": {
+    "BackwardLocation": [
+      -325,
+      -285,
+      90
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Switch_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      -185,
+      -165,
+      115
+    ],
+    "Location": [
+      -185,
+      -165,
+      115
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Switch_Loli": {
+    "BackwardLocation": [
+      -329,
+      -295,
+      90
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Switch_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      -189,
+      -175,
+      82
+    ],
+    "Location": [
+      -189,
+      -175,
+      82
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Switch_Man": {
+    "BackwardLocation": [
+      -325,
+      -295,
+      103
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Switch_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      -185,
+      -175,
+      140
+    ],
+    "Location": [
+      -185,
+      -175,
+      140
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Switch_Woman": {
+    "BackwardLocation": [
+      -325,
+      -285,
+      95
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Switch_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      -185,
+      -165,
+      135
+    ],
+    "Location": [
+      -185,
+      -165,
+      135
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Back_Woman": {
+    "BackwardLocation": [
+      -325,
+      -285,
+      95
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Back_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      -185,
+      -165,
+      135
+    ],
+    "Location": [
+      -185,
+      -165,
+      135
+    ],
+    "Rotation": [
+      0,
+      0,
+      40
+    ],
+    "Time": 1.2
+  },
+  "Char_Boy": {
+    "BackwardLocation": [
+      15,
+      530,
+      84
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      5,
+      130,
+      135
+    ],
+    "Location": [
+      15,
+      385,
+      84
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Boy": {
+    "BackwardLocation": [
+      63,
+      253,
+      164
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      18,
+      70,
+      153
+    ],
+    "Location": [
+      18,
+      70,
+      153
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Girl": {
+    "BackwardLocation": [
+      60,
+      225,
+      136
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      18,
+      65,
+      146
+    ],
+    "Location": [
+      18,
+      65,
+      146
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Loli": {
+    "BackwardLocation": [
+      60,
+      226,
+      105
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      18,
+      66,
+      115
+    ],
+    "Location": [
+      18,
+      66,
+      115
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Man": {
+    "BackwardLocation": [
+      58,
+      225,
+      166
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      16,
+      65,
+      176
+    ],
+    "Location": [
+      16,
+      65,
+      176
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Switch_Boy": {
+    "BackwardLocation": [
+      63,
+      253,
+      164
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Switch_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      18,
+      70,
+      153
+    ],
+    "Location": [
+      18,
+      70,
+      153
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Switch_Girl": {
+    "BackwardLocation": [
+      60,
+      225,
+      136
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Switch_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      18,
+      65,
+      146
+    ],
+    "Location": [
+      18,
+      65,
+      146
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Switch_Loli": {
+    "BackwardLocation": [
+      60,
+      226,
+      105
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Switch_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      18,
+      66,
+      115
+    ],
+    "Location": [
+      18,
+      66,
+      115
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Switch_Man": {
+    "BackwardLocation": [
+      58,
+      225,
+      166
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Switch_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      16,
+      65,
+      176
+    ],
+    "Location": [
+      16,
+      65,
+      176
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Switch_Woman": {
+    "BackwardLocation": [
+      50,
+      195,
+      152
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Switch_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      19,
+      65,
+      161
+    ],
+    "Location": [
+      19,
+      65,
+      161
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Face_Woman": {
+    "BackwardLocation": [
+      50,
+      195,
+      152
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Face_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      19,
+      65,
+      161
+    ],
+    "Location": [
+      19,
+      65,
+      161
+    ],
+    "Rotation": [
+      0,
+      0,
+      -105
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Boy": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Boy",
+    "Ease": 14,
+    "Location": [
+      0,
+      180,
+      135
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Girl": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Girl",
+    "Ease": 14,
+    "Location": [
+      0,
+      180,
+      175
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Loli": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Loli",
+    "Ease": 14,
+    "Location": [
+      0,
+      180,
+      105
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Man": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Man",
+    "Ease": 14,
+    "Location": [
+      0,
+      210,
+      148
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Switch_Boy": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Switch_Boy",
+    "Ease": 14,
+    "Location": [
+      0,
+      180,
+      135
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Switch_Girl": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Switch_Girl",
+    "Ease": 14,
+    "Location": [
+      0,
+      180,
+      155
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Switch_Loli": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Switch_Loli",
+    "Ease": 14,
+    "Location": [
+      0,
+      180,
+      105
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Switch_Man": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Switch_Man",
+    "Ease": 14,
+    "Location": [
+      0,
+      210,
+      148
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Switch_Woman": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Switch_Woman",
+    "Ease": 14,
+    "Location": [
+      0,
+      210,
+      140
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Fx_Woman": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Fx_Woman",
+    "Ease": 14,
+    "Location": [
+      0,
+      210,
+      140
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Girl": {
+    "BackwardLocation": [
+      5,
+      525,
+      84
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      5,
+      130,
+      135
+    ],
+    "Location": [
+      5,
+      375,
+      84
+    ],
+    "LocationOffset": {
+      "1801": [
+        8,
+        0,
+        0
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Boy": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      74,
+      125,
+      153
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      164
+    ],
+    "Location": [
+      74,
+      125,
+      153
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Girl": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      145
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      156
+    ],
+    "Location": [
+      70,
+      120,
+      145
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Loli": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      114
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      125
+    ],
+    "Location": [
+      70,
+      120,
+      114
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Man": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      179
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      190
+    ],
+    "Location": [
+      70,
+      120,
+      179
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Switch_Boy": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      74,
+      125,
+      153
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Switch_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      154
+    ],
+    "Location": [
+      74,
+      125,
+      153
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Switch_Girl": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      145
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Switch_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      147
+    ],
+    "Location": [
+      70,
+      120,
+      145
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Switch_Loli": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      114
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Switch_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      117
+    ],
+    "Location": [
+      70,
+      120,
+      114
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Switch_Man": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      179
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Switch_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      180
+    ],
+    "Location": [
+      70,
+      120,
+      179
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Switch_Woman": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      161
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Switch_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      165
+    ],
+    "Location": [
+      70,
+      120,
+      161
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Head_Woman": {
+    "AccessoryLocationOffset": {
+      "10016": [
+        17,
+        30,
+        15
+      ],
+      "10017": [
+        17,
+        30,
+        15
+      ],
+      "10018": [
+        17,
+        30,
+        15
+      ],
+      "10019": [
+        17,
+        30,
+        8
+      ],
+      "10037": [
+        17,
+        30,
+        8
+      ],
+      "10038": [
+        17,
+        30,
+        8
+      ],
+      "10039": [
+        17,
+        30,
+        8
+      ],
+      "10040": [
+        17,
+        30,
+        8
+      ],
+      "10041": [
+        17,
+        30,
+        8
+      ],
+      "10042": [
+        17,
+        30,
+        8
+      ],
+      "10043": [
+        17,
+        30,
+        8
+      ],
+      "10044": [
+        17,
+        30,
+        8
+      ],
+      "10045": [
+        17,
+        30,
+        8
+      ]
+    },
+    "BackwardLocation": [
+      70,
+      120,
+      161
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Head_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      30,
+      55,
+      172
+    ],
+    "Location": [
+      70,
+      120,
+      161
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Loli": {
+    "BackwardLocation": [
+      5,
+      440,
+      74
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      5,
+      180,
+      99
+    ],
+    "Location": [
+      5,
+      315,
+      69
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Man": {
+    "BackwardLocation": [
+      5,
+      500,
+      99
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      7,
+      150,
+      164
+    ],
+    "Location": [
+      5,
+      445,
+      99
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Purchase_Boy": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Purchase_Boy",
+    "Ease": 14,
+    "Location": [
+      85,
+      445,
+      128
+    ],
+    "Rotation": [
+      0,
+      -5,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Purchase_Girl": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Purchase_Girl",
+    "Ease": 14,
+    "Location": [
+      79,
+      405,
+      110
+    ],
+    "Rotation": [
+      0,
+      -4,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Purchase_Loli": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Purchase_Loli",
+    "Ease": 14,
+    "Location": [
+      71,
+      370,
+      135
+    ],
+    "Rotation": [
+      0,
+      -9,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Purchase_Man": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Purchase_Man",
+    "Ease": 14,
+    "Location": [
+      100,
+      500,
+      130
+    ],
+    "Rotation": [
+      0,
+      -3,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Purchase_Woman": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Purchase_Woman",
+    "Ease": 14,
+    "Location": [
+      84,
+      463,
+      152
+    ],
+    "LocationOffset": {
+      "1502": [
+        15,
+        27,
+        8
+      ]
+    },
+    "Rotation": [
+      0,
+      -7,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Reward_Boy": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Reward_Boy",
+    "Ease": 14,
+    "Location": [
+      -120,
+      445,
+      128
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -30,
+        25,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -5,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Reward_Girl": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Reward_Girl",
+    "Ease": 14,
+    "Location": [
+      -110,
+      405,
+      110
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -30,
+        25,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -4,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Reward_Loli": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Reward_Loli",
+    "Ease": 14,
+    "Location": [
+      -100,
+      370,
+      135
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -30,
+        30,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -9,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Reward_Man": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Reward_Man",
+    "Ease": 14,
+    "Location": [
+      -137,
+      500,
+      130
+    ],
+    "MobileLocationOffset": {
+      "0": [
+        -33,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -3,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Skin_Reward_Woman": {
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Skin_Reward_Woman",
+    "Ease": 14,
+    "Location": [
+      -127,
+      463,
+      152
+    ],
+    "LocationOffset": {
+      "1502": [
+        0,
+        27,
+        8
+      ]
+    },
+    "MobileLocationOffset": {
+      "0": [
+        -33,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      -7,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Boy": {
+    "BackwardLocation": [
+      102,
+      180,
+      141
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      155
+    ],
+    "Location": [
+      42,
+      70,
+      155
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Girl": {
+    "BackwardLocation": [
+      105,
+      184,
+      133
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      45,
+      74,
+      147
+    ],
+    "Location": [
+      45,
+      74,
+      147
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Loli": {
+    "BackwardLocation": [
+      102,
+      180,
+      103
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      117
+    ],
+    "Location": [
+      42,
+      70,
+      117
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Man": {
+    "BackwardLocation": [
+      102,
+      180,
+      166
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      180
+    ],
+    "Location": [
+      42,
+      70,
+      180
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Switch_Boy": {
+    "BackwardLocation": [
+      102,
+      180,
+      141
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Switch_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      155
+    ],
+    "Location": [
+      42,
+      70,
+      155
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Switch_Girl": {
+    "BackwardLocation": [
+      105,
+      184,
+      133
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Switch_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      45,
+      74,
+      147
+    ],
+    "Location": [
+      45,
+      74,
+      147
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Switch_Loli": {
+    "BackwardLocation": [
+      102,
+      180,
+      103
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Switch_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      117
+    ],
+    "Location": [
+      42,
+      70,
+      117
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Switch_Man": {
+    "BackwardLocation": [
+      102,
+      180,
+      166
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Switch_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      180
+    ],
+    "Location": [
+      42,
+      70,
+      180
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Switch_Woman": {
+    "BackwardLocation": [
+      102,
+      180,
+      152
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Switch_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      165
+    ],
+    "Location": [
+      42,
+      70,
+      165
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Special_Woman": {
+    "BackwardLocation": [
+      102,
+      180,
+      152
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Special_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      42,
+      70,
+      165
+    ],
+    "Location": [
+      42,
+      70,
+      165
+    ],
+    "Rotation": [
+      0,
+      0,
+      -120
+    ],
+    "Time": 1.2
+  },
+  "Char_Switch_Boy": {
+    "BackwardLocation": [
+      5,
+      510,
+      84
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Switch_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      5,
+      130,
+      135
+    ],
+    "Location": [
+      5,
+      130,
+      135
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Switch_Girl": {
+    "BackwardLocation": [
+      5,
+      510,
+      84
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Switch_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      5,
+      130,
+      135
+    ],
+    "Location": [
+      5,
+      130,
+      135
+    ],
+    "LocationOffset": {
+      "1801": [
+        3,
+        0,
+        -9
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Switch_Loli": {
+    "BackwardLocation": [
+      5,
+      440,
+      69
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Switch_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      5,
+      180,
+      99
+    ],
+    "Location": [
+      5,
+      180,
+      99
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Switch_Man": {
+    "BackwardLocation": [
+      5,
+      560,
+      94
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Switch_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      7,
+      150,
+      164
+    ],
+    "Location": [
+      7,
+      150,
+      164
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Switch_Woman": {
+    "BackwardLocation": [
+      5,
+      560,
+      89
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Switch_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      4,
+      160,
+      151
+    ],
+    "Location": [
+      4,
+      160,
+      151
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Boy": {
+    "BackwardLocation": [
+      -420,
+      285,
+      75
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      -135,
+      85,
+      90
+    ],
+    "Location": [
+      -135,
+      85,
+      90
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Girl": {
+    "BackwardLocation": [
+      -395,
+      270,
+      85
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      -110,
+      70,
+      100
+    ],
+    "Location": [
+      -110,
+      70,
+      100
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Loli": {
+    "BackwardLocation": [
+      -395,
+      270,
+      85
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      -110,
+      70,
+      78
+    ],
+    "Location": [
+      -110,
+      70,
+      78
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Man": {
+    "BackwardLocation": [
+      -280,
+      180,
+      115
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      -135,
+      85,
+      115
+    ],
+    "Location": [
+      -135,
+      85,
+      115
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Switch_Boy": {
+    "BackwardLocation": [
+      -420,
+      285,
+      75
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Switch_Boy",
+    "Ease": 14,
+    "ForwardLocation": [
+      -135,
+      85,
+      90
+    ],
+    "Location": [
+      -110,
+      70,
+      100
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Switch_Girl": {
+    "BackwardLocation": [
+      -395,
+      270,
+      85
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Switch_Girl",
+    "Ease": 14,
+    "ForwardLocation": [
+      -110,
+      70,
+      100
+    ],
+    "Location": [
+      -110,
+      70,
+      100
+    ],
+    "LocationOffset": {
+      "2101": [
+        0,
+        0,
+        10
+      ]
+    },
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Switch_Loli": {
+    "BackwardLocation": [
+      -395,
+      270,
+      85
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Switch_Loli",
+    "Ease": 14,
+    "ForwardLocation": [
+      -110,
+      70,
+      78
+    ],
+    "Location": [
+      -110,
+      70,
+      78
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Switch_Man": {
+    "BackwardLocation": [
+      -420,
+      285,
+      75
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Switch_Man",
+    "Ease": 14,
+    "ForwardLocation": [
+      -135,
+      85,
+      115
+    ],
+    "Location": [
+      -135,
+      85,
+      90
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Switch_Woman": {
+    "BackwardLocation": [
+      -465,
+      310,
+      95
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Switch_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      -160,
+      105,
+      110
+    ],
+    "Location": [
+      -160,
+      105,
+      110
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Waist_Woman": {
+    "BackwardLocation": [
+      -465,
+      310,
+      95
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Waist_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      -160,
+      105,
+      110
+    ],
+    "Location": [
+      -160,
+      105,
+      110
+    ],
+    "Rotation": [
+      0,
+      0,
+      -35
+    ],
+    "Time": 1.2
+  },
+  "Char_Woman": {
+    "BackwardLocation": [
+      5,
+      500,
+      94
+    ],
+    "CameraFocal": 38.6,
+    "CameraName": "Char_Woman",
+    "Ease": 14,
+    "ForwardLocation": [
+      4,
+      160,
+      151
+    ],
+    "Location": [
+      5,
+      425,
+      94
+    ],
+    "Rotation": [
+      0,
+      0,
+      -90
+    ],
+    "Time": 1.2
+  },
+  "Default": {
+    "CameraFocal": 70,
+    "CameraName": "Default",
+    "Ease": 14,
+    "Location": [
+      1000,
+      -20,
+      -1
+    ],
+    "Rotation": [
+      0,
+      0,
+      180
+    ],
+    "Time": 1.2
+  }
+}

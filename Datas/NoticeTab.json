@@ -1,0 +1,17 @@
+[
+  {
+    "IconPath": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_AnnouncementActivity.T_Tab_AnnouncementActivity'",
+    "TabId": 1,
+    "Text": "UI_Notice_Activity"
+  },
+  {
+    "IconPath": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_AnnouncementSystem.T_Tab_AnnouncementSystem'",
+    "TabId": 2,
+    "Text": "UI_GameAnnouncement_MainTitle"
+  },
+  {
+    "IconPath": "Texture2D'/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_AnnouncementInfo.T_Tab_AnnouncementInfo'",
+    "TabId": 3,
+    "Text": "UI_Notice_News"
+  }
+]

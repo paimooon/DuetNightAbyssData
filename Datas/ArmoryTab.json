@@ -1,0 +1,32 @@
+[
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Role",
+    "TabId": 1,
+    "Text": "UI_Armory_Char"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_CloseIn_Weapons",
+    "TabId": 2,
+    "Text": "UI_Armory_Meleeweapon"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_RangedWeapon",
+    "TabId": 3,
+    "Text": "UI_Armory_Longrange"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_UWeapon",
+    "TabId": 4,
+    "Text": "UI_Armory_Signatureweapon"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_Pet",
+    "TabId": 5,
+    "Text": "MAIN_UI_PET"
+  },
+  {
+    "IconPath": "/Game/UI/Texture/Dynamic/Atlas/Tab/T_Tab_WheelDisc",
+    "TabId": 6,
+    "Text": "UI_Armory_BattleBag"
+  }
+]

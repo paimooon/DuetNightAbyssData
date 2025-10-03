@@ -1,0 +1,1264 @@
+{
+  "ActiveGuide": {
+    "ActionName": "ActiveGuide",
+    "BattleInput": [
+      "LockMonster",
+      "LockMonster",
+      "BulletJump",
+      "BulletJump"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "RS"
+      ],
+      [
+        "LB",
+        "RS"
+      ],
+      [
+        "B",
+        "LS"
+      ],
+      [
+        "B",
+        "LS"
+      ]
+    ]
+  },
+  "Attack": {
+    "ActionName": "Attack",
+    "GamepadIcon": [
+      [
+        "X"
+      ],
+      [
+        "RB"
+      ],
+      [
+        "X"
+      ],
+      [
+        "X"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Left",
+      "RightShoulder",
+      "FaceButton_Left",
+      "FaceButton_Left"
+    ]
+  },
+  "Avoid": {
+    "ActionName": "Avoid",
+    "GamepadIcon": [
+      [
+        "B"
+      ],
+      [
+        "B"
+      ],
+      [
+        "A"
+      ],
+      [
+        "RB"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Right",
+      "FaceButton_Right",
+      "FaceButton_Bottom",
+      "RightShoulder"
+    ]
+  },
+  "BulletJump": {
+    "ActionName": "BulletJump",
+    "GamepadIcon": [
+      [
+        "LS"
+      ],
+      [
+        "LS"
+      ],
+      [
+        "LS"
+      ],
+      [
+        "LS"
+      ]
+    ],
+    "GamepadKey": [
+      "LeftThumbstick",
+      "LeftThumbstick",
+      "LeftThumbstick",
+      "LeftThumbstick"
+    ]
+  },
+  "ChangeCameraLengthDown": {
+    "ActionName": "ChangeCameraLengthDown",
+    "BattleInput": [
+      "DownSelect",
+      "DownSelect",
+      "DownSelect",
+      "DownSelect"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "Down"
+      ],
+      [
+        "LB",
+        "Down"
+      ],
+      [
+        "B",
+        "Down"
+      ],
+      [
+        "B",
+        "Down"
+      ]
+    ]
+  },
+  "ChangeCameraLengthUp": {
+    "ActionName": "ChangeCameraLengthUp",
+    "BattleInput": [
+      "UpSelect",
+      "UpSelect",
+      "UpSelect",
+      "UpSelect"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "Up"
+      ],
+      [
+        "LB",
+        "Up"
+      ],
+      [
+        "B",
+        "Up"
+      ],
+      [
+        "B",
+        "Up"
+      ]
+    ]
+  },
+  "ChargeBullet": {
+    "ActionName": "ChargeBullet",
+    "BattleInput": [
+      "Fire",
+      "Fire",
+      "Fire",
+      "Fire"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "RT"
+      ],
+      [
+        "LB",
+        "RT"
+      ],
+      [
+        "B",
+        "RT"
+      ],
+      [
+        "B",
+        "RT"
+      ]
+    ]
+  },
+  "DownSelect": {
+    "ActionName": "DownSelect",
+    "GamepadIcon": [
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Down",
+      "DPad_Down",
+      "DPad_Down",
+      "DPad_Down"
+    ]
+  },
+  "Fire": {
+    "ActionName": "Fire",
+    "GamepadIcon": [
+      [
+        "RT"
+      ],
+      [
+        "RT"
+      ],
+      [
+        "RT"
+      ],
+      [
+        "RT"
+      ]
+    ],
+    "GamepadKey": [
+      "RightTrigger",
+      "RightTrigger",
+      "RightTrigger",
+      "RightTrigger"
+    ]
+  },
+  "GamepadOpenSystem": {
+    "ActionName": "GamepadOpenSystem",
+    "GamepadIcon": [
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Right",
+      "DPad_Right",
+      "DPad_Right",
+      "DPad_Right"
+    ]
+  },
+  "GamepadUseSkill": {
+    "ActionName": "GamepadUseSkill",
+    "GamepadIcon": [
+      [
+        "LB"
+      ],
+      [
+        "LB"
+      ],
+      [
+        "B"
+      ],
+      [
+        "B"
+      ]
+    ],
+    "GamepadKey": [
+      "LeftShoulder",
+      "LeftShoulder",
+      "FaceButton_Right",
+      "FaceButton_Right"
+    ]
+  },
+  "Interactive": {
+    "ActionName": "Interactive",
+    "GamepadIcon": [
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Top",
+      "FaceButton_Top",
+      "FaceButton_Top",
+      "FaceButton_Top"
+    ]
+  },
+  "ItemDetail": {
+    "ActionName": "ItemDetail",
+    "BattleInput": [
+      "GamepadOpenSystem",
+      "GamepadOpenSystem",
+      "GamepadOpenSystem",
+      "GamepadOpenSystem"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "Right"
+      ],
+      [
+        "LB",
+        "Right"
+      ],
+      [
+        "B",
+        "Right"
+      ],
+      [
+        "B",
+        "Right"
+      ]
+    ]
+  },
+  "Jump": {
+    "ActionName": "Jump",
+    "GamepadIcon": [
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "RB"
+      ],
+      [
+        "A"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "RightShoulder",
+      "FaceButton_Bottom"
+    ]
+  },
+  "LeaveCannon": {
+    "ActionName": "LeaveCannon",
+    "GamepadIcon": [
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "X"
+      ],
+      [
+        "X"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Top",
+      "FaceButton_Top",
+      "FaceButton_Left",
+      "FaceButton_Left"
+    ]
+  },
+  "LockMonster": {
+    "ActionName": "LockMonster",
+    "GamepadIcon": [
+      [
+        "RS"
+      ],
+      [
+        "RS"
+      ],
+      [
+        "RS"
+      ],
+      [
+        "RS"
+      ]
+    ],
+    "GamepadKey": [
+      "RightThumbstick",
+      "RightThumbstick",
+      "RightThumbstick",
+      "RightThumbstick"
+    ]
+  },
+  "OpenArmory": {
+    "ActionName": "OpenArmory",
+    "GamepadIcon": [
+      [
+        "Right",
+        "X"
+      ],
+      [
+        "Right",
+        "X"
+      ],
+      [
+        "Right",
+        "X"
+      ],
+      [
+        "Right",
+        "X"
+      ]
+    ],
+    "SystemInput": [
+      "Attack",
+      "Slide",
+      "Attack",
+      "Attack"
+    ]
+  },
+  "OpenBag": {
+    "ActionName": "OpenBag",
+    "GamepadIcon": [
+      [
+        "Right",
+        "B"
+      ],
+      [
+        "Right",
+        "B"
+      ],
+      [
+        "Right",
+        "B"
+      ],
+      [
+        "Right",
+        "B"
+      ]
+    ],
+    "SystemInput": [
+      "Avoid",
+      "Avoid",
+      "GamepadUseSkill",
+      "GamepadUseSkill"
+    ]
+  },
+  "OpenBattlePass": {
+    "ActionName": "OpenBattlePass",
+    "GamepadIcon": [
+      [
+        "Right",
+        "LB"
+      ],
+      [
+        "Right",
+        "LB"
+      ],
+      [
+        "Right",
+        "LB"
+      ],
+      [
+        "Right",
+        "LB"
+      ]
+    ],
+    "SystemInput": [
+      "GamepadUseSkill",
+      "GamepadUseSkill",
+      "Slide",
+      "Slide"
+    ]
+  },
+  "OpenBattleWheel": {
+    "ActionName": "OpenBattleWheel",
+    "GamepadIcon": [
+      [
+        "LT"
+      ],
+      [
+        "LT"
+      ],
+      [
+        "LT"
+      ],
+      [
+        "LT"
+      ]
+    ],
+    "GamepadKey": [
+      "LeftTrigger",
+      "LeftTrigger",
+      "LeftTrigger",
+      "LeftTrigger"
+    ]
+  },
+  "OpenChat": {
+    "ActionName": "OpenChat",
+    "GamepadIcon": [
+      [
+        "View"
+      ],
+      [
+        "View"
+      ],
+      [
+        "View"
+      ],
+      [
+        "View"
+      ]
+    ]
+  },
+  "OpenEvent": {
+    "ActionName": "OpenEvent",
+    "GamepadIcon": [
+      [
+        "Right",
+        "Y"
+      ],
+      [
+        "Right",
+        "Y"
+      ],
+      [
+        "Right",
+        "Y"
+      ],
+      [
+        "Right",
+        "Y"
+      ]
+    ],
+    "SystemInput": [
+      "Interactive",
+      "Interactive",
+      "Interactive",
+      "Interactive"
+    ]
+  },
+  "OpenForge": {
+    "ActionName": "OpenForge",
+    "GamepadIcon": [
+      [
+        "Right",
+        "RT"
+      ],
+      [
+        "Right",
+        "RT"
+      ],
+      [
+        "Right",
+        "RT"
+      ],
+      [
+        "Right",
+        "RT"
+      ]
+    ],
+    "SystemInput": [
+      "Fire",
+      "Fire",
+      "Fire",
+      "Fire"
+    ]
+  },
+  "OpenGacha": {
+    "ActionName": "OpenGacha",
+    "GamepadIcon": [
+      [
+        "Right",
+        "RB"
+      ],
+      [
+        "Right",
+        "RB"
+      ],
+      [
+        "Right",
+        "RB"
+      ],
+      [
+        "Right",
+        "RB"
+      ]
+    ],
+    "SystemInput": [
+      "Slide",
+      "Attack",
+      "Jump",
+      "Avoid"
+    ]
+  },
+  "OpenGuideBook": {
+    "ActionName": "OpenGuideBook",
+    "BattleInput": [
+      "ShowTeamInfo",
+      "ShowTeamInfo",
+      "ShowTeamInfo",
+      "ShowTeamInfo"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "Left"
+      ],
+      [
+        "LB",
+        "Left"
+      ],
+      [
+        "B",
+        "Left"
+      ],
+      [
+        "B",
+        "Left"
+      ]
+    ]
+  },
+  "OpenMap": {
+    "ActionName": "OpenMap",
+    "GamepadIcon": [
+      [
+        "View"
+      ],
+      [
+        "View"
+      ],
+      [
+        "View"
+      ],
+      [
+        "View"
+      ]
+    ],
+    "GamepadKey": [
+      "Special_Left",
+      "Special_Left",
+      "Special_Left",
+      "Special_Left"
+    ]
+  },
+  "OpenMenu": {
+    "ActionName": "OpenMenu",
+    "GamepadIcon": [
+      [
+        "Menu"
+      ],
+      [
+        "Menu"
+      ],
+      [
+        "Menu"
+      ],
+      [
+        "Menu"
+      ]
+    ],
+    "GamepadKey": [
+      "Special_Right",
+      "Special_Right",
+      "Special_Right",
+      "Special_Right"
+    ]
+  },
+  "OpenPlay": {
+    "ActionName": "OpenPlay",
+    "GamepadIcon": [
+      [
+        "Right",
+        "A"
+      ],
+      [
+        "Right",
+        "A"
+      ],
+      [
+        "Right",
+        "A"
+      ],
+      [
+        "Right",
+        "A"
+      ]
+    ],
+    "SystemInput": [
+      "Jump",
+      "Jump",
+      "Avoid",
+      "Jump"
+    ]
+  },
+  "OpenTask": {
+    "ActionName": "OpenTask",
+    "GamepadIcon": [
+      [
+        "Right",
+        "LT"
+      ],
+      [
+        "Right",
+        "LT"
+      ],
+      [
+        "Right",
+        "LT"
+      ],
+      [
+        "Right",
+        "LT"
+      ]
+    ],
+    "SystemInput": [
+      "OpenBattleWheel",
+      "OpenBattleWheel",
+      "OpenBattleWheel",
+      "OpenBattleWheel"
+    ]
+  },
+  "QuitChallenge": {
+    "ActionName": "QuitChallenge",
+    "GamepadIcon": [
+      [
+        "Right",
+        "RS"
+      ],
+      [
+        "Right",
+        "RS"
+      ],
+      [
+        "Right",
+        "RS"
+      ],
+      [
+        "Right",
+        "RS"
+      ]
+    ],
+    "SystemInput": [
+      "LockMonster",
+      "LockMonster",
+      "LockMonster",
+      "LockMonster"
+    ]
+  },
+  "Recovery": {
+    "ActionName": "Recovery",
+    "GamepadIcon": [
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Top",
+      "FaceButton_Top",
+      "FaceButton_Top",
+      "FaceButton_Top"
+    ]
+  },
+  "RougeOpenBag": {
+    "ActionName": "RougeOpenBag",
+    "GamepadIcon": [
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Right",
+      "DPad_Right",
+      "DPad_Right",
+      "DPad_Right"
+    ]
+  },
+  "ShowTeamInfo": {
+    "ActionName": "ShowTeamInfo",
+    "GamepadIcon": [
+      [
+        "Left"
+      ],
+      [
+        "Left"
+      ],
+      [
+        "Left"
+      ],
+      [
+        "Left"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Left",
+      "DPad_Left",
+      "DPad_Left",
+      "DPad_Left"
+    ]
+  },
+  "Skill1": {
+    "ActionName": "Skill1",
+    "BattleInput": [
+      "Attack",
+      "Slide",
+      "Slide",
+      "Slide"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "X"
+      ],
+      [
+        "LB",
+        "X"
+      ],
+      [
+        "B",
+        "LB"
+      ],
+      [
+        "B",
+        "LB"
+      ]
+    ]
+  },
+  "Skill2": {
+    "ActionName": "Skill2",
+    "BattleInput": [
+      "Interactive",
+      "Interactive",
+      "Jump",
+      "Avoid"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "Y"
+      ],
+      [
+        "LB",
+        "Y"
+      ],
+      [
+        "B",
+        "RB"
+      ],
+      [
+        "B",
+        "RB"
+      ]
+    ]
+  },
+  "Skill3": {
+    "ActionName": "Skill3",
+    "BattleInput": [
+      "Avoid",
+      "Avoid",
+      "Interactive",
+      "Interactive"
+    ],
+    "GamepadIcon": [
+      [
+        "LB",
+        "B"
+      ],
+      [
+        "LB",
+        "B"
+      ],
+      [
+        "B",
+        "Y"
+      ],
+      [
+        "B",
+        "Y"
+      ]
+    ]
+  },
+  "Slide": {
+    "ActionName": "Slide",
+    "GamepadIcon": [
+      [
+        "RB"
+      ],
+      [
+        "X"
+      ],
+      [
+        "LB"
+      ],
+      [
+        "LB"
+      ]
+    ],
+    "GamepadKey": [
+      "RightShoulder",
+      "FaceButton_Left",
+      "LeftShoulder",
+      "LeftShoulder"
+    ]
+  },
+  "StoryInteractive": {
+    "ActionName": "StoryInteractive",
+    "GamepadIcon": [
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom"
+    ]
+  },
+  "StoryInteractiveClose": {
+    "ActionName": "StoryInteractiveClose",
+    "GamepadIcon": [
+      [
+        "B"
+      ],
+      [
+        "B"
+      ],
+      [
+        "B"
+      ],
+      [
+        "B"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Right",
+      "FaceButton_Right",
+      "FaceButton_Right",
+      "FaceButton_Right"
+    ]
+  },
+  "TalkAutoPlay": {
+    "ActionName": "TalkAutoPlay",
+    "GamepadIcon": [
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "Y"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Top",
+      "FaceButton_Top",
+      "FaceButton_Top",
+      "FaceButton_Top"
+    ]
+  },
+  "TalkClick": {
+    "ActionName": "TalkClick",
+    "GamepadIcon": [
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom"
+    ]
+  },
+  "TalkDownSelect": {
+    "ActionName": "TalkDownSelect",
+    "GamepadIcon": [
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Down",
+      "DPad_Down",
+      "DPad_Down",
+      "DPad_Down"
+    ]
+  },
+  "TalkExit": {
+    "ActionName": "TalkExit",
+    "GamepadIcon": [
+      [
+        "B"
+      ],
+      [
+        "B"
+      ],
+      [
+        "B"
+      ],
+      [
+        "B"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Right",
+      "FaceButton_Right",
+      "FaceButton_Right",
+      "FaceButton_Right"
+    ]
+  },
+  "TalkOption": {
+    "ActionName": "TalkOption",
+    "GamepadIcon": [
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom"
+    ]
+  },
+  "TalkReview": {
+    "ActionName": "TalkReview",
+    "GamepadIcon": [
+      [
+        "View"
+      ],
+      [
+        "View"
+      ],
+      [
+        "View"
+      ],
+      [
+        "View"
+      ]
+    ],
+    "GamepadKey": [
+      "Special_Left",
+      "Special_Left",
+      "Special_Left",
+      "Special_Left"
+    ]
+  },
+  "TalkSkip": {
+    "ActionName": "TalkSkip",
+    "GamepadIcon": [
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ],
+      [
+        "A"
+      ]
+    ],
+    "GamepadKey": [
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom",
+      "FaceButton_Bottom"
+    ]
+  },
+  "TalkUpSelect": {
+    "ActionName": "TalkUpSelect",
+    "GamepadIcon": [
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Up",
+      "DPad_Up",
+      "DPad_Up",
+      "DPad_Up"
+    ]
+  },
+  "TalkWiki": {
+    "ActionName": "TalkWiki",
+    "GamepadIcon": [
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ],
+      [
+        "Right"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Right",
+      "DPad_Right",
+      "DPad_Right",
+      "DPad_Right"
+    ]
+  },
+  "TrainingCharacterSkills": {
+    "ActionName": "TrainingCharacterSkills",
+    "GamepadIcon": [
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Up",
+      "DPad_Up",
+      "DPad_Up",
+      "DPad_Up"
+    ]
+  },
+  "TrainingKillMonsters": {
+    "ActionName": "TrainingKillMonsters",
+    "GamepadIcon": [
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ],
+      [
+        "Down"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Down",
+      "DPad_Down",
+      "DPad_Down",
+      "DPad_Down"
+    ]
+  },
+  "TrainingOpenSetup": {
+    "ActionName": "TrainingOpenSetup",
+    "GamepadIcon": [
+      [
+        "Left"
+      ],
+      [
+        "Left"
+      ],
+      [
+        "Left"
+      ],
+      [
+        "Left"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Left",
+      "DPad_Left",
+      "DPad_Left",
+      "DPad_Left"
+    ]
+  },
+  "UpSelect": {
+    "ActionName": "UpSelect",
+    "GamepadIcon": [
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ],
+      [
+        "Up"
+      ]
+    ],
+    "GamepadKey": [
+      "DPad_Up",
+      "DPad_Up",
+      "DPad_Up",
+      "DPad_Up"
+    ]
+  }
+}

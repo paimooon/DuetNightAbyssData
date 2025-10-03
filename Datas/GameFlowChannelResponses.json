@@ -1,0 +1,56 @@
+{
+  "GetItemPage": {
+    "Channel": "GetItemPage",
+    "GetItemPage": "Ignore",
+    "ImmersiveStory": "Block",
+    "OpenSystemUI": "Ignore",
+    "SkillFeature": "Block",
+    "SystemGuideWithUI": "Block",
+    "SystemGuideWithoutUI": "Block"
+  },
+  "ImmersiveStory": {
+    "Channel": "ImmersiveStory",
+    "GetItemPage": "Block",
+    "ImmersiveStory": "Block",
+    "OpenSystemUI": "Block",
+    "SkillFeature": "Block",
+    "SystemGuideWithUI": "Ignore",
+    "SystemGuideWithoutUI": "Block"
+  },
+  "OpenSystemUI": {
+    "Channel": "OpenSystemUI",
+    "GetItemPage": "Ignore",
+    "ImmersiveStory": "Block",
+    "OpenSystemUI": "Ignore",
+    "SkillFeature": "Ignore",
+    "SystemGuideWithUI": "Ignore",
+    "SystemGuideWithoutUI": "Ignore"
+  },
+  "SkillFeature": {
+    "Channel": "SkillFeature",
+    "GetItemPage": "Block",
+    "ImmersiveStory": "Block",
+    "OpenSystemUI": "Ignore",
+    "SkillFeature": "Block",
+    "SystemGuideWithUI": "Block",
+    "SystemGuideWithoutUI": "Block"
+  },
+  "SystemGuideWithUI": {
+    "Channel": "SystemGuideWithUI",
+    "GetItemPage": "Block",
+    "ImmersiveStory": "Ignore",
+    "OpenSystemUI": "Ignore",
+    "SkillFeature": "Block",
+    "SystemGuideWithUI": "Block",
+    "SystemGuideWithoutUI": "Block"
+  },
+  "SystemGuideWithoutUI": {
+    "Channel": "SystemGuideWithoutUI",
+    "GetItemPage": "Block",
+    "ImmersiveStory": "Block",
+    "OpenSystemUI": "Block",
+    "SkillFeature": "Block",
+    "SystemGuideWithUI": "Block",
+    "SystemGuideWithoutUI": "Block"
+  }
+}

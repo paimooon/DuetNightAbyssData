@@ -1,0 +1,79 @@
+[
+  {
+    "ID": 1,
+    "Key": "Char",
+    "Sequence": 100,
+    "Source": 1,
+    "SubSourceName": "PlayerLevel_FirstObtain_Char"
+  },
+  {
+    "ID": 2,
+    "Key": "CharBreak",
+    "Sequence": 90,
+    "Source": 1,
+    "SubSourceName": "PlayerLevel_CharBreak"
+  },
+  {
+    "ID": 3,
+    "Key": "CharCardLevelUp",
+    "Sequence": 80,
+    "Source": 1,
+    "SubSourceName": "PlayerLevel_CharIntron"
+  },
+  {
+    "ID": 4,
+    "Key": "Weapon",
+    "Sequence": 100,
+    "Source": 2,
+    "SubSourceName": "PlayerLevel_FirstObtain_Weapon"
+  },
+  {
+    "ID": 5,
+    "Key": "WeaponBreak",
+    "Sequence": 90,
+    "Source": 2,
+    "SubSourceName": "PlayerLevel_WeaponBreak"
+  },
+  {
+    "ID": 6,
+    "Key": "WeaponCardLevel",
+    "Sequence": 80,
+    "Source": 2,
+    "SubSourceName": "PlayerLevel_WeaponSmelt"
+  },
+  {
+    "ID": 7,
+    "Key": "Pet",
+    "Sequence": 100,
+    "Source": 3,
+    "SubSourceName": "PlayerLevel_FirstObtain_Pet"
+  },
+  {
+    "ID": 8,
+    "Key": "PetBreak",
+    "Sequence": 90,
+    "Source": 3,
+    "SubSourceName": "PlayerLevel_PetBreak"
+  },
+  {
+    "ID": 9,
+    "Key": "Mod",
+    "Sequence": 100,
+    "Source": 4,
+    "SubSourceName": "PlayerLevel_FirstObtain_Mod"
+  },
+  {
+    "ID": 10,
+    "Key": "Quest",
+    "Sequence": 100,
+    "Source": 5,
+    "SubSourceName": "PlayerLevel_Quests"
+  },
+  {
+    "ID": 11,
+    "Key": "Daily",
+    "Sequence": 90,
+    "Source": 5,
+    "SubSourceName": "PlayerLevel_DailyGoal"
+  }
+]

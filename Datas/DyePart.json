@@ -1,0 +1,30 @@
+[
+  {
+    "PartID": 1
+  },
+  {
+    "PartID": 2
+  },
+  {
+    "PartID": 3
+  },
+  {
+    "PartID": 4
+  },
+  {
+    "PartID": 5
+  },
+  {
+    "PartID": 6
+  },
+  {
+    "PartID": 7
+  },
+  {
+    "ColorID": [
+      1001,
+      1024
+    ],
+    "PartID": 8
+  }
+]

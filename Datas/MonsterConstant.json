@@ -1,0 +1,14 @@
+{
+  "OutBattleBornPointDis": {
+    "ConstantName": "OutBattleBornPointDis",
+    "ConstantValue": 5000
+  },
+  "OutBattleTargetBornPointDis": {
+    "ConstantName": "OutBattleTargetBornPointDis",
+    "ConstantValue": 10000
+  },
+  "OutBattleTargetDis": {
+    "ConstantName": "OutBattleTargetDis",
+    "ConstantValue": 10000
+  }
+}

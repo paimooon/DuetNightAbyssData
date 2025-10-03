@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "UI_Armory_Char",
+    "TabId": 1
+  },
+  {
+    "Name": "UI_BAG_Meleeweapon",
+    "TabId": 2
+  },
+  {
+    "Name": "UI_BAG_Longrange",
+    "TabId": 3
+  }
+]

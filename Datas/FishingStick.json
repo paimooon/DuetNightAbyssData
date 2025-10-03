@@ -1,0 +1,13 @@
+[
+  {
+    "FishingStickId": 1,
+    "MoveCurve": [
+      "OutSine",
+      "InSine"
+    ],
+    "MoveParam": [
+      1.5,
+      0.9
+    ]
+  }
+]

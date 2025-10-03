@@ -1,0 +1,72 @@
+{
+  "10001": {
+    "BeginTime": 1743454800,
+    "BuyReward": 70001,
+    "CardID": 10001,
+    "DailyReward": 70002,
+    "EndTime": 1746046800,
+    "GoodsId": "com.hero.dna.Pay_107",
+    "Name": "RESOURCE_NAME_121",
+    "UniqueReward": 81010
+  },
+  "10002": {
+    "BeginTime": 1746046800,
+    "BuyReward": 70001,
+    "CardID": 10002,
+    "DailyReward": 70002,
+    "EndTime": 1748638800,
+    "GoodsId": "com.hero.dna.Pay_107",
+    "Name": "RESOURCE_NAME_121",
+    "UniqueReward": 81011
+  },
+  "10003": {
+    "BeginTime": 1748638800,
+    "BuyReward": 70001,
+    "CardID": 10003,
+    "DailyReward": 70002,
+    "EndTime": 1751230800,
+    "GoodsId": "com.hero.dna.Pay_107",
+    "Name": "RESOURCE_NAME_122",
+    "UniqueReward": 81010
+  },
+  "10004": {
+    "BeginTime": 1751230800,
+    "BuyReward": 70001,
+    "CardID": 10004,
+    "DailyReward": 70002,
+    "EndTime": 1753822800,
+    "GoodsId": "com.hero.dna.Pay_107",
+    "Name": "RESOURCE_NAME_122",
+    "UniqueReward": 81010
+  },
+  "10005": {
+    "BeginTime": 1753822800,
+    "BuyReward": 70001,
+    "CardID": 10005,
+    "DailyReward": 70002,
+    "EndTime": 1756414800,
+    "GoodsId": "com.hero.dna.Pay_107",
+    "Name": "RESOURCE_NAME_122",
+    "UniqueReward": 81010
+  },
+  "10006": {
+    "BeginTime": 1756414800,
+    "BuyReward": 70001,
+    "CardID": 10006,
+    "DailyReward": 70002,
+    "EndTime": 1759006800,
+    "GoodsId": "com.hero.dna.Pay_107",
+    "Name": "RESOURCE_NAME_122",
+    "UniqueReward": 81010
+  },
+  "10007": {
+    "BeginTime": 1759006800,
+    "BuyReward": 70001,
+    "CardID": 10007,
+    "DailyReward": 70002,
+    "EndTime": 1761598800,
+    "GoodsId": "com.hero.dna.Pay_107",
+    "Name": "RESOURCE_NAME_122",
+    "UniqueReward": 81010
+  }
+}
