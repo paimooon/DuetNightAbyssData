@@ -1021,7 +1021,7 @@
     "UnitSpawnId": 100601,
     "UnitSpawnRadiusMax": 10000,
     "UnitSpawnRadiusMin": 1500,
-    "UnitSpawnTotalNum": -1
+    "UnitSpawnTotalNum": 400
   },
   "100602": {
     "CheckVision": true,
@@ -1089,7 +1089,7 @@
     "UnitSpawnId": 100602,
     "UnitSpawnRadiusMax": 5000,
     "UnitSpawnRadiusMin": 1000,
-    "UnitSpawnTotalNum": -1
+    "UnitSpawnTotalNum": 400
   },
   "100603": {
     "CheckVision": true,
@@ -1157,7 +1157,7 @@
     "UnitSpawnId": 100603,
     "UnitSpawnRadiusMax": 5000,
     "UnitSpawnRadiusMin": 1000,
-    "UnitSpawnTotalNum": -1
+    "UnitSpawnTotalNum": 400
   },
   "100604": {
     "CheckVision": true,
@@ -1225,7 +1225,7 @@
     "UnitSpawnId": 100604,
     "UnitSpawnRadiusMax": 5000,
     "UnitSpawnRadiusMin": 1000,
-    "UnitSpawnTotalNum": -1
+    "UnitSpawnTotalNum": 400
   },
   "100605": {
     "CheckVision": true,
@@ -1293,7 +1293,7 @@
     "UnitSpawnId": 100605,
     "UnitSpawnRadiusMax": 5000,
     "UnitSpawnRadiusMin": 1000,
-    "UnitSpawnTotalNum": -1
+    "UnitSpawnTotalNum": 400
   },
   "100606": {
     "CheckVision": true,
@@ -1361,7 +1361,7 @@
     "UnitSpawnId": 100606,
     "UnitSpawnRadiusMax": 10000,
     "UnitSpawnRadiusMin": 1500,
-    "UnitSpawnTotalNum": -1
+    "UnitSpawnTotalNum": 400
   },
   "10101": {
     "CanEscapeBattle": false,
@@ -14010,7 +14010,7 @@
     "UnitSpawnId": 601,
     "UnitSpawnRadiusMax": 5000,
     "UnitSpawnRadiusMin": 1000,
-    "UnitSpawnTotalNum": -1
+    "UnitSpawnTotalNum": 400
   },
   "60155": {
     "GroupSpawnId": 60155,
